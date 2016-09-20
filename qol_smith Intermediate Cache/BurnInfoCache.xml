@@ -63,7 +63,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\common\toggle_ability\auto_heal_disable_mp.xml</FileName>
-			<FileHash>2c39255c1d3c17492bd27537fab64068</FileHash>
+			<FileHash>1890d70e886c907aa18dad9962037ddc</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\german\modal_ability\infantry_medkits_mp.xml</FileName>
@@ -156,6 +156,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\buildings\defensive_structures\brit_forward_hq_mp.xml</FileName>
 			<FileHash>9a6ef3ebc7f7fa487e2a2179a02e8b63</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\buildings\defensive_structures\brit_sandbag_fence.xml</FileName>
+			<FileHash>4d98ab4c715c6f9ce6f15ee2a1ae6106</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\soldiers\commando\commando_mp.xml</FileName>

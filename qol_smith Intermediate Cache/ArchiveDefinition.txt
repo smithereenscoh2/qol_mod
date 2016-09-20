@@ -41,6 +41,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\base_building\british_hq\british_hq_truck_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\defensive_structures\brit_forward_hq_commander_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\defensive_structures\brit_forward_hq_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\defensive_structures\brit_sandbag_fence.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\soldiers\commando\commando_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\churchill\churchill_avre_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\churchill\churchill_crocodile_backup_mp.rgd
@@ -81,8 +82,6 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\west_german\research\medhq_healing_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\small_arms\machine_gun\light_machine_gun\aef_dummy_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\machine_gun\light_machine_gun\halftrack_250_dummy.rgd
-	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\single_fire\rifle\g43_sniper_incendiary_mp.rgd
-	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\single_fire\rifle\g43_sniper_sniper_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\boys_at_rifle_sniper_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\churchill_avre_cupola_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\churchill_croc_cupola_dummy_mp.rgd
