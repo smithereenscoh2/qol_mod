@@ -74,8 +74,8 @@
 							<float name="in_combat_since" value="-1" />
 							<bool name="injured" value="True" />
 							<bool name="leader" value="False" />
-							<bool name="not_moving" value="True" />
-							<bool name="not_retreating" value="True" />
+							<bool name="not_moving" value="False" />
+							<bool name="not_retreating" value="False" />
 							<bool name="pinned" value="False" />
 							<bool name="suppressed" value="False" />
 							<bool name="camouflaged" value="False" />

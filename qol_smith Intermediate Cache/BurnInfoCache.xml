@@ -2,383 +2,367 @@
 <BurnInfoRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith.xml</FileName>
 			<FileHash>0532a66e96739047da2837c2ee3039bb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\aef\always_on_ability\medic_auto_heal.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\always_on_ability\medic_auto_heal.xml</FileName>
 			<FileHash>b9769b3f0f03ef2acf0bf7a169eaf160</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\aef\modal_ability\usf_medic_heal_mp.xml</FileName>
-			<FileHash>8447e00982d028023de0e7d7ec481fe6</FileHash>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\usf_medic_heal_mp.xml</FileName>
+			<FileHash>e87f7cea9f3df3c53e1a14071d28c5a6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\aef\timed_ability\ambulance_heal_area.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\timed_ability\ambulance_heal_area.xml</FileName>
 			<FileHash>7fb17bee9b75e6e37b3152626b12da47</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp.xml</FileName>
 			<FileHash>d0a5d9e2311316da565866d5919c7b37</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\british\always_on_ability\brit_medic_tommy_passive_area_heal_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\always_on_ability\brit_medic_tommy_passive_area_heal_mp.xml</FileName>
 			<FileHash>b8d1a8b75f551e33cf6445b85b3c5e9d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\british\always_on_ability\commando_infiltration_camouflage_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\always_on_ability\commando_infiltration_camouflage_mp.xml</FileName>
 			<FileHash>5fe3e85ec91b468d1972bc4a565f7bdf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\british\modal_ability\accessory_weapons\crococile_manual_aim2_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\accessory_weapons\crococile_manual_aim2_mp.xml</FileName>
 			<FileHash>5ba3e67b59d7581e94b70c38184d247c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\british\modal_ability\accessory_weapons\crococile_manual_aim_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\accessory_weapons\crococile_manual_aim_mp.xml</FileName>
 			<FileHash>07eefdc54d25cd6df2e9809ae64f978d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\british\modal_ability\grenades\cover_smoke_grenades.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\grenades\cover_smoke_grenades.xml</FileName>
 			<FileHash>96915803091f472a12e73cd721c8e0ba</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\british\timed_ability\brit_medic_tommy_timed_area_heal_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\timed_ability\brit_medic_tommy_timed_area_heal_mp.xml</FileName>
 			<FileHash>a8386a2c9413a6f9df202c590ccba91f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\british\toggle_ability\brit_hold_fire_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\toggle_ability\brit_hold_fire_mp.xml</FileName>
 			<FileHash>154382de15e1e3158d94f85f097a9a7c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\british\toggle_ability\brit_vehicle_hold_fire_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\toggle_ability\brit_vehicle_hold_fire_mp.xml</FileName>
 			<FileHash>3c9c958d97d8e4fa5b731cb6fda58df1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\british\toggle_ability\crocodile_toggle_auto_face_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\toggle_ability\crocodile_toggle_auto_face_mp.xml</FileName>
 			<FileHash>46d26ebc051b7001016a2e0dfa51ac83</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\common\toggle_ability\auto_face_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\common\toggle_ability\auto_face_mp.xml</FileName>
 			<FileHash>770beaa8b32cf799b1b16b4d0cd6864d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\common\toggle_ability\auto_heal_disable_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\common\toggle_ability\auto_heal_disable_mp.xml</FileName>
 			<FileHash>1890d70e886c907aa18dad9962037ddc</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\german\modal_ability\infantry_medkits_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\modal_ability\infantry_medkits_mp.xml</FileName>
 			<FileHash>739f07322d3de0840ef87daae8ed901b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\german\toggle_ability\wehr_vehicle_hold_fire_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\toggle_ability\wehr_vehicle_hold_fire_mp.xml</FileName>
 			<FileHash>9d88e9631348977cf39221f4430ff0c5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\soviet\toggle_ability\sov_vehicle_hold_fire_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\soviet\toggle_ability\sov_vehicle_hold_fire_mp.xml</FileName>
 			<FileHash>71406f508a7cf9b10979c7dd16323bd6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\soviet\toggle_ability\commander_ability\at_gun_ambush_tactics.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\soviet\toggle_ability\commander_ability\at_gun_ambush_tactics.xml</FileName>
 			<FileHash>b9943719f5c309c3082ebef54cc8752b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\west_german\toggle_ability\okw_ratken_vehicle_hold_fire_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\toggle_ability\okw_ratken_vehicle_hold_fire_mp.xml</FileName>
 			<FileHash>e58f6673b17ba0ff135000c6397be932</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\west_german\toggle_ability\okw_vehicle_hold_fire_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\toggle_ability\okw_vehicle_hold_fire_mp.xml</FileName>
 			<FileHash>1f4e12752d70415633def25d1bf42c67</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\abilities\west_german\toggle_ability\rakten_camouflage_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\toggle_ability\rakten_camouflage_mp.xml</FileName>
 			<FileHash>39a42068cf1acc8960746980f7f61555</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\aura\aef_auras\ambulance_healing_aura_high_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\aef_auras\ambulance_healing_aura_high_mp.xml</FileName>
 			<FileHash>1d4fd80c0c0b692501ddd42ff53a2003</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\aura\aef_auras\ambulance_healing_aura_low_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\aef_auras\ambulance_healing_aura_low_mp.xml</FileName>
 			<FileHash>d481c90610b8c32a2553183e0d0b4321</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\aura\aef_auras\ambulance_healing_aura_mid_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\aef_auras\ambulance_healing_aura_mid_mp.xml</FileName>
 			<FileHash>e676b3282a124bf9bb088c6fb8bf4f38</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\aura\british_auras\fhq_tommy_aura_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\british_auras\fhq_tommy_aura_mp.xml</FileName>
 			<FileHash>c03b2d3f1d0c1b6b27ede2408c0533e1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\aura\british_auras\tommy_medic_healing_aura_high_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\british_auras\tommy_medic_healing_aura_high_mp.xml</FileName>
 			<FileHash>98c9548f5cf5f4bc430956c1dc47773b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\aura\british_auras\tommy_medic_healing_aura_low_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\british_auras\tommy_medic_healing_aura_low_mp.xml</FileName>
 			<FileHash>241939930a6d68840f18665bbe711283</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\aura\british_auras\tommy_medic_healing_aura_mid_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\british_auras\tommy_medic_healing_aura_mid_mp.xml</FileName>
 			<FileHash>18dc14c1f4917db1ba9685e525fa88ea</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\gameplay\territory_fuel_point_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\gameplay\territory_fuel_point_mp.xml</FileName>
 			<FileHash>f45d8b5517e30d6083a3e1261cf4753a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\gameplay\territory_munitions_point_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\gameplay\territory_munitions_point_mp.xml</FileName>
 			<FileHash>ad00a1dd036dc4497cac8d267266b9d4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\gameplay\territory_point_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\gameplay\territory_point_mp.xml</FileName>
 			<FileHash>766e593bd163d0a18d49591bfd596e4e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_50cal_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_50cal_mp.xml</FileName>
 			<FileHash>a6aba43d93604a37f9d7b0accceae767</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_assault_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_assault_mp.xml</FileName>
 			<FileHash>2ab04e8a3c78a6c0d143c76ef7a06b06</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\aef\vehicles\m5_halftrack\m5_halftrack_usf_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m5_halftrack\m5_halftrack_usf_mp.xml</FileName>
 			<FileHash>06870178555ae64be41ac9c9dc08bcca</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\buildings\base_building\british_hq\british_hq_truck_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\base_building\british_hq\british_hq_truck_mp.xml</FileName>
 			<FileHash>5e7207ed28ed0f93b5f8054a8ff5603e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\buildings\defensive_structures\brit_forward_hq_commander_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\defensive_structures\brit_forward_hq_commander_mp.xml</FileName>
 			<FileHash>6940a3384fd50742dd87befba17017a3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\buildings\defensive_structures\brit_forward_hq_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\defensive_structures\brit_forward_hq_mp.xml</FileName>
 			<FileHash>9a6ef3ebc7f7fa487e2a2179a02e8b63</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\buildings\defensive_structures\brit_sandbag_fence.xml</FileName>
-			<FileHash>4d98ab4c715c6f9ce6f15ee2a1ae6106</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\soldiers\commando\commando_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\soldiers\commando\commando_mp.xml</FileName>
 			<FileHash>dac06c59415780562680da0646e4344b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\vehicles\churchill\churchill_avre_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\churchill\churchill_avre_mp.xml</FileName>
 			<FileHash>3e58e8b27f75d7d2659963f5863af25f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\vehicles\churchill\churchill_crocodile_backup_mp.xml</FileName>
-			<FileHash>baad1504a8f5c4fb0a52f529790459d8</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\vehicles\churchill\churchill_crocodile_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\churchill\churchill_crocodile_mp.xml</FileName>
 			<FileHash>dd7eea3c6029544ce2b5b0f9e4a74405</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\vehicles\glider\glider_commandos_only.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\glider\glider_commandos_only.xml</FileName>
 			<FileHash>67ae65c0d5ccbd99a5f9fc01512ed59d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\vehicles\glider\glider_headquarters.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\glider\glider_headquarters.xml</FileName>
 			<FileHash>b36dba3169e6d7b542584e946da41305</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
 			<FileHash>e4f7e005788ab62d6652a2446a9b02c8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\british\vehicles\universal_carrier\universal_carrier_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\universal_carrier\universal_carrier_mp.xml</FileName>
 			<FileHash>5ad1b736e1495084e88bae8e8cd0494f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\german\buildings\defensive_structure\bunker\bunker_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\german\buildings\defensive_structure\bunker\bunker_mp.xml</FileName>
 			<FileHash>2e4f251bee63e1dc20d8897dfa689323</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_mp.xml</FileName>
 			<FileHash>0f9f3c95826fce900ddaaf168d74ab27</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\soviet\buildings\base_building\hq\hq_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\soviet\buildings\base_building\hq\hq_mp.xml</FileName>
 			<FileHash>e44a62e0848a07c21ef1f47a9a74b606</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\soviet\vehicles\m3a1_scout_car\m3a1_scout_car_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\soviet\vehicles\m3a1_scout_car\m3a1_scout_car_mp.xml</FileName>
 			<FileHash>800ca654149a89bc5c56a9edb719f688</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\soviet\vehicles\m5_halftrack\m5_halftrack_assault_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\soviet\vehicles\m5_halftrack\m5_halftrack_assault_mp.xml</FileName>
 			<FileHash>b524d69176b124894452cd100ee5bbc8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\soviet\vehicles\m5_halftrack\m5_halftrack_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\soviet\vehicles\m5_halftrack\m5_halftrack_mp.xml</FileName>
 			<FileHash>86ef584825359c424cd11e5c49ad3562</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\west_german\buildings\base_building\heavy_armor_support_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\base_building\heavy_armor_support_mp.xml</FileName>
 			<FileHash>d86f1f02ef72e2ef5e60b509526d4ec0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp.xml</FileName>
 			<FileHash>ad55d744779b933c25a3fcd32defc297</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\sbps\races\aef\soldiers\usf_medic_squad\usf_medic_squad_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\usf_medic_squad\usf_medic_squad_mp.xml</FileName>
 			<FileHash>017fabce9741f02230b15969e3d15323</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\sbps\races\aef\vehicles\dodge_wc51_squad\dodge_wc51_50cal_squad_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\vehicles\dodge_wc51_squad\dodge_wc51_50cal_squad_mp.xml</FileName>
 			<FileHash>ec7751836a864636fccd7351e93c83bf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\sbps\races\aef\vehicles\m3_halftrack_squad\m3_halftrack_squad_assault_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\vehicles\m3_halftrack_squad\m3_halftrack_squad_assault_mp.xml</FileName>
 			<FileHash>d1d0a019bb139cab2fb44e8f1b4c8c0f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\sbps\races\british\soldiers\brit_medic_squad\brit_medic_squad_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\brit_medic_squad\brit_medic_squad_mp.xml</FileName>
 			<FileHash>a32b6655f512401292d00801107981d2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\sbps\races\british\soldiers\tommy_squad\tommy_squad_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\tommy_squad\tommy_squad_mp.xml</FileName>
 			<FileHash>ae79d1c5bf60bd836b64278a82f9eb25</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\sbps\races\british\soldiers\tommy_squad\tommy_squad_tank_hunter_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\tommy_squad\tommy_squad_tank_hunter_mp.xml</FileName>
 			<FileHash>5d3bdeb9c371d4c8f37a6bf0289ca3f3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\sbps\races\british\vehicles\churchill_squad\churchill_crocodile_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\vehicles\churchill_squad\churchill_crocodile_mp.xml</FileName>
 			<FileHash>63b24b4396025da262293e8d6e5e7149</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\sbps\races\british\vehicles\m3_halftrack_squad\m3_halftrack_squad__resupply_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\vehicles\m3_halftrack_squad\m3_halftrack_squad__resupply_mp.xml</FileName>
 			<FileHash>8aaab9a81665d5b0846c50a3803d8984</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\sbps\races\soviet\vehicles\m3a1_scout_car_squad\m3a1_scout_car_squad_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\soviet\vehicles\m3a1_scout_car_squad\m3a1_scout_car_squad_mp.xml</FileName>
 			<FileHash>0192fb005a34c8113d4a55ede7dcf36a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\sbps\races\west_german\team_weapons\at_gun_squad\raketenwerfer43_88mm_puppchen_antitank_gun_squad_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\west_german\team_weapons\at_gun_squad\raketenwerfer43_88mm_puppchen_antitank_gun_squad_mp.xml</FileName>
 			<FileHash>56483fe6835f3aaa75cc3e02352bd0b6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\slot_item\british\tommy_fhq_token_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\british\tommy_fhq_token_mp.xml</FileName>
 			<FileHash>c5728dc4007ab727187e750dfb3e049d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\slot_item\british\ballistic_weapon\crocodile_aim_cupola_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\british\ballistic_weapon\crocodile_aim_cupola_mp.xml</FileName>
 			<FileHash>c66a1694576a2856a2aba436da2f895a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\slot_item\british\ballistic_weapon\crocodile_aim_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\british\ballistic_weapon\crocodile_aim_mp.xml</FileName>
 			<FileHash>01a48b16e05f30724308029a841566df</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\slot_item\common\token\auto_heal_token_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\common\token\auto_heal_token_mp.xml</FileName>
 			<FileHash>41adb4ef32247eda00f41c9eddb3d01d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp.xml</FileName>
 			<FileHash>f95acd4125fd1ad7fbfb001d85bdd987</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\upgrade\british\items\universal_carrier_wasp_package_upgrade_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\british\items\universal_carrier_wasp_package_upgrade_mp.xml</FileName>
 			<FileHash>08f385f0563bf1bde54f06cda3d32605</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\upgrade\british\tokens\tommy_auto_heal_token.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\british\tokens\tommy_auto_heal_token.xml</FileName>
 			<FileHash>686ad613404af6608f49d16a142b19f1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\upgrade\common\tokens\medic_auto_heal_token.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\common\tokens\medic_auto_heal_token.xml</FileName>
 			<FileHash>c6188c9cdadf7e43892831af7ad2d1b4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\upgrade\soviet\items\m5_halftrack_72k_aa_gun_package_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\soviet\items\m5_halftrack_72k_aa_gun_package_mp.xml</FileName>
 			<FileHash>5e3f42e9c5c218b7b7834c1f5b3fc944</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\upgrade\west_german\research\first_medic_researched_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\west_german\research\first_medic_researched_mp.xml</FileName>
 			<FileHash>fa4240406065dc65e9d6575959d1d27e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\upgrade\west_german\research\hq_healing_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\west_german\research\hq_healing_mp.xml</FileName>
 			<FileHash>e9323ed444ef15a5c70b9c952665366d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\upgrade\west_german\research\medhq_healing_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\west_german\research\medhq_healing_mp.xml</FileName>
 			<FileHash>59335df46159c2881d47299020de50cb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\aef\small_arms\machine_gun\light_machine_gun\aef_dummy_mp.xml</FileName>
-			<FileHash>6252096a55ae4224ac58f06d82749a12</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\axis\small_arms\machine_gun\light_machine_gun\halftrack_250_dummy.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\axis\small_arms\machine_gun\light_machine_gun\halftrack_250_dummy.xml</FileName>
 			<FileHash>e0f0b114b2debe9cc033062539b2ad65</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\boys_at_rifle_sniper_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\boys_at_rifle_sniper_mp.xml</FileName>
 			<FileHash>ba9360cfa383ab7fb1044511e660d09a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\british\ballistic_weapon\tank_gun\churchill_avre_cupola_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_avre_cupola_mp.xml</FileName>
 			<FileHash>1d29bef221aab701f187af3412cdb270</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\british\ballistic_weapon\tank_gun\churchill_croc_cupola_dummy_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_croc_cupola_dummy_mp.xml</FileName>
 			<FileHash>1d07ec9d3dcfcb59ead4a631eb43d3d4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\british\ballistic_weapon\tank_gun\churchill_croc_cupola_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_croc_cupola_mp.xml</FileName>
 			<FileHash>d6d77706731673faf19a4d75216bbeb9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\british\ballistic_weapon\tank_gun\churchill_mk7_75mm_croc2_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_mk7_75mm_croc2_mp.xml</FileName>
 			<FileHash>1efc6b55a592dd25af0032bcca95452e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\british\ballistic_weapon\tank_gun\churchill_mk7_75mm_croc_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_mk7_75mm_croc_mp.xml</FileName>
 			<FileHash>472e797f8ca42c496ebe721285764c85</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\british\ballistic_weapon\tank_gun\churchill_mk7_75mm_croc_turret_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_mk7_75mm_croc_turret_mp.xml</FileName>
 			<FileHash>ae71202ada06fa1203d31ca797c417ec</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\british\explosive_weapons\grenade\smoke_cover_grenade.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\explosive_weapons\grenade\smoke_cover_grenade.xml</FileName>
 			<FileHash>d37d260b22419e88326c19630e6e8401</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\british\small_arms\machine_gun\light_machine_gun\croc_dummy_cannon_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\small_arms\machine_gun\light_machine_gun\croc_dummy_cannon_mp.xml</FileName>
 			<FileHash>420b838cf87d339fac65bbce9637f9e9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\british\small_arms\machine_gun\light_machine_gun\croc_dummy_flamer_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\small_arms\machine_gun\light_machine_gun\croc_dummy_flamer_mp.xml</FileName>
 			<FileHash>f6b1dd3b45740cbafa101728f342a275</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\common\dummy\10_dummy_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\common\dummy\10_dummy_mp.xml</FileName>
 			<FileHash>2e550a07981c4b3547d4954e4e9c5155</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\common\dummy\360_dummy_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\common\dummy\360_dummy_mp.xml</FileName>
 			<FileHash>5815c5c8b608fee5296a42422fa9f798</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\instances\weapon\soviet\small_arms\machine_gun\light_machine_gun\soviet_dummy_mp.xml</FileName>
-			<FileHash>5577d19fd9a009379d2a39b62f36c56a</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\locale\english\english.ucs</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
 			<FileHash>565f1dd6dbfc9151e0d54193961bbed8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>
 			<FileHash>fce4f6abc1a4cc2927c97f8112082bde</FileHash>
 		</BurnInfo>
 	</BurnInfo>
