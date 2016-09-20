@@ -55,7 +55,7 @@
 								<uniqueid name="id" value="1073743180" />
 							</template_reference>
 							<template_reference name="action" value="action\slot_item_add">
-								<instance_reference name="slot_item" value="slot_item\british\tommy_fhq_token_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+								<instance_reference name="slot_item" value="slot_item\british\tommy_auto_heal_token_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 								<bool name="permanent" value="False" />
 								<uniqueid name="id" value="1073743196" />
 							</template_reference>

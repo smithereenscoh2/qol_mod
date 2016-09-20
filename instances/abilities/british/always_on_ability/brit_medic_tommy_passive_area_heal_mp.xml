@@ -288,14 +288,20 @@
 				<bool name="suppressed" value="False" />
 				<bool name="camouflaged" value="False" />
 			</template_reference>
-			<template_reference name="required" value="requirements\required_slot_item">
+			<template_reference name="required" value="requirements\required_not">
 				<enum name="reason" value="usage" />
 				<locstring name="ui_name" value="0" />
-				<bool name="check_item_on_entity" value="False" />
-				<bool name="display_requirement" value="False" />
-				<float name="max_owned" value="99" />
-				<float name="min_owned" value="1" />
-				<instance_reference name="slot_item" value="slot_item\british\tommy_fhq_token_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+				<list name="requirement_table">
+					<template_reference name="required" value="requirements\required_slot_item">
+						<enum name="reason" value="usage" />
+						<locstring name="ui_name" value="0" />
+						<bool name="check_item_on_entity" value="False" />
+						<bool name="display_requirement" value="False" />
+						<float name="max_owned" value="0" />
+						<float name="min_owned" value="0" />
+						<instance_reference name="slot_item" value="slot_item\british\tommy_auto_heal_token_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+					</template_reference>
+				</list>
 			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_none" />

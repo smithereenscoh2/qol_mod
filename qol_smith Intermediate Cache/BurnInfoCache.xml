@@ -7,11 +7,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\always_on_ability\medic_auto_heal.xml</FileName>
-			<FileHash>b9769b3f0f03ef2acf0bf7a169eaf160</FileHash>
+			<FileHash>25ed77549d2d676f1e4c7b3ef70f4457</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\usf_medic_heal_mp.xml</FileName>
-			<FileHash>e87f7cea9f3df3c53e1a14071d28c5a6</FileHash>
+			<FileHash>6ce37ab1908ded4426a63f8a05b156f5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\timed_ability\ambulance_heal_area.xml</FileName>
@@ -23,7 +23,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\always_on_ability\brit_medic_tommy_passive_area_heal_mp.xml</FileName>
-			<FileHash>b8d1a8b75f551e33cf6445b85b3c5e9d</FileHash>
+			<FileHash>70b691c493d2c51ce0caafc46c22da4c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\always_on_ability\commando_infiltration_camouflage_mp.xml</FileName>
@@ -63,7 +63,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\common\toggle_ability\auto_heal_disable_mp.xml</FileName>
-			<FileHash>1890d70e886c907aa18dad9962037ddc</FileHash>
+			<FileHash>9012d704910aa05d952399ccc7dd8282</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\modal_ability\infantry_medkits_mp.xml</FileName>
@@ -107,7 +107,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\british_auras\fhq_tommy_aura_mp.xml</FileName>
-			<FileHash>c03b2d3f1d0c1b6b27ede2408c0533e1</FileHash>
+			<FileHash>ea345a2f3149d66ccbaa0f0e4f1cac6c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\british_auras\tommy_medic_healing_aura_high_mp.xml</FileName>
@@ -258,7 +258,7 @@
 			<FileHash>56483fe6835f3aaa75cc3e02352bd0b6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\british\tommy_fhq_token_mp.xml</FileName>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\british\tommy_auto_heal_token_mp.xml</FileName>
 			<FileHash>c5728dc4007ab727187e750dfb3e049d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
@@ -270,8 +270,8 @@
 			<FileHash>01a48b16e05f30724308029a841566df</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\common\token\auto_heal_token_mp.xml</FileName>
-			<FileHash>41adb4ef32247eda00f41c9eddb3d01d</FileHash>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\common\medic_auto_heal_token_mp.xml</FileName>
+			<FileHash>5b8d3c7ae2d022812efc24ca2c835415</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp.xml</FileName>
@@ -282,12 +282,8 @@
 			<FileHash>08f385f0563bf1bde54f06cda3d32605</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\british\tokens\tommy_auto_heal_token.xml</FileName>
-			<FileHash>686ad613404af6608f49d16a142b19f1</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\common\tokens\medic_auto_heal_token.xml</FileName>
-			<FileHash>c6188c9cdadf7e43892831af7ad2d1b4</FileHash>
+			<FileHash>c8138f78ee2ee8233ba46751bf64234b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\soviet\items\m5_halftrack_72k_aa_gun_package_mp.xml</FileName>

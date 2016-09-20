@@ -42,6 +42,11 @@
 		</group>
 		<bool name="validate_actions" value="False" />
 		<list name="actions">
+			<template_reference name="action" value="action\slot_item_add">
+				<instance_reference name="slot_item" value="slot_item\british\small_arms\sapper_vickers_k_light_machine_gun_mp" />
+				<bool name="permanent" value="False" />
+				<uniqueid name="id" value="1073743383" />
+			</template_reference>
 		</list>
 		<list name="requirements">
 		</list>
