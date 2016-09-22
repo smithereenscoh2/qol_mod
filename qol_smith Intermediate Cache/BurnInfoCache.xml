@@ -134,6 +134,10 @@
 			<FileHash>766e593bd163d0a18d49591bfd596e4e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\british_piat_spigot_mortar_mp.xml</FileName>
+			<FileHash>b2bba549ca80f6d9906247bc1939bd4b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_50cal_mp.xml</FileName>
 			<FileHash>a6aba43d93604a37f9d7b0accceae767</FileHash>
 		</BurnInfo>
@@ -171,11 +175,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\glider\glider_commandos_only.xml</FileName>
-			<FileHash>67ae65c0d5ccbd99a5f9fc01512ed59d</FileHash>
+			<FileHash>b956939ee973624bfffe91538dfa788a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\glider\glider_headquarters.xml</FileName>
-			<FileHash>b36dba3169e6d7b542584e946da41305</FileHash>
+			<FileHash>c511b2077eb07ffdafd46b8cd69a38fa</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
@@ -232,6 +236,18 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\brit_medic_squad\brit_medic_squad_mp.xml</FileName>
 			<FileHash>a32b6655f512401292d00801107981d2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\brit_officer_squad\air_support_officer_squad_mp.xml</FileName>
+			<FileHash>e2898aec68d2696782fe31ef5223baaa</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\commando_squad\commando_squad_mp.xml</FileName>
+			<FileHash>6fde140bfcd1655c0e9e23efb06fd3b9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\sapper_squad\sapper_squad_mp.xml</FileName>
+			<FileHash>132db418cd923890187aea761dc6251c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\tommy_squad\tommy_squad_mp.xml</FileName>
@@ -310,6 +326,10 @@
 			<FileHash>ba9360cfa383ab7fb1044511e660d09a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\piat_launcher_mp.xml</FileName>
+			<FileHash>057d284396049b7377388db8ed69d0c8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_avre_cupola_mp.xml</FileName>
 			<FileHash>1d29bef221aab701f187af3412cdb270</FileHash>
 		</BurnInfo>
@@ -339,19 +359,19 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\small_arms\machine_gun\light_machine_gun\croc_dummy_cannon_mp.xml</FileName>
-			<FileHash>420b838cf87d339fac65bbce9637f9e9</FileHash>
+			<FileHash>47fe9e20e478480fd0219a0964d49600</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\small_arms\machine_gun\light_machine_gun\croc_dummy_flamer_mp.xml</FileName>
-			<FileHash>f6b1dd3b45740cbafa101728f342a275</FileHash>
+			<FileHash>2e8e1413897e8bd0abfc022cacbdb484</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\common\dummy\10_dummy_mp.xml</FileName>
-			<FileHash>2e550a07981c4b3547d4954e4e9c5155</FileHash>
+			<FileHash>ee3d418feb5e6b1bd338d1fd12ec0434</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\common\dummy\360_dummy_mp.xml</FileName>
-			<FileHash>5815c5c8b608fee5296a42422fa9f798</FileHash>
+			<FileHash>a2ba2038c88056125223647c6f149480</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>

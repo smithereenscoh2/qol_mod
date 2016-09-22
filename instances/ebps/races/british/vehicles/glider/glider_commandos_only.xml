@@ -513,7 +513,7 @@
 					</template_reference>
 				</template_reference>
 				<template_reference name="action" value="action\garrison_squad_action">
-					<instance_reference name="squad_blueprint" value="sbps\races\british\soldiers\commando_squad\commando_squad_mp" />
+					<instance_reference name="squad_blueprint" value="sbps\races\british\soldiers\commando_squad\commando_squad_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 					<uniqueid name="id" value="1073743144" />
 				</template_reference>
 			</list>
