@@ -46,6 +46,14 @@
 				<uniqueid name="id" value="1073743934" />
 				<instance_reference name="ability_to_add" value="abilities\common\toggle_ability\atinf_hold_fire_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			</template_reference>
+			<template_reference name="action" value="action\add_ability_action">
+				<uniqueid name="id" value="1073743967" />
+				<instance_reference name="ability_to_add" value="abilities\global\modal_ability\garrisoned_squad_facing" />
+			</template_reference>
+			<template_reference name="action" value="action\add_ability_action">
+				<uniqueid name="id" value="1073743968" />
+				<instance_reference name="ability_to_add" value="abilities\global\modal_ability\garrisoned_squad_facing_unset" />
+			</template_reference>
 		</list>
 		<list name="requirements">
 		</list>

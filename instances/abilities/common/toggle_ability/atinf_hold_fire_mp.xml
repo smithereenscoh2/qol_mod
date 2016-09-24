@@ -27,7 +27,7 @@
 													<bool name="owned_by_player_only" value="True" />
 												</template_reference>
 											</list>
-											<instance_reference name="weapon_to_override" value="weapon\axis\ballistic_weapon\infantry_anti_tank_weapon\panzerschreck_atw_mp" />
+											<instance_reference name="weapon_to_override" value="weapon\axis\ballistic_weapon\infantry_anti_tank_weapon\panzerschreck_atw_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 											<uniqueid name="id" value="1073743925" />
 											<bool name="auto_attack_only" value="True" />
 											<bool name="persist_on_weapon_change" value="False" />
@@ -44,7 +44,7 @@
 													<bool name="owned_by_player_only" value="True" />
 												</template_reference>
 											</list>
-											<instance_reference name="weapon_to_override" value="weapon\aef\ballistic_weapon\infantry_anti_tank_weapon\m9_bazooka_mp" />
+											<instance_reference name="weapon_to_override" value="weapon\aef\ballistic_weapon\infantry_anti_tank_weapon\m9_bazooka_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 											<uniqueid name="id" value="1073743927" />
 											<bool name="auto_attack_only" value="True" />
 											<bool name="persist_on_weapon_change" value="False" />

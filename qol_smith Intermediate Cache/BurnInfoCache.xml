@@ -67,7 +67,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\common\toggle_ability\atinf_hold_fire_mp.xml</FileName>
-			<FileHash>f3d908861e38227c9651ebc672b104f7</FileHash>
+			<FileHash>f2d223fc56893f0677bf71255dd0d11d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\common\toggle_ability\auto_face_mp.xml</FileName>
@@ -95,7 +95,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\toggle_ability\okw_ratken_vehicle_hold_fire_mp.xml</FileName>
-			<FileHash>e58f6673b17ba0ff135000c6397be932</FileHash>
+			<FileHash>c340c9303bd8e30f3549f7271afc58d0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\toggle_ability\okw_vehicle_hold_fire_mp.xml</FileName>
@@ -271,7 +271,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\team_weapons\at_gun\raketenwerfer43_88mm_puppchen_antitank_gun_mp.xml</FileName>
-			<FileHash>767d1a0d91329b40f427baced5f48adb</FileHash>
+			<FileHash>ad333ae0ed7ea80a267bcdfe46e2d94f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\vehicles\jagdpanzer_iv_sdkfz_162\jagdpanzer_iv_sdkfz_162_mp.xml</FileName>
@@ -371,7 +371,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp.xml</FileName>
-			<FileHash>aa723d8156bfc440f957a02272a3d4de</FileHash>
+			<FileHash>09d8a462fb2bbb1c4e756b85ae575dad</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\british\tommy_auto_heal_token_mp.xml</FileName>
@@ -395,7 +395,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\german\ballistic_weapon\infantry_at_weapon\panzershreck_slot1_mp.xml</FileName>
-			<FileHash>8fbda4ca9993ee53a9d587eabd2bbac4</FileHash>
+			<FileHash>91d0bcfbb779d86eb5c0663593074de3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\soviet\anti_tank_weapon\ptrs_41_anti_tank_rifle_guard_troop_mp.xml</FileName>
@@ -415,7 +415,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\common\tokens\atinf_prioritise.xml</FileName>
-			<FileHash>fd76e1831809897036231384db0985aa</FileHash>
+			<FileHash>04f76512576a3a4cd28709124f199107</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\soviet\items\guard_dp-28_lmg_package_1_mp.xml</FileName>
@@ -450,6 +450,14 @@
 			<FileHash>59335df46159c2881d47299020de50cb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\ballistic_weapon\infantry_anti_tank_weapon\m9_bazooka_mp.xml</FileName>
+			<FileHash>6f950e2a6929881dfeaf491486a757af</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\axis\ballistic_weapon\infantry_anti_tank_weapon\panzerschreck_atw_mp.xml</FileName>
+			<FileHash>79003d2289a96345d50006ce99e5a035</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\axis\small_arms\machine_gun\light_machine_gun\halftrack_250_dummy.xml</FileName>
 			<FileHash>e0f0b114b2debe9cc033062539b2ad65</FileHash>
 		</BurnInfo>
@@ -459,7 +467,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\piat_launcher_mp.xml</FileName>
-			<FileHash>1de53825d9b775a77f999fa15ce4d931</FileHash>
+			<FileHash>057d284396049b7377388db8ed69d0c8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_avre_cupola_mp.xml</FileName>
@@ -504,6 +512,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\common\dummy\360_dummy_mp.xml</FileName>
 			<FileHash>a2ba2038c88056125223647c6f149480</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\ballistic_weapon\anti_tank_gun\raketenwerfer43_88mm_wg_mp.xml</FileName>
+			<FileHash>48da78efa7ab6a53cbb4a3248f163673</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
