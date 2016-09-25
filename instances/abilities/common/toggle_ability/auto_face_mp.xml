@@ -106,7 +106,7 @@
 		<group name="ui_info">
 			<locstring name="extra_text" value="11039306" />
 			<locstring name="help_text" value="8" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
-			<string name="hotkey_name" value="M" />
+			<string name="hotkey_name" value="D" />
 			<icon name="icon_name" value="Icons_abilities_ability_aef_priority_targeting_off" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />

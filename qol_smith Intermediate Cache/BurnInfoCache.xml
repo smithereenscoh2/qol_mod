@@ -59,7 +59,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\toggle_ability\crocodile_toggle_auto_face_mp.xml</FileName>
-			<FileHash>46d26ebc051b7001016a2e0dfa51ac83</FileHash>
+			<FileHash>f469ded6b3bf7985b6d23fc0ef8d7e6f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\common\toggle_ability\atgun_hold_fire_mp.xml</FileName>
@@ -71,7 +71,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\common\toggle_ability\auto_face_mp.xml</FileName>
-			<FileHash>770beaa8b32cf799b1b16b4d0cd6864d</FileHash>
+			<FileHash>e5bed7c929a7a25f87cab1e6c49b7a78</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\common\toggle_ability\auto_heal_disable_mp.xml</FileName>
@@ -84,6 +84,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\toggle_ability\wehr_vehicle_hold_fire_mp.xml</FileName>
 			<FileHash>9d88e9631348977cf39221f4430ff0c5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\global\modal_ability\garrisoned_atinf_facing.xml</FileName>
+			<FileHash>1483febbe2d152a67e62e721f6724c80</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\global\modal_ability\garrisoned_atinf_facing_unset.xml</FileName>
+			<FileHash>bd874fd5bed9829193d29b14ec787db8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\soviet\toggle_ability\sov_vehicle_hold_fire_mp.xml</FileName>
@@ -415,7 +423,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\common\tokens\atinf_prioritise.xml</FileName>
-			<FileHash>04f76512576a3a4cd28709124f199107</FileHash>
+			<FileHash>1cd45a9cdc558a1e58ad937438d9d5c6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\soviet\items\guard_dp-28_lmg_package_1_mp.xml</FileName>
@@ -519,7 +527,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
-			<FileHash>cd9de13de52ff179b03f017756d2cbde</FileHash>
+			<FileHash>184825ea9b4a5ee1aa5b8728a2352f3f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>

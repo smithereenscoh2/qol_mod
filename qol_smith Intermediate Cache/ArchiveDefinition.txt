@@ -23,6 +23,8 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\common\toggle_ability\auto_heal_disable_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\infantry_medkits_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\wehr_vehicle_hold_fire_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\global\modal_ability\garrisoned_atinf_facing.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\global\modal_ability\garrisoned_atinf_facing_unset.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\toggle_ability\sov_vehicle_hold_fire_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\toggle_ability\commander_ability\at_gun_ambush_tactics.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\toggle_ability\okw_ratken_vehicle_hold_fire_mp.rgd
