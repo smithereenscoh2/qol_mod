@@ -464,7 +464,7 @@
 									<bool name="is_present" value="True" />
 									<float name="max_completed" value="100" />
 									<float name="min_completed" value="1" />
-									<instance_reference name="upgrade_name" value="upgrade\british\research\company_anvil_mp" />
+									<instance_reference name="upgrade_name" value="upgrade\british\research\company_anvil_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 								</template_reference>
 							</list>
 						</template_reference>

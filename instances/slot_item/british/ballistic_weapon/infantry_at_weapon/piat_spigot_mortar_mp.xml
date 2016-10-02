@@ -54,6 +54,22 @@
 				<instance_reference name="upgrade" value="upgrade\common\tokens\atinf_prioritise" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<uniqueid name="id" value="1073743937" />
 			</template_reference>
+			<template_reference name="action" value="action\apply_modifiers_action">
+				<float name="duration" value="0" />
+				<bool name="permanent" value="False" />
+				<list name="modifiers">
+					<template_reference name="modifier" value="modifiers\received_experience_squad_modifier">
+						<enum name="application_type" value="apply_to_squad" />
+						<bool name="exclusive" value="True" />
+						<string name="modifier_id" value="at_inf_penalty" />
+						<string name="target_type_name" value="" />
+						<enum name="usage_type" value="multiplication" />
+						<float name="value" value="0.4" />
+						<instance_reference name="tooltip" value="modifier_tooltip\received_experience_squad_modifier" />
+					</template_reference>
+				</list>
+				<uniqueid name="id" value="1073744256" />
+			</template_reference>
 		</list>
 		<list name="on_drop_actions">
 		</list>
