@@ -655,7 +655,7 @@
 								<float name="z" value="2.45" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\british\flame_throwers\churchill_flamethrower_mp" />
+							<instance_reference name="weapon" value="weapon\british\flame_throwers\churchill_flamethrower_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="True" />

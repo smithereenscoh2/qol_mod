@@ -66,13 +66,13 @@
 						<float name="z" value="-2.13" />
 					</group>
 					<enum name="type" value="default" />
-					<instance_reference name="weapon" value="weapon\british\flame_throwers\universal_carrier_ronson_flamethrower_system_mp" />
+					<instance_reference name="weapon" value="weapon\british\flame_throwers\universal_carrier_ronson_flamethrower_system_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				</group>
 				<uniqueid name="id" value="1073742046" />
 			</template_reference>
 			<template_reference name="action" value="action\change_weapon">
 				<float name="hardpoint" value="3" />
-				<instance_reference name="weapon" value="weapon\british\flame_throwers\universal_carrier_ronson_flamethrower_system_mp" />
+				<instance_reference name="weapon" value="weapon\british\flame_throwers\universal_carrier_ronson_flamethrower_system_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<uniqueid name="id" value="1073742047" />
 			</template_reference>
 			<template_reference name="action" value="action\change_combat_facing_action">

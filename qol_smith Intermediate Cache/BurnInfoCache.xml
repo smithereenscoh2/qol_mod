@@ -174,6 +174,10 @@
 			<FileHash>b2bba549ca80f6d9906247bc1939bd4b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\vehicle_flamethrowers_mp.xml</FileName>
+			<FileHash>975d15e6c230d392457854675d62fab5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\team_weapons\at_guns\m1_57mm_antitank_gun_mp.xml</FileName>
 			<FileHash>27ad33c970fbc19365d1e8f63afe769c</FileHash>
 		</BurnInfo>
@@ -227,7 +231,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\churchill\churchill_crocodile_mp.xml</FileName>
-			<FileHash>81c55ec3683b31615ed37cb961db4ff1</FileHash>
+			<FileHash>60701ee314ff6a2cdf3da053062f8818</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\glider\glider_commandos_only.xml</FileName>
@@ -430,6 +434,10 @@
 			<FileHash>354e3e0689493f8133a193a41472b875</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\west_german\vehicles\hetzer_squad\hetzer_squad_mp.xml</FileName>
+			<FileHash>28b1ba558a92beb9190c1838d0bc867c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\west_german\vehicles\panzer_ii_luchs_squad\panzer_ii_luchs_squad_mp.xml</FileName>
 			<FileHash>c931ef2e2fba2237f3a25ab3761286f6</FileHash>
 		</BurnInfo>
@@ -475,7 +483,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\british\items\universal_carrier_wasp_package_upgrade_mp.xml</FileName>
-			<FileHash>08f385f0563bf1bde54f06cda3d32605</FileHash>
+			<FileHash>82b0239422f6c5cf818c31976ea28331</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\british\research\company_anvil_mp.xml</FileName>
@@ -484,6 +492,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\common\tokens\atinf_prioritise.xml</FileName>
 			<FileHash>1cd45a9cdc558a1e58ad937438d9d5c6</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\intel_bulletins\xp2dlc_units\medium_tank\hetzer\hetzer_reload_speed.xml</FileName>
+			<FileHash>598a5730bb67ef7c4396626861ac5c79</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\soviet\items\guard_dp-28_lmg_package_1_mp.xml</FileName>
@@ -522,8 +534,24 @@
 			<FileHash>6f950e2a6929881dfeaf491486a757af</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\flame_throwers\assault_engineer_flamethrower.xml</FileName>
+			<FileHash>631d97472b7b45c700892f8b83c75d27</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\axis\ballistic_weapon\infantry_anti_tank_weapon\panzerschreck_atw_mp.xml</FileName>
 			<FileHash>79003d2289a96345d50006ce99e5a035</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\axis\flame_throwers\halftrack_flammenwerfer_mp.xml</FileName>
+			<FileHash>a069a57551a41f50875f635ea9e28acc</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\axis\flame_throwers\halftrack_flammenwerfer_right_mp.xml</FileName>
+			<FileHash>0a0d3ba8c6d69138de727e8435c78256</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\axis\flame_throwers\pioneer_flamethrower_mp.xml</FileName>
+			<FileHash>91553a9c7c7f3d825df3ebf3981b5e12</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\axis\small_arms\machine_gun\light_machine_gun\halftrack_250_dummy.xml</FileName>
@@ -566,24 +594,52 @@
 			<FileHash>d37d260b22419e88326c19630e6e8401</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\flame_throwers\churchill_flamethrower_mp.xml</FileName>
+			<FileHash>c064e4c638eaf868ffe4b6db0966b8f8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\flame_throwers\tommy_flamethrower.xml</FileName>
+			<FileHash>faf73919da1a949fc4572b2b7b14b42f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\flame_throwers\universal_carrier_ronson_flamethrower_system_mp.xml</FileName>
+			<FileHash>bf27ff564e7404074187d2ee04d79332</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\small_arms\machine_gun\light_machine_gun\croc_dummy_cannon_mp.xml</FileName>
 			<FileHash>47fe9e20e478480fd0219a0964d49600</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\small_arms\machine_gun\light_machine_gun\croc_dummy_flamer_mp.xml</FileName>
-			<FileHash>2e8e1413897e8bd0abfc022cacbdb484</FileHash>
+			<FileHash>c2460a368ab0569b0718c5bd5f48a4f5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\common\dummy\10_dummy_mp.xml</FileName>
-			<FileHash>ee3d418feb5e6b1bd338d1fd12ec0434</FileHash>
+			<FileHash>98954241dc85bf863f74133e751144e9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\common\dummy\360_dummy_mp.xml</FileName>
 			<FileHash>a2ba2038c88056125223647c6f149480</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\soviet\flame_throwers\flamethrower_roks3_mp.xml</FileName>
+			<FileHash>7ac71f907adcef7da5b6ae54594f627f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\soviet\flame_throwers\kv8_ato-41_flamethrower_mp.xml</FileName>
+			<FileHash>fd1d40c9d7a1f04f702aa5a04fe662ba</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\soviet\flame_throwers\grenade\molotov_cocktail_dotdamage_half_mp.xml</FileName>
+			<FileHash>e672e780de50087ce725a05a4ebe050c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\ballistic_weapon\anti_tank_gun\raketenwerfer43_88mm_wg_mp.xml</FileName>
 			<FileHash>48da78efa7ab6a53cbb4a3248f163673</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\flame_throwers\hetzer_keobe_flamethrower__mp.xml</FileName>
+			<FileHash>03b3b1da84d8866bfa18b469379050cb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
