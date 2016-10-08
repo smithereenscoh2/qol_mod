@@ -162,11 +162,11 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="3" />
-					<instance_reference name="type" value="ebps\races\british\soldiers\commando\commando_air_landing_mp" />
+					<instance_reference name="type" value="ebps\races\british\soldiers\commando\commando_air_landing_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				</group>
 				<group name="loadout_data">
 					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\british\soldiers\brit_officer\air_support_officer_mp" />
+					<instance_reference name="type" value="ebps\races\british\soldiers\brit_officer\air_support_officer_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -654,7 +654,7 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\british\timed_ability\officer_charge_mp" />
-				<instance_reference name="ability" value="abilities\british\modal_ability\commander_ability\officer_recon_sweep" />
+				<instance_reference name="ability" value="abilities\british\modal_ability\commander_ability\officer_recon_sweep" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<instance_reference name="ability" value="abilities\british\modal_ability\grenades\tommy_gammon_bomb_medium_mp" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
@@ -984,6 +984,9 @@
 			<float name="multiplier_pct_share" value="0.5" />
 			<float name="radius" value="35" />
 			<enum name="shared_veterancy_type" value="tp_commonwealth_infantry" />
+		</template_reference>
+		<template_reference name="squadexts" value="sbpextensions\squad_population_ext">
+			<float name="personnel_pop" value="4" />
 		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="93511" />
