@@ -410,8 +410,8 @@
 					</group>
 				</list>
 				<list name="player_upgrades">
-					<instance_reference name="player_upgrade" value="upgrade\aef\research\lieutenant_dispatched_upgrade_mp" />
-					<instance_reference name="player_upgrade" value="upgrade\aef\research\captain_dispatched_upgrade_mp" />
+					<instance_reference name="player_upgrade" value="upgrade\aef\research\lieutenant_dispatched_upgrade_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+					<instance_reference name="player_upgrade" value="upgrade\aef\research\captain_dispatched_upgrade_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 					<instance_reference name="player_upgrade" value="upgrade\aef\research\major_dispatched_upgrade_mp" />
 				</list>
 			</group>
