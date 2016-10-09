@@ -128,10 +128,10 @@
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="07_soldiers">
-					<float name="units_in_core" value="3" />
+					<float name="units_in_core" value="2" />
 					<float name="units_in_left_flank" value="2" />
 					<float name="units_in_right_flank" value="2" />
-					<float name="units_in_scout" value="0" />
+					<float name="units_in_scout" value="1" />
 				</group>
 				<group name="08_soldiers">
 					<float name="units_in_core" value="2" />
@@ -221,6 +221,7 @@
 				<instance_reference name="upgrade" value="upgrade\aef\items\paratrooper_thompson_sub_machine_gun_upgrade_mp" />
 				<instance_reference name="upgrade" value="upgrade\aef\items\paratrooper_m1919a6_lmg_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<instance_reference name="upgrade" value="upgrade\pm\american\specializations\troop_support\troop_support_medics_upg" />
+				<instance_reference name="upgrade" value="upgrade\aef\items\paratrooper_m1919a6_lmg_1_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<instance_reference name="upgrade" value="upgrade\aef\items\paratrooper_bazooka_upgrade_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			</list>
 		</template_reference>
