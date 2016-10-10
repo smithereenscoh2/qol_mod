@@ -37,12 +37,12 @@
 			<Children>
 				<d2p1:anyType i:type="BurnModInfo">
 					<Dependencies />
-					<Description></Description>
+					<Description>https://www.coh2.org/topic/55521/mr-smith-s-quality-of-life-mod</Description>
 					<Hidden>false</Hidden>
-					<Name>Quality of Life mod</Name>
+					<Name>Quality of Life mod v0.101</Name>
 				</d2p1:anyType>
 			</Children>
-			<IsExpanded>false</IsExpanded>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 	</Children>
 	<Guid>ad6b6439-cd61-4c1e-bcc9-d9c2c5b984b4</Guid>
