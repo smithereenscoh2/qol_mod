@@ -381,7 +381,7 @@
 				<instance_reference name="building" value="ebps\races\soviet\buildings\base_building\hq\hq_mp" />
 				<list name="starting_squads">
 					<group name="starting_squad">
-						<instance_reference name="squad" value="sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp" />
+						<instance_reference name="squad" value="sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 						<bool name="check_requirements" value="False" />
 					</group>
 				</list>
@@ -433,7 +433,7 @@
 				<instance_reference name="building" value="ebps\races\soviet\buildings\base_building\soviet_base_stamper" />
 				<list name="starting_squads">
 					<group name="starting_squad">
-						<instance_reference name="squad" value="sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp" />
+						<instance_reference name="squad" value="sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 						<bool name="check_requirements" value="False" />
 					</group>
 				</list>

@@ -98,21 +98,21 @@
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="02_soldiers">
-					<float name="units_in_core" value="2" />
-					<float name="units_in_left_flank" value="0" />
+					<float name="units_in_core" value="1" />
+					<float name="units_in_left_flank" value="1" />
 					<float name="units_in_right_flank" value="0" />
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="03_soldiers">
-					<float name="units_in_core" value="3" />
-					<float name="units_in_left_flank" value="0" />
-					<float name="units_in_right_flank" value="0" />
+					<float name="units_in_core" value="1" />
+					<float name="units_in_left_flank" value="1" />
+					<float name="units_in_right_flank" value="1" />
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="04_soldiers">
-					<float name="units_in_core" value="2" />
+					<float name="units_in_core" value="1" />
 					<float name="units_in_left_flank" value="1" />
-					<float name="units_in_right_flank" value="1" />
+					<float name="units_in_right_flank" value="2" />
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="05_soldiers">
@@ -122,10 +122,10 @@
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="06_soldiers">
-					<float name="units_in_core" value="2" />
+					<float name="units_in_core" value="1" />
 					<float name="units_in_left_flank" value="2" />
 					<float name="units_in_right_flank" value="2" />
-					<float name="units_in_scout" value="0" />
+					<float name="units_in_scout" value="1" />
 				</group>
 				<group name="07_soldiers">
 					<float name="units_in_core" value="2" />
