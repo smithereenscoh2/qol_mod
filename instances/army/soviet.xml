@@ -120,9 +120,9 @@
 		</list>
 		<list name="abilities">
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\commander_ability\for_mother_russia_ability" />
-			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_support" />
-			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\fear_propaganda_artillery" />
-			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_precision_bomb_strike" />
+			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_support" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\fear_propaganda_artillery" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_precision_bomb_strike" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_recon" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\commander_ability\scorched_earth_policy" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\commander_ability\rapid_conscription" />
@@ -146,7 +146,7 @@
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_at_gun_ambush_tactics_mp" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_conscript_assault_package" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_ml_20" />
-			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\fire_artillery" />
+			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\fire_artillery" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_global_cover_training" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\partisan_dispatch_tow" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\passive_ability\no_retreat_no_surrender" />
@@ -171,9 +171,9 @@
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\manpower_blitz" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\commander_ability\hold_the_line" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\passive_ability\conscript_ptrs_upgrade" />
-			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_anti_tank_bomb_strike" />
+			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_anti_tank_bomb_strike" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\dshk_mp" />
-			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_sturmovik_attack_advanced" />
+			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_sturmovik_attack_advanced" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\sherman_soviet_dispatch" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\m5_halftrack_assault" />
 		</list>

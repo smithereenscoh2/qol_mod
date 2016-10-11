@@ -119,13 +119,13 @@
 			</template_reference>
 		</list>
 		<list name="abilities">
-			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_bombing_strike" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_bombing_strike" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_strafing_run" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_smoke_bomb" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\railway_gun_artillery" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\railway_gun_artillery" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\light_support_artillery" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\sector_artillery" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_fragmentation_bomb" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_fragmentation_bomb" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\mortar_halftrack" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\tiger_tank" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\panzer_tactician_unlock" />
@@ -162,7 +162,7 @@
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\strategic_bombing" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\forward_repair_station" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\urban_assault_grenadiers" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_incendiary_bombs" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_incendiary_bombs" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\passive_ability\light_anti_vehicle_mines" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\munitions_blitz" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\mortar_incendiary_barrage" />
@@ -170,9 +170,9 @@
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\sprint" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\command_panther" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\mechanized_grenadier_group" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_aerial_superiority_close_air_support" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_aerial_superiority_close_air_support" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_aerial_superiority_recon" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_aerial_superiority_strafing_run" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_aerial_superiority_strafing_run" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\timed_ability\commander_ability\counterattack_tactics" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\ostruppen_reserves" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\puma_dispatch" />

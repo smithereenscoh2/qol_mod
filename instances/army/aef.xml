@@ -132,14 +132,14 @@
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\passive_ability\elite_vehicle_crews" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\passive_ability\riflemen_30_caliber_lmg" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\m21_mortar_halftrack_dispatch" />
-			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\time_on_target_artillery" />
+			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\time_on_target_artillery" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\p47_rocket_attack" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\passive_ability\riflemen_defensive_buildings" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\pathfinders_dispatch" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\air_drop_combat_group" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\passive_ability\forward_observers_unlock_2" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\greyhound_recon_dispatch" />
-			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\artillery_155mm" />
+			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\artillery_155mm" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\recon_sweep" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\m3_halftrack_group" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\dodge_wc51_dispatch" />
