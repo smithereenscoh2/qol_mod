@@ -990,8 +990,9 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\west_german\always_on_ability\fallschrimjaeger_camo" />
+				<instance_reference name="ability" value="abilities\west_german\always_on_ability\fallschrimjaeger_camo" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<instance_reference name="ability" value="abilities\soviet\toggle_ability\sniper_hold_fire_mp" />
+				<instance_reference name="ability" value="abilities\west_german\always_on_ability\falls_vet0_camouflage_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
 		</template_reference>

@@ -20,6 +20,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\accessory_weapons\crococile_manual_aim_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\commander_ability\glider_commandos_only.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\commander_ability\officer_recon_sweep.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\dispatch_ability\infiltration_commandos.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\grenades\cover_smoke_grenades.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\timed_ability\brit_medic_tommy_timed_area_heal_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\timed_ability\churchill_inf_support_smoke.rgd
@@ -32,6 +33,8 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\common\toggle_ability\auto_face_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\common\toggle_ability\auto_heal_disable_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\infantry_medkits_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\stormtrooper_tank_detection_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\dispatch\stormtroopers.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\wehr_vehicle_hold_fire_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\global\modal_ability\garrisoned_atinf_facing.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\global\modal_ability\garrisoned_atinf_facing_unset.rgd
@@ -39,6 +42,11 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\dispatch\partisans_commander_anti_vehicle.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\toggle_ability\sov_vehicle_hold_fire_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\toggle_ability\commander_ability\at_gun_ambush_tactics.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\always_on_ability\fallschrimjaeger_camo.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\always_on_ability\falls_vet0_camouflage_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\always_on_ability\jaeger_light_infantry_camo.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\always_on_ability\jli_vet0_camo_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\modal_ability\dispatch_ability\fallschirmjaeger.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\modal_ability\dispatch_ability\jaeger_light_infantry_recon_dispatch.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\toggle_ability\luchs_hold_fire_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\toggle_ability\okw_ratken_vehicle_hold_fire_mp.rgd

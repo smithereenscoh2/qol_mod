@@ -4,10 +4,6 @@
 			<list name="end_self_actions">
 			</list>
 			<list name="end_target_actions">
-			</list>
-			<list name="start_self_actions">
-			</list>
-			<list name="start_target_actions">
 				<template_reference name="action" value="action\reinforcements_action">
 					<bool name="allow_building_spawn" value="True" />
 					<float name="minimum_pop_used" value="8" />
@@ -19,7 +15,7 @@
 						<instance_reference name="squad" value="sbps\races\west_german\soldiers\jaeger_light_infantry_squad\jaeger_light_infantry_recon_squad_mp" />
 					</list>
 					<bool name="use_attack_move" value="False" />
-					<uniqueid name="id" value="1073745578" />
+					<uniqueid name="id" value="1073745953" />
 					<bool name="ignore_requirements" value="False" />
 				</template_reference>
 				<template_reference name="action" value="action\game_event_action">
@@ -28,12 +24,31 @@
 					<float name="event_param_end" value="-1" />
 					<enum name="event_type" value="flag_drop" />
 					<bool name="event_send_to_target_player" value="False" />
-					<uniqueid name="id" value="1073745579" />
+					<uniqueid name="id" value="1073745954" />
+				</template_reference>
+			</list>
+			<list name="start_self_actions">
+			</list>
+			<list name="start_target_actions">
+				<template_reference name="action" value="action\delay">
+					<float name="delay" value="20" />
+					<float name="delay_min" value="0" />
+					<bool name="progress_bar" value="False" />
+					<bool name="randomize" value="False" />
+					<list name="delayed_actions">
+						<template_reference name="action" value="action\no_action">
+							<uniqueid name="id" value="1073745955" />
+							<template_reference name="ui_help_text" value="options\none">
+							</template_reference>
+						</template_reference>
+					</list>
+					<uniqueid name="id" value="1073745956" />
+					<bool name="can_prevent_refund" value="False" />
 				</template_reference>
 			</list>
 		</group>
 		<enum name="activation" value="targeted" />
-		<bool name="can_interrupt" value="True" />
+		<bool name="can_interrupt" value="False" />
 		<bool name="can_target_in_fow" value="True" />
 		<float name="caster_close_in_distance" value="2" />
 		<bool name="casters_can_evacuate" value="False" />
@@ -48,8 +63,8 @@
 		<string name="cursor_ghost_blueprint" value="" />
 		<float name="cursor_ghost_blueprint_angle" value="0" />
 		<bool name="disable_combat" value="False" />
-		<bool name="disable_when_active" value="False" />
-		<float name="duration_time" value="-1" />
+		<bool name="disable_when_active" value="True" />
+		<float name="duration_time" value="20" />
 		<bool name="enable_in_building" value="False" />
 		<bool name="enable_in_vehicle" value="False" />
 		<bool name="engage_combat" value="False" />
@@ -151,6 +166,14 @@
 				<float name="max_completed" value="100" />
 				<float name="min_completed" value="1" />
 				<instance_reference name="upgrade_name" value="upgrade\west_german\commander\ability\jaeger_light_infantry_recon_dispatch" />
+			</template_reference>
+			<template_reference name="required" value="requirements\required_population">
+				<enum name="reason" value="usage" />
+				<group name="free_pop">
+					<float name="medic" value="0" />
+					<float name="personnel" value="8" />
+					<float name="vehicle" value="0" />
+				</group>
 			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_none" />
