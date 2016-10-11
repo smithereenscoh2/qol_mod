@@ -466,6 +466,30 @@
 			<FileHash>8e6fbf99d2b29dcbc9b292df3899044e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_17_pounder_pit_commander_mp.xml</FileName>
+			<FileHash>fc3af47f26fa060bcbc0a27fb1b665b2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_17_pounder_pit_mp.xml</FileName>
+			<FileHash>31137d4336c8aa1d855d8c841051a4a5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_3_inch_mortar_emplacement.xml</FileName>
+			<FileHash>53a14818bc777de17497b83d35a2e073</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_3_inch_mortar_emplacement_commander_mp.xml</FileName>
+			<FileHash>df09d2f452f10e2d512c9c1d0845659a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_bofors_40mm_autocannon_commander_mp.xml</FileName>
+			<FileHash>63ef92d90ceecb2931cf7fd7c69383c0</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_bofors_40mm_autocannon_mp.xml</FileName>
+			<FileHash>fa3c8320572e2e90c4fb164809c969e2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\soldiers\brit_medic\brit_medic_with_pistol_mp.xml</FileName>
 			<FileHash>b8e11119fc05a0f694d4a65e56cb40ef</FileHash>
 		</BurnInfo>
@@ -767,7 +791,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\sapper_squad\sapper_squad_mp.xml</FileName>
-			<FileHash>85f596cd38028e67304325884f3617e1</FileHash>
+			<FileHash>49c299a39d816dbbf2ee730b88d330ab</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\sapper_squad\sapper_squad_recovery_mp.xml</FileName>
@@ -775,7 +799,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\tommy_squad\tommy_squad_mp.xml</FileName>
-			<FileHash>5741f28a4126d575fbf9a730eca79beb</FileHash>
+			<FileHash>8f0e4c621c2b9198694eb0125d2097b7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\tommy_squad\tommy_squad_tank_hunter_mp.xml</FileName>
