@@ -18,6 +18,10 @@
 			<FileHash>f61f94378061e69b57b14757e3b7cbc4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\pershing_crew_grenade_targeted.xml</FileName>
+			<FileHash>839404668daea6528ce45620db32f088</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\usf_medic_heal_mp.xml</FileName>
 			<FileHash>6ce37ab1908ded4426a63f8a05b156f5</FileHash>
 		</BurnInfo>
@@ -40,6 +44,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\always_on_ability\commando_infiltration_camouflage_mp.xml</FileName>
 			<FileHash>5fe3e85ec91b468d1972bc4a565f7bdf</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\churchill_crew_grenade_targeted.xml</FileName>
+			<FileHash>7164a76cddabd19e82ddc41ad80d3388</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\comet_crew_grenade_targeted.xml</FileName>
+			<FileHash>716fa6f712c4a8e214496123f89ed311</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\universal_carrier_drop_piat.xml</FileName>
@@ -68,6 +80,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\timed_ability\brit_medic_tommy_timed_area_heal_mp.xml</FileName>
 			<FileHash>a8386a2c9413a6f9df202c590ccba91f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\timed_ability\churchill_inf_support_smoke.xml</FileName>
+			<FileHash>5abffd5c1ef713e19f2378726d65d1b9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\timed_ability\commander_ability\observation_mode.xml</FileName>
@@ -294,6 +310,10 @@
 			<FileHash>a6f727142374ea5eb4edea01dedf0625</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m26_pershing\m26_pershing_mp.xml</FileName>
+			<FileHash>03216924ab8c0f037641e96c2ed2c90b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m36_tank_destroyer\m36_tank_destroyer_mp.xml</FileName>
 			<FileHash>8c298698713486bca370ccf9ba70bce2</FileHash>
 		</BurnInfo>
@@ -356,6 +376,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\churchill\churchill_crocodile_mp.xml</FileName>
 			<FileHash>60701ee314ff6a2cdf3da053062f8818</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\churchill\churchill_default_mp.xml</FileName>
+			<FileHash>ab2f23c1eab34ac8b5d29234b452028a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\comet\comet_mp.xml</FileName>
+			<FileHash>0b8d1d1d611ccacd8feecc08847f05f3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\glider\glider_commandos_only.xml</FileName>
@@ -594,6 +622,10 @@
 			<FileHash>ec7751836a864636fccd7351e93c83bf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\vehicles\m26_pershing\m26_pershing_mp.xml</FileName>
+			<FileHash>3190f3f65f4310519caef4fa97ff0a16</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\vehicles\m3_halftrack_squad\m3_halftrack_squad_assault_mp.xml</FileName>
 			<FileHash>d1d0a019bb139cab2fb44e8f1b4c8c0f</FileHash>
 		</BurnInfo>
@@ -640,6 +672,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\vehicles\churchill_squad\churchill_crocodile_mp.xml</FileName>
 			<FileHash>63b24b4396025da262293e8d6e5e7149</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\vehicles\comet_tank_squad_mp\comet_tank_squad_mp.xml</FileName>
+			<FileHash>c82384fdad51a7fea2fbd2486d9755cd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\vehicles\m3_halftrack_squad\m3_halftrack_squad__resupply_mp.xml</FileName>
@@ -946,6 +982,10 @@
 			<FileHash>cf6bf6078e972127c900c6c59ea0cf70</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\explosive_weapons\light_artillery\pershing_crew_grenades.xml</FileName>
+			<FileHash>f5973bf4ce29c8ecfc80413c2e66e88a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\flame_throwers\assault_engineer_flamethrower.xml</FileName>
 			<FileHash>631d97472b7b45c700892f8b83c75d27</FileHash>
 		</BurnInfo>
@@ -1006,6 +1046,10 @@
 			<FileHash>d37d260b22419e88326c19630e6e8401</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\explosive_weapons\light_artillery\churchill_crew_grenades.xml</FileName>
+			<FileHash>6b8bd0404d6ced3704e4805a61a6a830</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\flame_throwers\churchill_flamethrower_mp.xml</FileName>
 			<FileHash>bcde887a59832ce06023c89d3e8a0c51</FileHash>
 		</BurnInfo>
@@ -1016,6 +1060,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\flame_throwers\universal_carrier_ronson_flamethrower_system_mp.xml</FileName>
 			<FileHash>ce9285f1f92eb29f2170ba0e5d7d66e5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\small_arms\machine_gun\light_machine_gun\churchill_hull_defense_left_mp.xml</FileName>
+			<FileHash>688e5cf4aee943d3a74320c692f75ca0</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\small_arms\machine_gun\light_machine_gun\churchill_hull_defense_right_mp.xml</FileName>
+			<FileHash>c8d612516578d341724ff4a164732631</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\small_arms\machine_gun\light_machine_gun\croc_dummy_cannon_mp.xml</FileName>
@@ -1055,11 +1107,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
-			<FileHash>04b0f5d57a0f07b15ec0184e96993978</FileHash>
+			<FileHash>03be81eeda47344b583582e9e156b0fd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>
-			<FileHash>6a6709c19bb4607ecd47bcb1a5e4c520</FileHash>
+			<FileHash>6f439a3c53f699f4fed180ccf8cefe7c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\info\Starship-Troopers.tga</FileName>
+			<FileHash>31776d8d98ab91ee09b3974d6d71c3d4</FileHash>
 		</BurnInfo>
 	</BurnInfo>
 	<BurnInfoExtendedInfo />

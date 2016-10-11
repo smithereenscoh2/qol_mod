@@ -37,9 +37,27 @@
 			<Children>
 				<d2p1:anyType i:type="BurnModInfo">
 					<Dependencies />
-					<Description>https://www.coh2.org/topic/55521/mr-smith-s-quality-of-life-mod</Description>
+					<Description>Full description here:
+https://www.coh2.org/topic/55521/mr-smith-s-quality-of-life-mod
+
+This mod is mostly about:
+- bugfixes (a crapton of them)
+- changes that make the game more enjoyable; for everyone
+
+Some of the things I have improved are the following:
+- Squad formations
+- Tank targetting
+- AT gun ambush abilities
+- Handheld AT ease-of-use changes
+- Flamer tanks
+- .. and many more!
+</Description>
 					<Hidden>false</Hidden>
-					<Name>Quality of Life mod v0.101</Name>
+					<Name>Quality of Life mod v0.102</Name>
+				</d2p1:anyType>
+				<d2p1:anyType i:type="BurnFile">
+					<BurnSettings i:nil="true" />
+					<RelativeName>info\Starship-Troopers.tga</RelativeName>
 				</d2p1:anyType>
 			</Children>
 			<IsExpanded>true</IsExpanded>
