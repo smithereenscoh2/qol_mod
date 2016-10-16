@@ -66,17 +66,6 @@
 						<locstring name="ui_name" value="0" />
 						<float name="required_free_slot_size" value="1" />
 					</template_reference>
-					<template_reference name="requirement" value="requirements\required_not" comment="Do you have two free slots (empty)? If so, don't show this upgrade">
-						<enum name="reason" value="usage" />
-						<locstring name="ui_name" value="0" />
-						<list name="requirement_table">
-							<template_reference name="required" value="requirements\required_slot_item_size">
-								<enum name="reason" value="usage" />
-								<locstring name="ui_name" value="0" />
-								<float name="required_free_slot_size" value="2" />
-							</template_reference>
-						</list>
-					</template_reference>
 					<template_reference name="requirement" value="requirements\required_slot_item">
 						<enum name="reason" value="usage" />
 						<locstring name="ui_name" value="11048194" />

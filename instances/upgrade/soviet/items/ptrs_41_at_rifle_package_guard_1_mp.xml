@@ -47,11 +47,6 @@
 				<bool name="permanent" value="True" />
 				<uniqueid name="id" value="1073743962" />
 			</template_reference>
-			<template_reference name="action" value="action\slot_item_add">
-				<instance_reference name="slot_item" value="slot_item\soviet\anti_tank_weapon\ptrs_41_anti_tank_rifle_guard_troop_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
-				<bool name="permanent" value="True" />
-				<uniqueid name="id" value="1073743963" />
-			</template_reference>
 		</list>
 		<list name="requirements">
 			<template_reference name="required" value="requirements\required_in_territory">
@@ -70,17 +65,6 @@
 						<enum name="reason" value="usage" />
 						<locstring name="ui_name" value="0" />
 						<float name="required_free_slot_size" value="1" />
-					</template_reference>
-					<template_reference name="requirement" value="requirements\required_not" comment="Do you have two free slots (empty)? If so, don't show this upgrade">
-						<enum name="reason" value="usage" />
-						<locstring name="ui_name" value="0" />
-						<list name="requirement_table">
-							<template_reference name="required" value="requirements\required_slot_item_size">
-								<enum name="reason" value="usage" />
-								<locstring name="ui_name" value="0" />
-								<float name="required_free_slot_size" value="2" />
-							</template_reference>
-						</list>
 					</template_reference>
 					<template_reference name="requirement" value="requirements\required_slot_item">
 						<enum name="reason" value="usage" />
