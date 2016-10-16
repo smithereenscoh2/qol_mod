@@ -395,7 +395,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\soldiers\paratrooper\paratrooper_mp.xml</FileName>
-			<FileHash>e365b756c8dc2530d9bf71be292556ad</FileHash>
+			<FileHash>3733ea6fb5b2474e059b6d5541f8d2b3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\soldiers\pathfinder\pathfinder_ir_mp.xml</FileName>
@@ -1040,6 +1040,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\squad_formations\new_rifle_line.xml</FileName>
 			<FileHash>5bbfe2f0c892ed13c3b5df5c18dbb27f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\aef\ability_lock_out\paratrooper_all_landed.xml</FileName>
+			<FileHash>3f8e15fff5b3df302620118034369e49</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\aef\commander\ability\paradropped_support_drop.xml</FileName>

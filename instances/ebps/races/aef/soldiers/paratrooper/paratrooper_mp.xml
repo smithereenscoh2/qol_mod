@@ -921,19 +921,12 @@
 									<enum name="reason" value="usage" />
 									<locstring name="ui_name" value="0" />
 									<list name="requirement_table">
-										<template_reference name="required" value="requirements\required_in_state">
+										<template_reference name="required" value="requirements\required_squad_upgrade">
 											<enum name="reason" value="usage" />
 											<locstring name="ui_name" value="0" />
-											<bool name="garrisoned" value="False" />
-											<bool name="healed" value="False" />
-											<float name="in_combat_since" value="3" />
-											<bool name="injured" value="False" />
-											<bool name="leader" value="False" />
-											<bool name="not_moving" value="False" />
-											<bool name="not_retreating" value="False" />
-											<bool name="pinned" value="False" />
-											<bool name="suppressed" value="False" />
-											<bool name="camouflaged" value="False" />
+											<bool name="include_queued" value="False" />
+											<bool name="is_present" value="True" />
+											<instance_reference name="upgrade_name" value="upgrade\aef\ability_lock_out\paratrooper_all_landed" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 										</template_reference>
 									</list>
 								</template_reference>
@@ -950,6 +943,47 @@
 								<int name="phrase_order" value="0" />
 								<locstring name="phrase" value="0" />
 							</template_reference>
+						</template_reference>
+						<template_reference name="action" value="action\delay">
+							<float name="delay" value="15" />
+							<float name="delay_min" value="0" />
+							<bool name="progress_bar" value="False" />
+							<bool name="randomize" value="False" />
+							<list name="delayed_actions">
+								<template_reference name="action" value="action\requirement_action">
+									<bool name="check_self" value="False" />
+									<bool name="global_fire_and_forget_on_success" value="False" />
+									<bool name="instant_requirement_check" value="False" />
+									<bool name="kill_action_on_failed_requirements" value="False" />
+									<bool name="no_retrigger" value="False" />
+									<bool name="validate_all_sub_actions" value="True" />
+									<list name="requirement_table">
+										<template_reference name="required" value="requirements\required_squad_upgrade">
+											<enum name="reason" value="usage" />
+											<locstring name="ui_name" value="0" />
+											<bool name="include_queued" value="False" />
+											<bool name="is_present" value="False" />
+											<instance_reference name="upgrade_name" value="upgrade\aef\ability_lock_out\paratrooper_all_landed" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+										</template_reference>
+									</list>
+									<list name="action_table">
+										<template_reference name="action" value="action\upgrade_add">
+											<bool name="apply_to_entities_in_squad" value="False" />
+											<bool name="trigger_publish_event" value="False" />
+											<instance_reference name="upgrade" value="upgrade\aef\ability_lock_out\paratrooper_all_landed" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+											<uniqueid name="id" value="1073746312" />
+										</template_reference>
+									</list>
+									<uniqueid name="id" value="1073746313" />
+									<bool name="fire_and_forget_non_global" value="False" />
+									<template_reference name="ui_help_text" value="tables\help_text_phrase">
+										<int name="phrase_order" value="0" />
+										<locstring name="phrase" value="0" />
+									</template_reference>
+								</template_reference>
+							</list>
+							<uniqueid name="id" value="1073746311" />
+							<bool name="can_prevent_refund" value="True" />
 						</template_reference>
 					</list>
 					<enum name="change_target_type" value="squad" />
