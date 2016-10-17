@@ -331,7 +331,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\west_german.xml</FileName>
-			<FileHash>e9cdc1a3918310a3d6a7aab47b467924</FileHash>
+			<FileHash>2b5e389578aced58695ae31b2ff3bd3f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\aef_auras\ambulance_healing_aura_high_mp.xml</FileName>
@@ -651,7 +651,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp.xml</FileName>
-			<FileHash>09ba3a4004031b4ad0b0052eac39cc84</FileHash>
+			<FileHash>194ce5190b3e1cf182257d4b05bc4875</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\defensive_structures\flak_emplacement.xml</FileName>
@@ -704,6 +704,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\vehicles\jagdtiger_sdkfz_186\jagdtiger_sdkfz_186_mp.xml</FileName>
 			<FileHash>b2b0087a1f18ba1dbe12aea631be6af9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\vehicles\king_tiger_sdkfz_182\king_tiger_sdkfz_182_mp.xml</FileName>
+			<FileHash>c9fc4477ad33ccf64f583aeb9d5345a7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\vehicles\panzer_ii_luchs_sdkfz_123\panzer_ii_luchs_sdkfz_123_mp.xml</FileName>
@@ -1020,6 +1024,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\west_german\vehicles\hetzer_squad\hetzer_squad_mp.xml</FileName>
 			<FileHash>28b1ba558a92beb9190c1838d0bc867c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\west_german\vehicles\king_tiger_squad\king_tiger_squad_mp.xml</FileName>
+			<FileHash>d54f2020de32b98c53e9ed5da8385450</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\west_german\vehicles\panzer_ii_luchs_squad\panzer_ii_luchs_squad_mp.xml</FileName>
