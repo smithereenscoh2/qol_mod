@@ -1,5 +1,5 @@
 hidden = false
-name = "Quality of Life mod v0.103"
+name = "Quality of Life mod v0.104"
 description = "Full description here:\nhttps://www.coh2.org/topic/55521/mr-smith-s-quality-of-life-mod\n\nThis mod is mostly about:\n- bugfixes (a crapton of them)\n- changes that make the game more enjoyable; for everyone\n\nSome of the things I have improved are the following:\n- Squad formations\n- Tank targetting\n- AT gun ambush abilities\n- Handheld AT ease-of-use changes\n- Flamer tanks\n- .. and many more!\n"
 dependencies = 
 {
