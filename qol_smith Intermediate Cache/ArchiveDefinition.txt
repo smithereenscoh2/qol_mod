@@ -28,14 +28,17 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\commander_ability\glider_commandos_only.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\commander_ability\officer_recon_sweep.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\dispatch_ability\direct_barrage.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\dispatch_ability\glider_headquarters.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\dispatch_ability\infiltration_commandos.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\grenades\cover_smoke_grenades.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\timed_ability\brit_medic_tommy_timed_area_heal_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\timed_ability\churchill_inf_support_smoke.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\timed_ability\officer_charge_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\timed_ability\commander_ability\observation_mode.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\toggle_ability\brit_hold_fire_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\toggle_ability\brit_vehicle_hold_fire_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\toggle_ability\crocodile_toggle_auto_face_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\toggle_ability\forward_hq_retreat_point_glider_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\common\toggle_ability\atgun_hold_fire_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\common\toggle_ability\atinf_hold_fire_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\common\toggle_ability\auto_face_mp.rgd
@@ -277,6 +280,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\aef\research\lieutenant_dispatched_upgrade_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\british\items\universal_carrier_wasp_package_upgrade_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\british\research\company_anvil_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\british\research\fwd_glider_retreat_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\common\infantry_discount_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\common\tokens\atinf_prioritise.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\german\production\panzer_grenadier_build_mp.rgd

@@ -504,6 +504,24 @@
 							<enum name="change_target_type" value="squad" />
 							<uniqueid name="id" value="1073743091" />
 						</template_reference>
+						<template_reference name="action" value="action\delay">
+							<float name="delay" value="10" />
+							<float name="delay_min" value="0" />
+							<bool name="progress_bar" value="False" />
+							<bool name="randomize" value="False" />
+							<list name="delayed_actions">
+								<template_reference name="action" value="action\make_dead">
+									<enum name="death_intensity" value="death_intensity_low" />
+									<bool name="ignore_invulnerability" value="False" />
+									<bool name="destroy" value="False" />
+									<list name="death_reaction_table">
+									</list>
+									<uniqueid name="id" value="1073746317" />
+								</template_reference>
+							</list>
+							<uniqueid name="id" value="1073746316" />
+							<bool name="can_prevent_refund" value="True" />
+						</template_reference>
 					</list>
 					<uniqueid name="id" value="1073743092" />
 					<bool name="fire_and_forget_non_global" value="False" />
@@ -512,9 +530,67 @@
 						<locstring name="phrase" value="0" />
 					</template_reference>
 				</template_reference>
-				<template_reference name="action" value="action\garrison_squad_action">
-					<instance_reference name="squad_blueprint" value="sbps\races\british\soldiers\brit_officer_squad\air_support_officer_squad_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
-					<uniqueid name="id" value="1073743093" />
+				<template_reference name="action" value="action\requirement_action">
+					<bool name="check_self" value="False" />
+					<bool name="global_fire_and_forget_on_success" value="False" />
+					<bool name="instant_requirement_check" value="True" />
+					<bool name="kill_action_on_failed_requirements" value="True" />
+					<bool name="no_retrigger" value="False" />
+					<bool name="validate_all_sub_actions" value="True" />
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_not">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<list name="requirement_table">
+								<template_reference name="required" value="requirements\required_squad">
+									<enum name="reason" value="" />
+									<locstring name="ui_name" value="0" />
+									<float name="max_squad_cap" value="1" />
+									<instance_reference name="squad_name" value="sbps\races\british\soldiers\brit_officer_squad\air_support_officer_squad_mp" />
+								</template_reference>
+							</list>
+						</template_reference>
+					</list>
+					<list name="action_table">
+						<template_reference name="action" value="action\garrison_squad_action">
+							<instance_reference name="squad_blueprint" value="sbps\races\british\soldiers\commando_squad\commando_squad_mp" />
+							<uniqueid name="id" value="1073746320" />
+						</template_reference>
+					</list>
+					<uniqueid name="id" value="1073746321" />
+					<bool name="fire_and_forget_non_global" value="False" />
+					<template_reference name="ui_help_text" value="tables\help_text_phrase">
+						<int name="phrase_order" value="0" />
+						<locstring name="phrase" value="0" />
+					</template_reference>
+				</template_reference>
+				<template_reference name="action" value="action\requirement_action">
+					<bool name="check_self" value="False" />
+					<bool name="global_fire_and_forget_on_success" value="False" />
+					<bool name="instant_requirement_check" value="True" />
+					<bool name="kill_action_on_failed_requirements" value="True" />
+					<bool name="no_retrigger" value="False" />
+					<bool name="validate_all_sub_actions" value="True" />
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_squad">
+							<enum name="reason" value="" />
+							<locstring name="ui_name" value="0" />
+							<float name="max_squad_cap" value="1" />
+							<instance_reference name="squad_name" value="sbps\races\british\soldiers\brit_officer_squad\air_support_officer_squad_mp" />
+						</template_reference>
+					</list>
+					<list name="action_table">
+						<template_reference name="action" value="action\garrison_squad_action">
+							<instance_reference name="squad_blueprint" value="sbps\races\british\soldiers\brit_officer_squad\air_support_officer_squad_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+							<uniqueid name="id" value="1073746319" />
+						</template_reference>
+					</list>
+					<uniqueid name="id" value="1073746318" />
+					<bool name="fire_and_forget_non_global" value="False" />
+					<template_reference name="ui_help_text" value="tables\help_text_phrase">
+						<int name="phrase_order" value="0" />
+						<locstring name="phrase" value="0" />
+					</template_reference>
 				</template_reference>
 				<template_reference name="action" value="action\set_production_disabled">
 					<bool name="production_disabled" value="True" />
@@ -1722,7 +1798,7 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
-				<instance_reference name="ability" value="abilities\british\toggle_ability\forward_hq_retreat_point_glider_mp" />
+				<instance_reference name="ability" value="abilities\british\toggle_ability\forward_hq_retreat_point_glider_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\hold_ext">
@@ -1817,6 +1893,7 @@
 			<bool name="must_be_in_supply" value="False" />
 			<float name="number_of_standard_slots" value="-1" />
 			<list name="standard_upgrades">
+				<instance_reference name="upgrade" value="upgrade\british\research\fwd_glider_retreat_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\spawner_ext">
@@ -1834,7 +1911,7 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="12" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\british\soldiers\brit_medic_squad\brit_medic_squad_mp" />
+					<instance_reference name="squad" value="sbps\races\british\soldiers\brit_officer_squad\air_support_officer_squad_mp" />
 					<bool name="spawn_at_map_entry_point" value="False" />
 				</group>
 			</list>
