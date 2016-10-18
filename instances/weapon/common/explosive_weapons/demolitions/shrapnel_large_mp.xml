@@ -430,7 +430,7 @@
 			<float name="fire_cone_angle_vert" value="2" />
 		</group>
 		<locstring name="ui_name" value="0" />
-		<enum name="weapon_type" value="big_explosive" />
+		<enum name="weapon_type" value="small_explosive" />
 		<instance_reference name="ui_range" value="" />
 		<instance_reference name="ui_setfacing" value="" />
 		<group name="penetration">
@@ -451,6 +451,33 @@
 					<float name="accuracy_multiplier" value="1" />
 					<float name="damage_multiplier" value="15" />
 					<float name="penetration_multiplier" value="1" />
+					<float name="suppression_multiplier" value="1" />
+				</group>
+			</group>
+			<group name="target_unit_type_multipliers">
+				<enum name="unit_type" value="building" />
+				<group name="weapon_multipliers">
+					<float name="accuracy_multiplier" value="0" />
+					<float name="damage_multiplier" value="0" />
+					<float name="penetration_multiplier" value="0" />
+					<float name="suppression_multiplier" value="1" />
+				</group>
+			</group>
+			<group name="target_unit_type_multipliers">
+				<enum name="unit_type" value="vehicle" />
+				<group name="weapon_multipliers">
+					<float name="accuracy_multiplier" value="0" />
+					<float name="damage_multiplier" value="0" />
+					<float name="penetration_multiplier" value="0" />
+					<float name="suppression_multiplier" value="1" />
+				</group>
+			</group>
+			<group name="target_unit_type_multipliers">
+				<enum name="unit_type" value="ambient_building" />
+				<group name="weapon_multipliers">
+					<float name="accuracy_multiplier" value="0" />
+					<float name="damage_multiplier" value="0" />
+					<float name="penetration_multiplier" value="0" />
 					<float name="suppression_multiplier" value="1" />
 				</group>
 			</group>

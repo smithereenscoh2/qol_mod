@@ -210,6 +210,10 @@
 			<FileHash>d854571e14cf9740b5baa499921069d1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\timed_ability\goliath_self_destruct_mp.xml</FileName>
+			<FileHash>f63d4b7d15af15c92535f59f6fd44761</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\toggle_ability\wehr_vehicle_hold_fire_mp.xml</FileName>
 			<FileHash>9d88e9631348977cf39221f4430ff0c5</FileHash>
 		</BurnInfo>
@@ -720,6 +724,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\team_weapons\at_gun\raketenwerfer43_88mm_puppchen_antitank_gun_mp.xml</FileName>
 			<FileHash>ad333ae0ed7ea80a267bcdfe46e2d94f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\vehicles\goliath\goliath_mp.xml</FileName>
+			<FileHash>230629db049e90b34d0b0218b8403312</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\vehicles\jagdpanzer_iv_sdkfz_162\jagdpanzer_iv_sdkfz_162_mp.xml</FileName>
@@ -1347,7 +1355,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\common\explosive_weapons\demolitions\shrapnel_large_mp.xml</FileName>
-			<FileHash>5a0cfb254df7bbeb4dca50c5bca154a1</FileHash>
+			<FileHash>b30cac94ea30dee24da79ff505151dd3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\soviet\explosive_weapons\mine\engineer_demoliion.xml</FileName>
