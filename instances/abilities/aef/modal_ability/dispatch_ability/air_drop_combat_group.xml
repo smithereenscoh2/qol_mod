@@ -43,7 +43,6 @@
 								<float name="additional_scatter_near_entity" value="-8.9" />
 								<float name="additional_scatter_entity_radius" value="4" />
 								<list name="near_entities">
-									<instance_reference name="near_entity" value="ebps\races\aef\buildings\defensive_structures\airborne_beacon_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 								</list>
 							</group>
 							<template_reference name="ui_help_text" value="tables\help_text_phrase">
