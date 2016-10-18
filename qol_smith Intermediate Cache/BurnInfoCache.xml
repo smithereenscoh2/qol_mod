@@ -55,11 +55,19 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\dispatch_ability\air_drop_combat_group.xml</FileName>
-			<FileHash>37e48f276eb9add2c96a7030de8c7f86</FileHash>
+			<FileHash>608dac026408efdceefecbb91b849f8b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\timed_ability\ambulance_heal_area.xml</FileName>
 			<FileHash>7fb17bee9b75e6e37b3152626b12da47</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\timed_ability\beacon_disable.xml</FileName>
+			<FileHash>347cc373e793ce6feab80183ecf8859c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\toggle_ability\forward_hq_retreat_point_beacon_mp.xml</FileName>
+			<FileHash>4c3a1920da98070bc39a696d1d42ec47</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp.xml</FileName>
@@ -148,6 +156,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\toggle_ability\forward_hq_retreat_point_glider_mp.xml</FileName>
 			<FileHash>6329f9ece6ef077fcea709364a112253</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\toggle_ability\forward_retreat_point_commando_glider_mp.xml</FileName>
+			<FileHash>e432a1b180a88340e0f5fc535abc651e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\toggle_ability\forward_retreat_point_commando_glider_recharging_mp.xml</FileName>
+			<FileHash>41dd3007d2456396ac389eb7d508d5a5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\common\toggle_ability\atgun_hold_fire_mp.xml</FileName>
@@ -390,6 +406,10 @@
 			<FileHash>975d15e6c230d392457854675d62fab5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\buildings\defensive_structures\airborne_beacon_mp.xml</FileName>
+			<FileHash>e3c020a3f88a283062f2ac4569c30e4a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\soldiers\assault_engineer\assault_engineer_mp.xml</FileName>
 			<FileHash>d6a7cd3bda8f8fa1266f346ebfeb8794</FileHash>
 		</BurnInfo>
@@ -482,6 +502,10 @@
 			<FileHash>472133b6d3a8e13b38aa5b205ec96d2a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\defensive_structures\commando_retreat_point_mp.xml</FileName>
+			<FileHash>7ccf4337d5f1b052206086866053b946</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_17_pounder_gun_mp.xml</FileName>
 			<FileHash>8e6fbf99d2b29dcbc9b292df3899044e</FileHash>
 		</BurnInfo>
@@ -551,11 +575,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\glider\glider_commandos_only.xml</FileName>
-			<FileHash>7a31c877f8923ab0bb11582ffc05ede4</FileHash>
+			<FileHash>b4a35323b685656b6429ae319bf40d8c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\glider\glider_headquarters.xml</FileName>
-			<FileHash>e680f17a25422e8d46aa04c5f745f1d0</FileHash>
+			<FileHash>38a4b63d34f865ca5768ca8e8db14068</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
@@ -759,11 +783,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\paratrooper_squad\paratrooper_squad_mp.xml</FileName>
-			<FileHash>0d4c8962729c1adab8db3c69de9beab8</FileHash>
+			<FileHash>4f73618c87b13e048deef273e044d1f3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\paratrooper_squad\paratrooper_squad_support_mp.xml</FileName>
-			<FileHash>df53221c004a18570ecafd5cb5bac1e5</FileHash>
+			<FileHash>5ded7734414e9d9831fafc5a6fb2e827</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_mp.xml</FileName>
@@ -839,7 +863,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\commando_squad\commando_squad_mp.xml</FileName>
-			<FileHash>c60abacf08a5ac85aba33e3593c53401</FileHash>
+			<FileHash>32b66f5f5d3b18079d94bec394e01181</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\commando_squad\infiltration_commando_squad_mp.xml</FileName>
@@ -1130,6 +1154,10 @@
 			<FileHash>f95acd4125fd1ad7fbfb001d85bdd987</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\aef\research\beacon_retreat_mp.xml</FileName>
+			<FileHash>189cf7bce82c2f78593aaee1c70aee03</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\aef\research\captain_dispatched_upgrade_mp.xml</FileName>
 			<FileHash>4fe07989c4b65ead104543f10caaf8fe</FileHash>
 		</BurnInfo>
@@ -1147,7 +1175,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\british\research\fwd_glider_retreat_mp.xml</FileName>
-			<FileHash>214795ae67b971010e2bff24f4b679e2</FileHash>
+			<FileHash>d9a95ac5fd4211db885bff691a7184e0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\common\infantry_discount_mp.xml</FileName>
@@ -1335,7 +1363,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
-			<FileHash>e1629508e8e2c7a40942381b2a2b7525</FileHash>
+			<FileHash>8563c94aaaab0c81ee05d19007bc260b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>

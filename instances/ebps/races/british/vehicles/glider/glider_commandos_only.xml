@@ -288,14 +288,6 @@
 					<bool name="no_retrigger" value="False" />
 					<bool name="validate_all_sub_actions" value="True" />
 					<list name="requirement_table">
-						<template_reference name="required" value="requirements\required_in_territory">
-							<enum name="reason" value="usage" />
-							<locstring name="ui_name" value="0" />
-							<bool name="in_supply" value="True" />
-							<bool name="is_secured" value="False" />
-							<bool name="is_secured_by_checkpoint" value="False" />
-							<bool name="not_in_transition" value="False" />
-						</template_reference>
 						<template_reference name="required" value="requirements\required_not">
 							<enum name="reason" value="usage" />
 							<locstring name="ui_name" value="0" />
@@ -354,7 +346,7 @@
 									<bool name="die_with_creator" value="False" />
 									<template_reference name="ui_info" value="tables\ui_info">
 										<locstring name="screen_name" value="11095447" />
-										<locstring name="help_text" value="11095779" />
+										<locstring name="help_text" value="44" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 										<icon name="icon_name" value="Icons_odds_reinforce" />
 										<string name="hotkey_name" value="" />
 									</template_reference>
@@ -533,6 +525,11 @@
 				<template_reference name="action" value="action\garrison_squad_action">
 					<instance_reference name="squad_blueprint" value="sbps\races\british\soldiers\commando_squad\commando_squad_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 					<uniqueid name="id" value="1073743144" />
+				</template_reference>
+				<template_reference name="action" value="action\set_production_disabled">
+					<bool name="production_disabled" value="True" />
+					<uniqueid name="id" value="1073746458" />
+					<locstring name="disabled_reason" value="0" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -1028,6 +1025,62 @@
 						</list>
 						<uniqueid name="id" value="1073743154" />
 						<bool name="can_prevent_refund" value="True" />
+					</template_reference>
+					<template_reference name="actions" value="action\add_ability_action">
+						<uniqueid name="id" value="1073746473" />
+						<instance_reference name="ability_to_add" value="abilities\british\toggle_ability\forward_retreat_point_commando_glider_recharging_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+					</template_reference>
+					<template_reference name="actions" value="action\delay">
+						<float name="delay" value="30" />
+						<float name="delay_min" value="0" />
+						<bool name="progress_bar" value="False" />
+						<bool name="randomize" value="False" />
+						<list name="delayed_actions">
+							<template_reference name="action" value="action\upgrade_add">
+								<bool name="apply_to_entities_in_squad" value="False" />
+								<bool name="trigger_publish_event" value="False" />
+								<instance_reference name="upgrade" value="upgrade\british\research\fwd_hq_retreat_mp" />
+								<uniqueid name="id" value="1073746466" />
+							</template_reference>
+						</list>
+						<uniqueid name="id" value="1073746465" />
+						<bool name="can_prevent_refund" value="True" />
+					</template_reference>
+					<template_reference name="actions" value="action\requirement_action">
+						<bool name="check_self" value="False" />
+						<bool name="global_fire_and_forget_on_success" value="False" />
+						<bool name="instant_requirement_check" value="False" />
+						<bool name="kill_action_on_failed_requirements" value="False" />
+						<bool name="no_retrigger" value="False" />
+						<bool name="validate_all_sub_actions" value="True" />
+						<list name="requirement_table" comment="If you haven't done a hard landing, allow units to be produced by the glider">
+							<template_reference name="required" value="requirements\required_not">
+								<enum name="reason" value="usage" />
+								<locstring name="ui_name" value="0" />
+								<list name="requirement_table">
+									<template_reference name="required" value="requirements\required_entity_upgrade">
+										<enum name="reason" value="usage" />
+										<locstring name="ui_name" value="0" />
+										<bool name="is_present" value="True" />
+										<instance_reference name="upgrade_name" value="upgrade\british\ability_lock_out\ability_lock_out_glider_hard_landed" />
+										<bool name="include_queued" value="False" />
+									</template_reference>
+								</list>
+							</template_reference>
+						</list>
+						<list name="action_table">
+							<template_reference name="action" value="action\set_production_disabled">
+								<bool name="production_disabled" value="False" />
+								<uniqueid name="id" value="1073746456" />
+								<locstring name="disabled_reason" value="0" />
+							</template_reference>
+						</list>
+						<uniqueid name="id" value="1073746457" />
+						<bool name="fire_and_forget_non_global" value="False" />
+						<template_reference name="ui_help_text" value="tables\help_text_phrase">
+							<int name="phrase_order" value="0" />
+							<locstring name="phrase" value="0" />
+						</template_reference>
 					</template_reference>
 				</list>
 				<group name="height_above_ground_actions">
@@ -1693,6 +1746,7 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
+				<instance_reference name="ability" value="abilities\british\toggle_ability\forward_retreat_point_commando_glider_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\hold_ext">

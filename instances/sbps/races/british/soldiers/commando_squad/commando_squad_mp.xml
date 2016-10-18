@@ -171,6 +171,14 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_requirement_ext">
 			<list name="requirement_table">
+				<template_reference name="required" value="requirements\required_in_territory">
+					<enum name="reason" value="usage" />
+					<locstring name="ui_name" value="0" />
+					<bool name="in_supply" value="True" />
+					<bool name="is_secured" value="False" />
+					<bool name="is_secured_by_checkpoint" value="False" />
+					<bool name="not_in_transition" value="False" />
+				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_apply_ext">
@@ -776,7 +784,7 @@
 				<enum name="unit_type00" value="hq" />
 				<enum name="unit_type01" value="hq_wreck" />
 				<enum name="unit_type02" value="alternate_retreat_point" />
-				<enum name="unit_type03" value="" />
+				<enum name="unit_type03" value="coho_raid_4" />
 				<enum name="unit_type04" value="" />
 			</group>
 			<list name="actions">

@@ -354,7 +354,7 @@
 									<bool name="die_with_creator" value="False" />
 									<template_reference name="ui_info" value="tables\ui_info">
 										<locstring name="screen_name" value="11095447" />
-										<locstring name="help_text" value="11095698" />
+										<locstring name="help_text" value="43" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 										<icon name="icon_name" value="Icons_odds_reinforce" />
 										<string name="hotkey_name" value="" />
 									</template_reference>
