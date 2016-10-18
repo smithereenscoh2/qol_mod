@@ -38,6 +38,18 @@
 			<FileHash>7d8236bf6553bf2b1a27cc8a9e5fe6fa</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_mortar_barrage_mp.xml</FileName>
+			<FileHash>159ba83773bce8f85ccfca572f6e454d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_smoke_barrage_mp.xml</FileName>
+			<FileHash>bd822d2d850eec960baa1c226920c5e0</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_white_phosphorous_barrage_ability_mp.xml</FileName>
+			<FileHash>a4bb68ee8cd85f47498afd6b8d9f8e37</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\commander_ability\artillery_155mm.xml</FileName>
 			<FileHash>dd551399e28a4fb75b45219a236113c5</FileHash>
 		</BurnInfo>
@@ -486,6 +498,10 @@
 			<FileHash>19729211e1402bd443631ac8b3b62735</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\team_weapons\m1_81mm_mortar_mp.xml</FileName>
+			<FileHash>d34e1a48969f3b8bbc35f0295b7acc30</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\team_weapons\at_guns\m1_57mm_antitank_gun_mp.xml</FileName>
 			<FileHash>27ad33c970fbc19365d1e8f63afe769c</FileHash>
 		</BurnInfo>
@@ -883,7 +899,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\team_weapons\m1_81mm_mortar_squad\m1_81mm_mortar_squad_mp.xml</FileName>
-			<FileHash>ab0ad17c8a313dc4ef02e1387a722ed4</FileHash>
+			<FileHash>4194f66848429b62ec9694db84605fd1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\team_weapons\m2hb_50cal_hmg_squad\m2hb_50cal_hmg_squad_mp.xml</FileName>
@@ -1288,6 +1304,22 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\explosive_weapons\light_artillery\pershing_crew_grenades.xml</FileName>
 			<FileHash>f5973bf4ce29c8ecfc80413c2e66e88a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_barrage_team_weapon_mp.xml</FileName>
+			<FileHash>59706d8532d12d92ff8972c3ac828c75</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_team_smoke_mp.xml</FileName>
+			<FileHash>0be88f01e27be934cc73ca4ab3d59060</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_team_weapon_mp.xml</FileName>
+			<FileHash>12dd967ff58e5c5a135c5d9133f46848</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_white_phosphorous_barrage_team_weapon_mp.xml</FileName>
+			<FileHash>91784bcdd96b4db545e63dc9b30c09b1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\flame_throwers\assault_engineer_flamethrower.xml</FileName>
