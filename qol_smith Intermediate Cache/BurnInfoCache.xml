@@ -394,16 +394,32 @@
 			<FileHash>6e5112ceabdb5ca3b70395a82ba6b7aa</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\british_avre_290mm_mortar.xml</FileName>
+			<FileHash>b7464e9a46a41ebfc0924931fae21394</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\british_avre_290mm_mortar_vet_3.xml</FileName>
+			<FileHash>3ff80a48005a15f4f4fa353929bb08cb</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\british_piat_spigot_mortar_mp.xml</FileName>
 			<FileHash>b2bba549ca80f6d9906247bc1939bd4b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\brummbar_150mm_he_shell_mp.xml</FileName>
+			<FileHash>c18a0f49039c9fc32b72c9d3408440c9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\demo_shrapnel_mp.xml</FileName>
-			<FileHash>1a35c3e971c3f57bbcb1b8a1c7834a63</FileHash>
+			<FileHash>41b5264eca559e0fec7ffbce99ccfe7e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\sturmtiger_nahvw_close_range_grenade.xml</FileName>
 			<FileHash>968cc3c7fd523b941affaf754d8dcaaa</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\sturmtiger_rw_61_380mm_rocket.xml</FileName>
+			<FileHash>292094eb2cada2783c1782d6154cf39e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\vehicle_flamethrowers_mp.xml</FileName>
@@ -1290,6 +1306,14 @@
 			<FileHash>1d29bef221aab701f187af3412cdb270</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_avre_spigot_mortar_mp.xml</FileName>
+			<FileHash>444dedd54ce4591809118e2477da4625</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_avre_spigot_mortar_vet_3_mp.xml</FileName>
+			<FileHash>b4be0819a654bb6e099b968df05890fc</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_croc_cupola_dummy_mp.xml</FileName>
 			<FileHash>1d07ec9d3dcfcb59ead4a631eb43d3d4</FileHash>
 		</BurnInfo>
@@ -1355,7 +1379,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\common\explosive_weapons\demolitions\shrapnel_large_mp.xml</FileName>
-			<FileHash>b30cac94ea30dee24da79ff505151dd3</FileHash>
+			<FileHash>70bc9a4e35b6b60ca12de9dbb3cd811e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\soviet\explosive_weapons\mine\engineer_demoliion.xml</FileName>
@@ -1376,6 +1400,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\ballistic_weapon\anti_tank_gun\raketenwerfer43_88mm_wg_mp.xml</FileName>
 			<FileHash>48da78efa7ab6a53cbb4a3248f163673</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\explosive_weapons\heavy_artillery\sturmtiger_rw_61_380mm_rocket_launcher.xml</FileName>
+			<FileHash>1103b2df561e9bf886458b47f6b51c90</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\explosive_weapons\light_artillery\sturmtiger_nahvw_close_range_grenades.xml</FileName>
