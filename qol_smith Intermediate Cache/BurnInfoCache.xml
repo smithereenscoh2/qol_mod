@@ -195,7 +195,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\modal_ability\commander_ability\stuka_bombing_strike.xml</FileName>
-			<FileHash>456a385db497393fd1e0e8eae9edef98</FileHash>
+			<FileHash>1a38dfef77b0cd0c70bc9968fb0fb015</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\modal_ability\commander_ability\stuka_fragmentation_bomb.xml</FileName>
@@ -416,6 +416,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\demo_shrapnel_mp.xml</FileName>
 			<FileHash>41b5264eca559e0fec7ffbce99ccfe7e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\stuka_airstrike_bomb.xml</FileName>
+			<FileHash>464de7229b87643cb898a43b312bbb8f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\sturmtiger_nahvw_close_range_grenade.xml</FileName>
@@ -1282,6 +1286,10 @@
 			<FileHash>79003d2289a96345d50006ce99e5a035</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\axis\explosive_weapons\heavy_artillery\stuka_500_lb_bomb.xml</FileName>
+			<FileHash>e8a13fe76ef15fb48c0d3848c7eb9aba</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\axis\flame_throwers\halftrack_flammenwerfer_mp.xml</FileName>
 			<FileHash>383fd0608a7672e70fe997bb7a82f305</FileHash>
 		</BurnInfo>
@@ -1311,11 +1319,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_avre_spigot_mortar_mp.xml</FileName>
-			<FileHash>444dedd54ce4591809118e2477da4625</FileHash>
+			<FileHash>3d19a7f3ec701b84683f8c3e6eb4191f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_avre_spigot_mortar_vet_3_mp.xml</FileName>
-			<FileHash>b4be0819a654bb6e099b968df05890fc</FileHash>
+			<FileHash>c8e300ea02a0b3f6ab4808aebeb0477a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\ballistic_weapon\tank_gun\churchill_croc_cupola_dummy_mp.xml</FileName>
@@ -1387,11 +1395,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\soviet\explosive_weapons\heavy_artillery\203mm_b-4_commander_mp.xml</FileName>
-			<FileHash>c7885aa35a73acf490425a44e2896d4f</FileHash>
+			<FileHash>721688c461de483c99bf772b441eb9ed</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\soviet\explosive_weapons\mine\engineer_demoliion.xml</FileName>
-			<FileHash>627421f3694bf8d2eb1deec520211e5d</FileHash>
+			<FileHash>617701a2e3ddffac22f49a7c1d0163ce</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\soviet\flame_throwers\flamethrower_roks3_mp.xml</FileName>
@@ -1411,7 +1419,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\explosive_weapons\heavy_artillery\sturmtiger_rw_61_380mm_rocket_launcher.xml</FileName>
-			<FileHash>1103b2df561e9bf886458b47f6b51c90</FileHash>
+			<FileHash>b2c879a599b48206e6b40319bc21b0c2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\explosive_weapons\light_artillery\sturmtiger_nahvw_close_range_grenades.xml</FileName>
