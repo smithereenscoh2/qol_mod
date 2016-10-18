@@ -443,11 +443,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\soldiers\captain\captain_mp.xml</FileName>
-			<FileHash>a1ebc44c681f38f886c521bc62d165a4</FileHash>
+			<FileHash>868eadac02e06149350b2b9b0b0d19ef</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\soldiers\lieutenant\lieutenant_mp.xml</FileName>
-			<FileHash>c8fd0be84a2a1d2c76ab4f665d6941f4</FileHash>
+			<FileHash>ca4db14ec0c8a4b64fc88ca762a12f51</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\soldiers\major\major_mp.xml</FileName>
@@ -496,6 +496,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m10_tank_destroyer\m10_tank_destroyer_mp.xml</FileName>
 			<FileHash>a6f727142374ea5eb4edea01dedf0625</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m20_utility_car\m20_utility_car_mp.xml</FileName>
+			<FileHash>0c421600313eeb0a04f8937aed07cb78</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m26_pershing\m26_pershing_mp.xml</FileName>
@@ -811,11 +815,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\captain_squad\captain_squad_mp.xml</FileName>
-			<FileHash>c41cdf6e437459eaeec963eeabb41407</FileHash>
+			<FileHash>058b9822e033de8209667cd07068f8d6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\lieutenant_squad\lieutenant_squad_mp.xml</FileName>
-			<FileHash>6e69c6ec09893314b1028cec790aa0ba</FileHash>
+			<FileHash>e2d2e6129b0c04f6a8fe50d2e8c722e3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\major_squad\major_squad_mp.xml</FileName>
@@ -1126,6 +1130,10 @@
 			<FileHash>b1b3752f63f7dff74b9767f6f7c4482c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\aef\small_arms\officer_thompson_mp.xml</FileName>
+			<FileHash>47dbdc50c872b8197703c3947e0dfb5d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\aef\small_arms\paratrooper_m1919a6_lmg_mp.xml</FileName>
 			<FileHash>c7928f1b9707d5294159dfb8310cb6fd</FileHash>
 		</BurnInfo>
@@ -1199,11 +1207,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\aef\research\captain_dispatched_upgrade_mp.xml</FileName>
-			<FileHash>8f82770f8d8b039644d6e03462283280</FileHash>
+			<FileHash>2bfca57aba81ec16fb42f324ff43e325</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\aef\research\lieutenant_dispatched_upgrade_mp.xml</FileName>
-			<FileHash>8adf30aef6790b2f14bf3786b20952cf</FileHash>
+			<FileHash>e0605cc3f37445a3d2cacd5a343a6b8c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\british\items\universal_carrier_wasp_package_upgrade_mp.xml</FileName>
@@ -1435,11 +1443,19 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>
-			<FileHash>223c389e31476a56de5d679e904dece1</FileHash>
+			<FileHash>682606791fad81db70cc939bf0281198</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\info\Starship-Troopers.tga</FileName>
 			<FileHash>31776d8d98ab91ee09b3974d6d71c3d4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\data\art\armies\aef\soldiers\captain\captain.abp</FileName>
+			<FileHash>867bba06026b749d2bdfec7c458e36bc</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\data\art\armies\aef\soldiers\lieutenant\lieutenant.abp</FileName>
+			<FileHash>9f31422597152be78126fdbe17f1511b</FileHash>
 		</BurnInfo>
 	</BurnInfo>
 	<BurnInfoExtendedInfo />

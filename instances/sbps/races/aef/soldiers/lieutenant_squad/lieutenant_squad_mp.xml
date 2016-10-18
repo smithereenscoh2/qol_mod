@@ -433,6 +433,11 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">
 			<list name="actions">
 				<template_reference name="action" value="action\slot_item_add">
+					<instance_reference name="slot_item" value="slot_item\aef\small_arms\officer_thompson_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+					<bool name="permanent" value="True" />
+					<uniqueid name="id" value="1073746666" />
+				</template_reference>
+				<template_reference name="action" value="action\slot_item_add">
 					<instance_reference name="slot_item" value="slot_item\aef\small_arms\riflemen_m1918_bar_mp" />
 					<bool name="permanent" value="True" />
 					<uniqueid name="id" value="1073746479" />

@@ -574,6 +574,11 @@
 						<locstring name="phrase" value="0" />
 					</template_reference>
 				</template_reference>
+				<template_reference name="action" value="action\slot_item_add">
+					<instance_reference name="slot_item" value="slot_item\aef\small_arms\officer_thompson_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+					<bool name="permanent" value="True" />
+					<uniqueid name="id" value="1073746667" />
+				</template_reference>
 			</list>
 			<list name="squad_entity_actions">
 			</list>

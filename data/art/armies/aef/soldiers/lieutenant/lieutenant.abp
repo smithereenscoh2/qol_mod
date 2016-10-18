@@ -1,0 +1,16 @@
+model =
+{
+	"..\\..\\..\\Common\\NewMotionTree.abp",
+    
+	"..\\..\\weapons\\rifle_m1_carbine\\rifle_m1_carbine",
+	"..\\..\\weapons\\smg_m1_thompson\\smg_m1_thompson",
+
+	-- Common AEF Gear
+    "..\\..\\aefcommongear.abp",
+	"..\\..\\..\\Common\\weapons\\mine\\mine",
+
+	"..\\..\\weapons\\rifle_m1_garand\\rifle_m1_garand",
+	
+	-- Main Mesh
+	"lieutenant",
+}
