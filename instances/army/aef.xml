@@ -272,7 +272,7 @@
 					<instance_reference name="unlocked_building" value="" />
 					<list name="upgraded_squads">
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
-						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\lieutenant_squad\lieutenant_squad_mp" />
+						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\lieutenant_squad\lieutenant_squad_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 					</list>
 				</group>
 				<group name="unlocking_upgrade_info">

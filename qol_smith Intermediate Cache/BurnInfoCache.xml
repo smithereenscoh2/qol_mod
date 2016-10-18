@@ -331,7 +331,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\aef.xml</FileName>
-			<FileHash>22094405eac863e0d49694b345b1983b</FileHash>
+			<FileHash>b42c839e42db2e7b2d918c9fb5ef924c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\british.xml</FileName>
@@ -778,6 +778,14 @@
 			<FileHash>ae5de4884c924d069305dc8b4ff10dce</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\captain_squad\captain_squad_mp.xml</FileName>
+			<FileHash>f987f3effd58c08ae9249e402ef08ba6</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\lieutenant_squad\lieutenant_squad_mp.xml</FileName>
+			<FileHash>768282b18e297215f385b70d38172603</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\major_squad\major_squad_mp.xml</FileName>
 			<FileHash>761686f1654dbb2afdcf825f8aaba12f</FileHash>
 		</BurnInfo>
@@ -1159,11 +1167,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\aef\research\captain_dispatched_upgrade_mp.xml</FileName>
-			<FileHash>4fe07989c4b65ead104543f10caaf8fe</FileHash>
+			<FileHash>8f82770f8d8b039644d6e03462283280</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\aef\research\lieutenant_dispatched_upgrade_mp.xml</FileName>
-			<FileHash>e23f136d826c6ab27fcf7707284a906b</FileHash>
+			<FileHash>8adf30aef6790b2f14bf3786b20952cf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\british\items\universal_carrier_wasp_package_upgrade_mp.xml</FileName>
