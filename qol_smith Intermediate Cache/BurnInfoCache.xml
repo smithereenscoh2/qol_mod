@@ -118,6 +118,22 @@
 			<FileHash>07eefdc54d25cd6df2e9809ae64f978d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_coordinated_fire_order_officer_mp.xml</FileName>
+			<FileHash>50db508199490a23019e94c9e63c7bfe</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_coordinated_fire_order_sniper_mp.xml</FileName>
+			<FileHash>720624c681c99cb24e607493139055e7</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_coordinated_fire_preface_building_2_mp.xml</FileName>
+			<FileHash>77f635bee6db95c53f40a7c01513d1fe</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_coordinated_fire_preface_mp.xml</FileName>
+			<FileHash>b43a48bada595702efb94d598699777c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\commander_ability\glider_commandos_only.xml</FileName>
 			<FileHash>33bc98f365e39f8fe5316266b70659af</FileHash>
 		</BurnInfo>
@@ -127,7 +143,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\dispatch_ability\direct_barrage.xml</FileName>
-			<FileHash>7e24a4b6d4ea5c49adf51173611dd980</FileHash>
+			<FileHash>8271364a1191a2c51bc62b062e335d7e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\dispatch_ability\glider_headquarters.xml</FileName>
@@ -355,7 +371,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\british.xml</FileName>
-			<FileHash>c8af1beabc5d160316d251d0e9c1e77f</FileHash>
+			<FileHash>94ac7db561223864e76aaea6eba88a10</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\german.xml</FileName>
@@ -422,6 +438,10 @@
 			<FileHash>f82ac483a581aff24202e2241173a0c5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\british_88mm_airburst_artillery_base_mp.xml</FileName>
+			<FileHash>b1d4113225388eecf1f6e36227c83e7b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\british_avre_290mm_mortar.xml</FileName>
 			<FileHash>b7464e9a46a41ebfc0924931fae21394</FileHash>
 		</BurnInfo>
@@ -432,6 +452,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\british_piat_spigot_mortar_mp.xml</FileName>
 			<FileHash>b2bba549ca80f6d9906247bc1939bd4b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\brit_smoke_marker_coordinated_fire_mp.xml</FileName>
+			<FileHash>e8e8957dda9acdd36a1e897bd5f901ec</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\brummbar_150mm_he_shell_mp.xml</FileName>
@@ -566,6 +590,14 @@
 			<FileHash>a41accc8d1c77769428efdac694a78ca</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\base_building\british_building_1_mp.xml</FileName>
+			<FileHash>42bfd3484dff2e9b442da328b05d646f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\base_building\british_building_2_mp.xml</FileName>
+			<FileHash>a374115e34e715b7cb8af71456796512</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\base_building\british_hq\british_hq_truck_mp.xml</FileName>
 			<FileHash>8b7f3e19fc098c3665ed0f3a0183d99f</FileHash>
 		</BurnInfo>
@@ -587,31 +619,31 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_17_pounder_gun_mp.xml</FileName>
-			<FileHash>8e6fbf99d2b29dcbc9b292df3899044e</FileHash>
+			<FileHash>c9878f3bc10e0fbf9110460733ad0066</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_17_pounder_pit_commander_mp.xml</FileName>
-			<FileHash>fc3af47f26fa060bcbc0a27fb1b665b2</FileHash>
+			<FileHash>fb966b192f2f884c2e4b0821eff7cf9d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_17_pounder_pit_mp.xml</FileName>
-			<FileHash>31137d4336c8aa1d855d8c841051a4a5</FileHash>
+			<FileHash>ba49bdb46075778893c1a229cd3dbf21</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_3_inch_mortar_emplacement.xml</FileName>
-			<FileHash>53a14818bc777de17497b83d35a2e073</FileHash>
+			<FileHash>f60fd1af9e0efca23822e4d2f99c385b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_3_inch_mortar_emplacement_commander_mp.xml</FileName>
-			<FileHash>df09d2f452f10e2d512c9c1d0845659a</FileHash>
+			<FileHash>50b40a4538226ea8ccaac86ec5286ae7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_bofors_40mm_autocannon_commander_mp.xml</FileName>
-			<FileHash>63ef92d90ceecb2931cf7fd7c69383c0</FileHash>
+			<FileHash>97ba8750fd6c7bc0d019d1dac39fdff2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_bofors_40mm_autocannon_mp.xml</FileName>
-			<FileHash>fa3c8320572e2e90c4fb164809c969e2</FileHash>
+			<FileHash>decc3fb3046b334fd6289831857b1d5c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\soldiers\brit_medic\brit_medic_with_pistol_mp.xml</FileName>
@@ -979,11 +1011,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\tommy_squad\tommy_squad_mp.xml</FileName>
-			<FileHash>0ddd946523b06dfc49f4be64e14d7eb0</FileHash>
+			<FileHash>8e4e7af8a72a76706674563ceb53ddac</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\tommy_squad\tommy_squad_tank_hunter_mp.xml</FileName>
-			<FileHash>786ef4644f0af00d455c28a0a0dfddbb</FileHash>
+			<FileHash>c0f2ff56963666b690f9228958faa6b1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\team_weapons\at_gun_6_pounder\brit_6_pounder_at_gun_squad_mp.xml</FileName>
@@ -1275,7 +1307,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\british\items\universal_carrier_wasp_package_upgrade_mp.xml</FileName>
-			<FileHash>82b0239422f6c5cf818c31976ea28331</FileHash>
+			<FileHash>076149fc3bf169605881a33ed0a25637</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\british\research\company_anvil_mp.xml</FileName>
@@ -1450,8 +1482,20 @@
 			<FileHash>d37d260b22419e88326c19630e6e8401</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\explosive_weapons\grenade\tommy_officer_smoke_marker_grenade.xml</FileName>
+			<FileHash>fde108b0b8e2604cfdcf5598280839bf</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\explosive_weapons\heavy_artillery\qf_25lb_disabled_base_mp.xml</FileName>
+			<FileHash>2c6fd9c23ed7e6bda42aa8817a0bc8ce</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\explosive_weapons\heavy_artillery\qf_25lb_howitzer_coordinated_airburst_shell_mp.xml</FileName>
+			<FileHash>209ec048ad4ad34b4ae31c48d3f57e75</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\explosive_weapons\heavy_artillery\qf_25lb_howitzer_coordinated_fire_he_shell_base_mp.xml</FileName>
-			<FileHash>45b39a226923d50c60e2042264183a63</FileHash>
+			<FileHash>500c147f16fe31f39fe5ebc6306c3951</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\explosive_weapons\heavy_artillery\qf_25lb_howitzer_coordinated_fire_he_shell_mp.xml</FileName>
