@@ -235,10 +235,27 @@
 					<uniqueid name="id" value="1073746898" />
 					<bool name="can_prevent_refund" value="True" />
 				</template_reference>
+				<template_reference name="action" value="action\delay">
+					<float name="delay" value="60" />
+					<float name="delay_min" value="0" />
+					<bool name="progress_bar" value="False" />
+					<bool name="randomize" value="False" />
+					<list name="delayed_actions">
+						<template_reference name="action" value="action\victor_target_action">
+							<bool name="non_squad_entities_only" value="True" />
+							<list name="abilities_to_use">
+								<instance_reference name="ability" value="abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_smoke_screen_base_mp" />
+							</list>
+							<uniqueid name="id" value="1073746936" />
+						</template_reference>
+					</list>
+					<uniqueid name="id" value="1073746939" />
+					<bool name="can_prevent_refund" value="True" />
+				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\projectile_ext">
-			<float name="acceleration" value="10" />
+			<float name="acceleration" value="0.01" />
 			<group name="artillery">
 				<bool name="can_counter_barrage" value="False" />
 				<bool name="is_artillery" value="True" />
@@ -256,14 +273,14 @@
 				<template_reference name="collision_type" value="type_projectile_collision\tp_throw">
 				</template_reference>
 			</group>
-			<float name="deathtimer" value="16.5" />
+			<float name="deathtimer" value="2.5" />
 			<float name="delay_detonate_time" value="0" />
 			<bool name="delay_detonate_ui_enabled" value="False" />
 			<string name="launcher_marker" value="Marker_Grenade" />
 			<float name="life_time_while_alive" value="0" />
 			<float name="rotation_speed" value="0" />
 			<bool name="spawn_collision_fx" value="True" />
-			<float name="speed" value="9" />
+			<float name="speed" value="23" />
 			<bool name="collision_land_ignore" value="True" />
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">

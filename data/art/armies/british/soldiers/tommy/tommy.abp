@@ -1,0 +1,16 @@
+model =
+{
+	"..\\..\\..\\common\\NewMotionTree.abp",
+	"..\\..\\..\\common\\engineer.abp",
+	-- Main Mesh
+	"tommy",
+	
+	-- Common AEF Gear
+    --"..\\..\\..\\aef\\aefcommongear.abp",
+	--"..\\..\\..\\aef\\weapons\\rifle_m1_garand\\rifle_m1_garand",
+	"..\\..\\weapons\\boys_at_rifle\\boys_at_rifle",
+	"..\\..\\weapons\\rifle_lee_enfield\\rifle_lee_enfield",
+	"..\\..\\weapons\\smg_mk2_sten\\smg_mk2_sten",
+	"..\\..\\weapons\\gammon_bomb\\gammon_bomb",
+	"..\\..\\..\\aef\\weapons\\pistol_m1911_45\\pistol_m1911_45",	
+}

@@ -1,0 +1,15 @@
+model =
+{
+	"..\\..\\..\\Common\\NewMotionTree.abp",
+	"..\\..\\..\\common\\engineer.abp",
+	"..\\..\\..\\aef\\aefcommongear.abp",
+	
+	"..\\..\\..\\aef\\weapons\\pistol_m1911_45\\pistol_m1911_45",
+	"..\\..\\weapons\\rifle_lee_enfield\\rifle_lee_enfield",
+	"..\\..\\..\\common\\props\\medic_kit\\medic_kit",
+
+	-- Main Mesh
+	"medic",
+	
+}
+

@@ -1,0 +1,12 @@
+model =
+{
+	"..\\..\\..\\Common\\CompleteMotionTree.abp",
+	"..\\..\\..\\common\\weapons\\pistol\\pistol",
+    "..\\..\\weapons\\pistol_nagant\\pistol_nagant",
+    
+	-- Common Soviet Gear
+    "..\\..\\sovietcommongear.abp",
+
+	-- Main Mesh
+	"cossack_officer",
+}

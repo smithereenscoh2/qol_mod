@@ -3,7 +3,7 @@
 		<template_reference name="exts" value="ebpextensions\entity_blueprint_ext">
 			<string name="alternate_sua" value="" />
 			<bool name="always_revealed_in_fow" value="False" />
-			<file name="animator" value="armies\common\projectiles\shell_medium_offmap\shell_medium_offmap" />
+			<file name="animator" value="armies\common\projectiles\shell_medium\shell_medium" />
 			<bool name="is_visible_in_game" value="True" />
 			<float name="precise_size" value="-1" />
 		</template_reference>
@@ -163,39 +163,6 @@
 				</group>
 			</group>
 			<list name="on_detonate_actions">
-				<template_reference name="action" value="action\off_map_artillery">
-					<float name="num_salvo" value="2" />
-					<float name="radius" value="3" />
-					<float name="source_offset_x" value="0" />
-					<float name="source_offset_y" value="1" />
-					<float name="source_offset_z" value="0" />
-					<float name="time_range_between_shells_max" value="0" />
-					<float name="time_range_between_shells_min" value="0.125" />
-					<instance_reference name="weapon_name" value="weapon\common\explosive_weapons\demolitions\shrapnel_large_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
-					<uniqueid name="id" value="1073746915" />
-				</template_reference>
-				<template_reference name="action" value="action\off_map_artillery">
-					<float name="num_salvo" value="4" />
-					<float name="radius" value="6" />
-					<float name="source_offset_x" value="0" />
-					<float name="source_offset_y" value="1" />
-					<float name="source_offset_z" value="0" />
-					<float name="time_range_between_shells_max" value="0" />
-					<float name="time_range_between_shells_min" value="0.125" />
-					<instance_reference name="weapon_name" value="weapon\common\explosive_weapons\demolitions\shrapnel_large_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
-					<uniqueid name="id" value="1073746916" />
-				</template_reference>
-				<template_reference name="action" value="action\off_map_artillery">
-					<float name="num_salvo" value="12" />
-					<float name="radius" value="8" />
-					<float name="source_offset_x" value="0" />
-					<float name="source_offset_y" value="1" />
-					<float name="source_offset_z" value="0" />
-					<float name="time_range_between_shells_max" value="0" />
-					<float name="time_range_between_shells_min" value="0.125" />
-					<instance_reference name="weapon_name" value="weapon\common\explosive_weapons\demolitions\shrapnel_large_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
-					<uniqueid name="id" value="1073746917" />
-				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\projectile_ext">
@@ -235,10 +202,10 @@
 					<bool name="retrigger" value="False" />
 					<string name="state_machine_name" value="projectile_use" />
 					<string name="undo_action_state_name" value="" />
-					<uniqueid name="id" value="1073746911" />
+					<uniqueid name="id" value="1073746943" />
 				</template_reference>
 			</list>
 		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="94388" />
+	<uniqueid name="pbgid" value="90049" />
 </instance>
