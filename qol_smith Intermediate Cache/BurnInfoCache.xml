@@ -74,6 +74,10 @@
 			<FileHash>07140fcbbde3aa63d1c61814385d22e9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\commander_ability\passive_ability\forward_observers_always_on.xml</FileName>
+			<FileHash>736a2bd1b030b1daee9cbd89a3566fae</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\dispatch_ability\air_drop_combat_group.xml</FileName>
 			<FileHash>e714374192c884aebb4785c08333a8ef</FileHash>
 		</BurnInfo>
@@ -586,6 +590,10 @@
 			<FileHash>19729211e1402bd443631ac8b3b62735</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\soldiers\rifleman_soldier\rifleman_soldier_mp.xml</FileName>
+			<FileHash>a9b889b2247824693d4a25de549142cc</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\team_weapons\m1_81mm_mortar_mp.xml</FileName>
 			<FileHash>d34e1a48969f3b8bbc35f0295b7acc30</FileHash>
 		</BurnInfo>
@@ -951,7 +959,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\lieutenant_squad\lieutenant_squad_mp.xml</FileName>
-			<FileHash>fd2084d36219e63452e89b9bd1410aaa</FileHash>
+			<FileHash>b3b4ff7b4be0a894f00c5d1dd7b10109</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\major_squad\major_squad_mp.xml</FileName>
@@ -983,7 +991,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_mp.xml</FileName>
-			<FileHash>0259cc77784698f7a5fe847198ba8851</FileHash>
+			<FileHash>6c2d4648ab105d448394aac53ed976f3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\usf_medic_squad\usf_medic_squad_mp.xml</FileName>
@@ -1683,7 +1691,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
-			<FileHash>08984628e378847c86668f20dc1416fe</FileHash>
+			<FileHash>16dc5cff1ad9665844103b47d7ff6d53</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>
