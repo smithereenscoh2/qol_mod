@@ -30,7 +30,7 @@
 			<string name="track_vertical" value="Pistol_Tilt" />
 			<string name="track_vertical_speed" value="" />
 			<string name="variety_name" value="" />
-			<string name="visibility_name" value="pistol_1911_visible" />
+			<string name="visibility_name" value="pistol_nagant_visible" />
 			<string name="target_range_name" value="" />
 		</group>
 		<group name="area_effect">

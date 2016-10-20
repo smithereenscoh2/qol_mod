@@ -13,4 +13,6 @@ model =
 	"..\\..\\weapons\\smg_mk2_sten\\smg_mk2_sten",
 	"..\\..\\weapons\\gammon_bomb\\gammon_bomb",
 	"..\\..\\..\\aef\\weapons\\pistol_m1911_45\\pistol_m1911_45",	
+	"..\\..\\..\\common\\weapons\\pistol\\pistol",
+	"..\\..\\..\\soviet\\weapons\\pistol_nagant\\pistol_nagant",
 }
