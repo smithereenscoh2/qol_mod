@@ -166,6 +166,14 @@
 			<FileHash>2d712b7886d17ac39030a5114815f6c3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\commander_ability\passive_ability\command_vehicle.xml</FileName>
+			<FileHash>37caf7cb7c9fd8c08d088a11c7b60b84</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\commander_ability\passive_ability\command_vehicle_plane.xml</FileName>
+			<FileHash>9d011a8772aec6fa17707714fd1832b9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\dispatch_ability\direct_barrage.xml</FileName>
 			<FileHash>8271364a1191a2c51bc62b062e335d7e</FileHash>
 		</BurnInfo>
@@ -191,7 +199,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\timed_ability\churchill_inf_support_smoke.xml</FileName>
-			<FileHash>5abffd5c1ef713e19f2378726d65d1b9</FileHash>
+			<FileHash>3b0e9a057ebe89bb985e859f2395f411</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\timed_ability\officer_charge_mp.xml</FileName>
@@ -208,6 +216,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\toggle_ability\brit_vehicle_hold_fire_mp.xml</FileName>
 			<FileHash>3c9c958d97d8e4fa5b731cb6fda58df1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\toggle_ability\command_vehicle_toggle_mp.xml</FileName>
+			<FileHash>915983004f049f865ca464c5a00900dc</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\toggle_ability\crocodile_toggle_auto_face_mp.xml</FileName>
@@ -227,7 +239,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\common\toggle_ability\auto_face_mp.xml</FileName>
-			<FileHash>4181145b265c6f47b72fae1785ef75fc</FileHash>
+			<FileHash>9b622eebbb6fc5f0ab3cff0a08f15339</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\common\toggle_ability\auto_heal_disable_mp.xml</FileName>
@@ -439,7 +451,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\critical\vehicle_abandon.xml</FileName>
-			<FileHash>f3323d91fc9241f3f0ebd52560e2d45d</FileHash>
+			<FileHash>86f9dd56608632004cfcd51aac463a3a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\gameplay\territory_fuel_point_mp.xml</FileName>
@@ -719,23 +731,23 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\churchill\churchill_avre_mp.xml</FileName>
-			<FileHash>3a191b6b7e42413bafa4ff881c14a385</FileHash>
+			<FileHash>341ad3a649e25a4419c0be9f494dbb0e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\churchill\churchill_crocodile_mp.xml</FileName>
-			<FileHash>60701ee314ff6a2cdf3da053062f8818</FileHash>
+			<FileHash>d2e7c5e4de5befe5d5c1fef8d6a115bf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\churchill\churchill_default_mp.xml</FileName>
-			<FileHash>ab2f23c1eab34ac8b5d29234b452028a</FileHash>
+			<FileHash>cfb72b6ba11a88252cb26274b607a98e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\comet\comet_mp.xml</FileName>
-			<FileHash>2bf5d512265e74d9e88b45be80070070</FileHash>
+			<FileHash>761c06f35083a78075db8ea8e4313935</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\cromwell\cromwell_mk4_75mm_mp.xml</FileName>
-			<FileHash>d471d6558fdd44ea06e668f5dad51e3f</FileHash>
+			<FileHash>e7845cd9b93f770984c86b18e81afbb7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\glider\glider_commandos_only.xml</FileName>
@@ -747,15 +759,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
-			<FileHash>5d722d79a05cc7de5156853c7f3e78c1</FileHash>
+			<FileHash>25a7b1e6661fe850b23347c51a720296</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\sherman_firefly\sherman_firefly_m4a2_mp.xml</FileName>
-			<FileHash>d3e9d411101ffa4d3990ceea96b1c873</FileHash>
+			<FileHash>81cf688b97ad016a2d704fae9561a139</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\vehicles\universal_carrier\universal_carrier_mp.xml</FileName>
-			<FileHash>c60d632cecd0ac1064932c13eb656a97</FileHash>
+			<FileHash>de3a26019bdd05b4f86bf8b19481873f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\german\buildings\base_building\dolch_aktionen_mp.xml</FileName>
@@ -1286,6 +1298,14 @@
 			<FileHash>c7928f1b9707d5294159dfb8310cb6fd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\british\brit_command_vehicle_item.xml</FileName>
+			<FileHash>8fef5eb65a1641eea1f6726d8b9e5622</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\british\command_vehicle_disable_token_mp.xml</FileName>
+			<FileHash>2cbc952c29d7a990ef7c96089a6c6868</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\british\tommy_auto_heal_token_mp.xml</FileName>
 			<FileHash>c5728dc4007ab727187e750dfb3e049d</FileHash>
 		</BurnInfo>
@@ -1368,6 +1388,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\aef\research\lieutenant_dispatched_upgrade_mp.xml</FileName>
 			<FileHash>e0605cc3f37445a3d2cacd5a343a6b8c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\british\commander\passive\command_vehicle_active.xml</FileName>
+			<FileHash>ab9776f6d1bca93cd6567123a887abdb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\british\items\british_tank_commander.xml</FileName>
@@ -1691,7 +1715,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
-			<FileHash>16dc5cff1ad9665844103b47d7ff6d53</FileHash>
+			<FileHash>72a74c6a2a148d7b908895ffa37bef1a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>

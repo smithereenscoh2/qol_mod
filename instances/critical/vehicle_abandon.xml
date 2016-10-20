@@ -32,7 +32,7 @@
 						<locstring name="ui_name" value="0" />
 						<bool name="include_queued" value="False" />
 						<bool name="is_present" value="True" />
-						<instance_reference name="upgrade_name" value="upgrade\british\commander\passive\command_vehicle_active" />
+						<instance_reference name="upgrade_name" value="upgrade\british\commander\passive\command_vehicle_active" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 					</template_reference>
 				</list>
 				<list name="action_table">
