@@ -481,7 +481,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\british\items\british_tank_commander" />
+				<instance_reference name="upgrade" value="upgrade\british\items\british_tank_commander" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">

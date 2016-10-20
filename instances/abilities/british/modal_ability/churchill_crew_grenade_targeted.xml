@@ -116,7 +116,7 @@
 		<group name="ui_info">
 			<locstring name="extra_text" value="11090042" />
 			<locstring name="help_text" value="11084201" />
-			<string name="hotkey_name" value="D" />
+			<string name="hotkey_name" value="N" />
 			<icon name="icon_name" value="Icons_abilities_ability_british_mills_grenade" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />
@@ -134,7 +134,7 @@
 		<list name="requirements">
 		</list>
 		<enum name="ability_super" value="tp_none" />
-		<int name="ui_position" value="31" />
+		<int name="ui_position" value="34" />
 		<bool name="ui_mini_map_capture" value="False" />
 		<bool name="facing_ignore_during_active" value="False" />
 		<instance_reference name="ui_range" value="ui_reticule\ability_range_default" />

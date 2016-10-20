@@ -108,7 +108,7 @@
 		<group name="ui_info">
 			<locstring name="extra_text" value="11071979" />
 			<locstring name="help_text" value="11053580" />
-			<string name="hotkey_name" value="D" />
+			<string name="hotkey_name" value="N" />
 			<icon name="icon_name" value="Icons_abilities_ability_west_german_vahvw_grenade_launcher" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />

@@ -30,8 +30,11 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\comet_crew_grenade_targeted.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\commando_demo_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\universal_carrier_drop_piat.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\accessory_weapons\comet_smoke_shell_shot_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\accessory_weapons\comet_smoke_shell_shot_wp_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\accessory_weapons\crococile_manual_aim2_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\accessory_weapons\crococile_manual_aim_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\accessory_weapons\cromwell_smoke_shell_shot_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_coordinated_fire_order_officer_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_coordinated_fire_order_sniper_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_coordinated_fire_preface_building_2_mp.rgd
@@ -119,6 +122,8 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\british_avre_290mm_mortar.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\british_avre_290mm_mortar_vet_3.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\british_piat_spigot_mortar_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\brit_comet_smoke_shell_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\brit_comet_smoke_shell_wp_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\brit_smoke_marker_coordinated_fire_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\brummbar_150mm_he_shell_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\centuar_20mm_strafe_mp.rgd
@@ -178,6 +183,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\churchill\churchill_crocodile_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\churchill\churchill_default_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\comet\comet_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\cromwell\cromwell_mk4_75mm_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\glider\glider_commandos_only.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\glider\glider_headquarters.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.rgd
@@ -336,6 +342,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\aef\research\beacon_retreat_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\aef\research\captain_dispatched_upgrade_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\aef\research\lieutenant_dispatched_upgrade_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\british\items\british_tank_commander.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\british\items\universal_carrier_wasp_package_upgrade_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\british\research\company_anvil_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\british\research\fwd_glider_retreat_mp.rgd
@@ -379,6 +386,9 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\churchill_mk7_75mm_croc2_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\churchill_mk7_75mm_croc_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\churchill_mk7_75mm_croc_turret_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\comet_smoke_shot_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\comet_smoke_wp_shot_dot_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\comet_smoke_wp_shot_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\explosive_weapons\grenade\lee_enfield_marker_grenade_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\explosive_weapons\grenade\smoke_cover_grenade.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\explosive_weapons\grenade\tommy_officer_smoke_marker_grenade.rgd
