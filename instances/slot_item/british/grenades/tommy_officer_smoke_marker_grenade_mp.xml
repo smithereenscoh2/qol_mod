@@ -41,7 +41,7 @@
 			<float name="length" value="0" />
 			<group name="origin">
 				<float name="x" value="0.25" />
-				<float name="y" value="1.5" />
+				<float name="y" value="2" />
 				<float name="z" value="0" />
 			</group>
 			<enum name="type" value="accessory" />
