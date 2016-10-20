@@ -30,6 +30,10 @@
 			<FileHash>6ce37ab1908ded4426a63f8a05b156f5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\accessory_weapons\greyhound_smoke_shell_shot_mp.xml</FileName>
+			<FileHash>33327bdda5fad79212f1b5714626c0fd</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\artillery\artillery_barrage_ability\major_artillery.xml</FileName>
 			<FileHash>45034d7ad42961b20af2bc856247a494</FileHash>
 		</BurnInfo>
@@ -602,6 +606,10 @@
 			<FileHash>a41accc8d1c77769428efdac694a78ca</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m8_greyhound\m8_greyhound_mp.xml</FileName>
+			<FileHash>c67b1e610b76d44f48758dc64d3d4eed</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\base_building\british_building_1_mp.xml</FileName>
 			<FileHash>d14618cd196f699f31854cb134ff4ad9</FileHash>
 		</BurnInfo>
@@ -996,6 +1004,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\vehicles\m3_halftrack_squad\m3_halftrack_squad_assault_mp.xml</FileName>
 			<FileHash>d1d0a019bb139cab2fb44e8f1b4c8c0f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\vehicles\m8_greyhound_squad\m8_greyhound_squad_mp.xml</FileName>
+			<FileHash>232461a78b1003076bddfd35bb4605df</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\british\soldiers\brit_medic_squad\brit_medic_squad_mp.xml</FileName>
