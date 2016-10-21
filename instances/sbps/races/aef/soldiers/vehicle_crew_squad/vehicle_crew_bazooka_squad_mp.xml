@@ -492,6 +492,11 @@
 						<locstring name="phrase" value="0" />
 					</template_reference>
 				</template_reference>
+				<template_reference name="action" value="action\slot_item_add">
+					<instance_reference name="slot_item" value="slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp" />
+					<bool name="permanent" value="True" />
+					<uniqueid name="id" value="1073747252" />
+				</template_reference>
 			</list>
 			<list name="squad_entity_actions">
 			</list>

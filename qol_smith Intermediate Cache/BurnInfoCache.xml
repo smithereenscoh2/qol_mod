@@ -458,6 +458,10 @@
 			<FileHash>18dc14c1f4917db1ba9685e525fa88ea</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\critical\soldier_stun.xml</FileName>
+			<FileHash>a74f90aef747091f744a0b85e5f8d650</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\critical\vehicle_abandon.xml</FileName>
 			<FileHash>86f9dd56608632004cfcd51aac463a3a</FileHash>
 		</BurnInfo>
@@ -1027,11 +1031,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\vehicle_crew_squad\m20_assault_engy_antitank_squad_mp.xml</FileName>
-			<FileHash>10162b3bb09c77135456eee8ee21273c</FileHash>
+			<FileHash>11beab882d05bdb0cbee403c42bee98b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\vehicle_crew_squad\vehicle_crew_bazooka_squad_mp.xml</FileName>
-			<FileHash>86678dedfb40ce24e5015bec16d2b44e</FileHash>
+			<FileHash>4af0a7ffa18eb714985a3a1e49d31290</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\vehicle_crew_squad\vehicle_crew_squad_mp.xml</FileName>
@@ -1736,6 +1740,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\ballistic_weapon\anti_tank_gun\raketenwerfer43_88mm_wg_mp.xml</FileName>
 			<FileHash>48da78efa7ab6a53cbb4a3248f163673</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\explosive_weapons\grenade\eihandgranate_grenade_mp.xml</FileName>
+			<FileHash>1629accafeb8371048fa87b7d31c753b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\explosive_weapons\heavy_artillery\sturmtiger_rw_61_380mm_rocket_launcher.xml</FileName>
