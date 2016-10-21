@@ -655,7 +655,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\base_building\british_building_2_mp.xml</FileName>
-			<FileHash>d5e02a8f795b5f62a6823414d97b9253</FileHash>
+			<FileHash>e32fa576ffedbf42335b1df20243742d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\base_building\british_hq\british_hq_truck_mp.xml</FileName>
@@ -1483,7 +1483,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\explosive_weapons\light_artillery\pershing_crew_grenades.xml</FileName>
-			<FileHash>f5973bf4ce29c8ecfc80413c2e66e88a</FileHash>
+			<FileHash>a8e0b222c1bd0f59d4765f70d3e82760</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_barrage_team_weapon_mp.xml</FileName>
@@ -1622,8 +1622,12 @@
 			<FileHash>9739760a719a2804dc4ab4d41fabf517</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\explosive_weapons\heavy_artillery\qf_25lb_howitzer_smoke_shell_base_2_mp.xml</FileName>
+			<FileHash>cd9a3f24ef144705fc0843cb21f59740</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\explosive_weapons\heavy_artillery\qf_25lb_howitzer_smoke_shell_base_mp.xml</FileName>
-			<FileHash>5bdd34056582021a908d1a30595355bd</FileHash>
+			<FileHash>7b5863766f6963e6a8d84473a1880873</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\explosive_weapons\heavy_artillery\sexton_spg_25_pounder_creeping_mp.xml</FileName>
@@ -1631,7 +1635,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\explosive_weapons\light_artillery\churchill_crew_grenades.xml</FileName>
-			<FileHash>6b8bd0404d6ced3704e4805a61a6a830</FileHash>
+			<FileHash>289b31787065ae5908616f50ca22ac62</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\british\flame_throwers\churchill_flamethrower_mp.xml</FileName>

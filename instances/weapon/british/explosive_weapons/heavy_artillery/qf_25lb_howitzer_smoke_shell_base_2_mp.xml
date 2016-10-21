@@ -13,8 +13,8 @@
 			<float name="post_firing_aim_time" value="0" />
 			<float name="post_firing_cooldown_interval" value="0" />
 			<group name="ready_aim_time">
-				<float name="max" value="0.5" />
-				<float name="min" value="0.5" />
+				<float name="max" value="4.225" />
+				<float name="min" value="4.225" />
 			</group>
 			<group name="aim_time_multiplier">
 				<float name="near" value="1" />
@@ -447,5 +447,5 @@
 		<list name="target_type_table">
 		</list>
 	</group>
-	<uniqueid name="pbgid" value="90040" />
+	<uniqueid name="pbgid" value="1073741846" />
 </instance>
