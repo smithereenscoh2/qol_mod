@@ -755,7 +755,7 @@
 							<int name="ui_position" value="12" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\soviet\team_weapons\soviet_field_artillery\m1931_203mm_b-4_howitzer_artillery_commander_mp" />
+							<instance_reference name="ebp" value="ebps\races\soviet\team_weapons\soviet_field_artillery\m1931_203mm_b-4_howitzer_artillery_commander_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 							<int name="ui_position" value="0" />
 						</group>
 						<group name="construction_item">

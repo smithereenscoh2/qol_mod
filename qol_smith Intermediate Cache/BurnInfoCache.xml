@@ -302,6 +302,14 @@
 			<FileHash>156aeb7b5d272bd0f553c7d8f7b2a59f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\soviet\modal_ability\accessory_weapons\b4_203mm_direct_fire.xml</FileName>
+			<FileHash>568b6f21a19fe84969ed410c263d2dad</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\soviet\modal_ability\artillery\artillery_barrage_ability\b4_203mm_barrage_commander_mp.xml</FileName>
+			<FileHash>397509d73e7f62344ffe8911dfbac523</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\soviet\modal_ability\commander_ability\fear_propaganda_artillery.xml</FileName>
 			<FileHash>c0902edd10814e5a0cdfaddf889002ba</FileHash>
 		</BurnInfo>
@@ -655,7 +663,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\base_building\british_building_2_mp.xml</FileName>
-			<FileHash>e32fa576ffedbf42335b1df20243742d</FileHash>
+			<FileHash>8824d6ef317dd0fd958db8404c84bbd1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\base_building\british_hq\british_hq_truck_mp.xml</FileName>
@@ -836,6 +844,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\soviet\team_weapons\soviet_at_guns\m1942_76mm_divisional_gun_zis-3_mp.xml</FileName>
 			<FileHash>2bf5d19ec1c7a74cb681e9770d549159</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\soviet\team_weapons\soviet_field_artillery\m1931_203mm_b-4_howitzer_artillery_commander_mp.xml</FileName>
+			<FileHash>9834939e1c96e04e830a910e1c57bd47</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\soviet\vehicles\m3a1_scout_car\m3a1_scout_car_mp.xml</FileName>
@@ -1170,8 +1182,12 @@
 			<FileHash>825c5b4c15c5ab67c16a12b20dba26ab</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\german\vehicles\howitzer_105mm_le_fh18_artillery\howitzer_105mm_le_fh18_artillery_mp.xml</FileName>
+			<FileHash>798b46b789e68925f429ce714530452e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp.xml</FileName>
-			<FileHash>a59f58c552455b74c98840ce131b590e</FileHash>
+			<FileHash>c3f7e19e913a65c6fa38bde7f80cb138</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp.xml</FileName>
@@ -1216,6 +1232,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\soviet\soldiers\troops\shock_troops_mp.xml</FileName>
 			<FileHash>63a31b2fabe9e8b17ee4debc4198859b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\soviet\vehicles\m1931_203mm_b-4_howitzer_artillery\m1931_203mm_b-4_howitzer_artillery_commander_mp.xml</FileName>
+			<FileHash>c3fa462e9b84bd0886d5b549c80a1501</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\soviet\vehicles\m1937_152mm_ml_20_artillery\m1937_152mm_ml_20_artillery_mp.xml</FileName>
+			<FileHash>9c3d9d9ae78b3ba0ae5b886c8c94ed24</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\soviet\vehicles\m3a1_scout_car_squad\m3a1_scout_car_squad_mp.xml</FileName>
@@ -1682,12 +1706,16 @@
 			<FileHash>70bc9a4e35b6b60ca12de9dbb3cd811e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\soviet\ballistic_weapon\tank_gun\b4_203_direct_fire.xml</FileName>
+			<FileHash>f60ec27c8a15ee91bb128c5e1b14819b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\soviet\ballistic_weapon\tank_gun\isu152_ml-20s_152mm_howitzer_gun_mp.xml</FileName>
 			<FileHash>66e2fa7498b02074eaafb761a0310319</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\soviet\explosive_weapons\heavy_artillery\203mm_b-4_commander_mp.xml</FileName>
-			<FileHash>721688c461de483c99bf772b441eb9ed</FileHash>
+			<FileHash>b9a67ca262b2da02e98a20a6f83ee551</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\soviet\explosive_weapons\mine\engineer_demoliion.xml</FileName>

@@ -209,7 +209,7 @@
 			<bool name="must_be_on" value="False" />
 			<bool name="must_not_be_in_walkable_surfaces" value="False" />
 			<instance_reference name="on_construction_squad" value="" />
-			<float name="orientation" value="90" />
+			<float name="orientation" value="0" />
 			<enum name="placement_type" value="tp_structure" />
 			<bool name="prefer_spots_on_side_with_leader" value="False" />
 			<bool name="query_abilities_for_range_ui" value="True" />
