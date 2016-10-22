@@ -161,12 +161,12 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\aef\soldiers\major\major_mp" />
-				</group>
-				<group name="loadout_data">
 					<float name="num" value="2" />
 					<instance_reference name="type" value="ebps\races\aef\soldiers\rear_echelon_troop\rear_echelon_radioman_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+				</group>
+				<group name="loadout_data">
+					<float name="num" value="1" />
+					<instance_reference name="type" value="ebps\races\aef\soldiers\major\major_mp" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -964,7 +964,7 @@
 			<enum name="shared_veterancy_type" value="tp_commonwealth_infantry" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_population_ext">
-			<float name="personnel_pop" value="2" />
+			<float name="personnel_pop" value="0" />
 		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="2627" />

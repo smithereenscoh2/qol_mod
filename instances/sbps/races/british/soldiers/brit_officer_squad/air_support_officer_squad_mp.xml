@@ -161,12 +161,12 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\british\soldiers\brit_officer\air_support_officer_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
-				</group>
-				<group name="loadout_data">
 					<float name="num" value="3" />
 					<instance_reference name="type" value="ebps\races\british\soldiers\commando\commando_air_landing_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+				</group>
+				<group name="loadout_data">
+					<float name="num" value="1" />
+					<instance_reference name="type" value="ebps\races\british\soldiers\brit_officer\air_support_officer_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />

@@ -161,16 +161,16 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\aef\soldiers\captain\captain_mp" />
-				</group>
-				<group name="loadout_data">
 					<float name="num" value="2" />
 					<instance_reference name="type" value="ebps\races\aef\soldiers\rifleman_soldier\rifleman_soldier_captain_mp" />
 				</group>
 				<group name="loadout_data">
 					<float name="num" value="2" />
 					<instance_reference name="type" value="ebps\races\aef\soldiers\rear_echelon_troop\rear_echelon_troop_capt_mp" />
+				</group>
+				<group name="loadout_data">
+					<float name="num" value="1" />
+					<instance_reference name="type" value="ebps\races\aef\soldiers\captain\captain_mp" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
