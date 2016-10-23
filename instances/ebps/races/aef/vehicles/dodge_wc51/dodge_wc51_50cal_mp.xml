@@ -1134,6 +1134,189 @@
 						<int name="recrew_max_squad_size" value="1" />
 						<bool name="abandoned_allows_pass_through" value="False" />
 						<list name="apply_to_driver_action">
+							<template_reference name="action" value="action\apply_modifiers_action">
+								<float name="duration" value="0" />
+								<bool name="permanent" value="False" />
+								<list name="modifiers">
+									<template_reference name="modifier" value="modifiers\capture_rate_squad_modifier">
+										<enum name="application_type" value="apply_to_squad" />
+										<bool name="exclusive" value="False" />
+										<string name="modifier_id" value="" />
+										<string name="target_type_name" value="" />
+										<enum name="usage_type" value="multiplication" />
+										<float name="value" value="0" />
+										<instance_reference name="tooltip" value="modifier_tooltip\capture_rate_squad_modifier" />
+									</template_reference>
+									<template_reference name="modifier" value="modifiers\capture_enable_squad_modifier">
+										<enum name="application_type" value="apply_to_squad" />
+										<bool name="exclusive" value="False" />
+										<string name="modifier_id" value="" />
+										<string name="target_type_name" value="" />
+										<enum name="usage_type" value="enable" />
+										<float name="value" value="-1" />
+										<instance_reference name="tooltip" value="modifier_tooltip\capture_enable_squad_modifier" />
+									</template_reference>
+								</list>
+								<uniqueid name="id" value="1073747645" />
+							</template_reference>
+							<template_reference name="action" value="action\slot_item_add">
+								<instance_reference name="slot_item" value="slot_item\aef\crew_generic_penalty_token_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+								<bool name="permanent" value="False" />
+								<uniqueid name="id" value="1073747646" />
+							</template_reference>
+							<template_reference name="action" value="action\requirement_action">
+								<bool name="check_self" value="False" />
+								<bool name="global_fire_and_forget_on_success" value="False" />
+								<bool name="instant_requirement_check" value="False" />
+								<bool name="kill_action_on_failed_requirements" value="False" />
+								<bool name="no_retrigger" value="False" />
+								<bool name="validate_all_sub_actions" value="True" />
+								<list name="requirement_table">
+									<template_reference name="required" value="requirements\required_unit_type">
+										<enum name="reason" value="usage_and_display" />
+										<locstring name="ui_name" value="0" />
+										<enum name="unit_type" value="aef_vehicle_crew" />
+										<template_reference name="qualify_option" value="options\requirements\required_unit_type_option\any">
+											<int name="min_count" value="1" />
+										</template_reference>
+										<bool name="search_load_out" value="True" />
+										<bool name="owned_by_player_only" value="True" />
+									</template_reference>
+								</list>
+								<list name="action_table">
+									<template_reference name="action" value="action\slot_item_add">
+										<instance_reference name="slot_item" value="slot_item\aef\crew_squad_bonus_token_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+										<bool name="permanent" value="False" />
+										<uniqueid name="id" value="1073747647" />
+									</template_reference>
+								</list>
+								<uniqueid name="id" value="1073747648" />
+								<bool name="fire_and_forget_non_global" value="False" />
+								<template_reference name="ui_help_text" value="tables\help_text_phrase">
+									<int name="phrase_order" value="0" />
+									<locstring name="phrase" value="0" />
+								</template_reference>
+							</template_reference>
+							<template_reference name="action" value="action\requirement_action">
+								<bool name="check_self" value="False" />
+								<bool name="global_fire_and_forget_on_success" value="False" />
+								<bool name="instant_requirement_check" value="False" />
+								<bool name="kill_action_on_failed_requirements" value="False" />
+								<bool name="no_retrigger" value="False" />
+								<bool name="validate_all_sub_actions" value="True" />
+								<list name="requirement_table">
+									<template_reference name="required" value="requirements\required_not">
+										<enum name="reason" value="usage" />
+										<locstring name="ui_name" value="0" />
+										<list name="requirement_table">
+											<template_reference name="required" value="requirements\required_unit_type">
+												<enum name="reason" value="usage_and_display" />
+												<locstring name="ui_name" value="0" />
+												<enum name="unit_type" value="aef_vehicle_crew" />
+												<template_reference name="qualify_option" value="options\requirements\required_unit_type_option\any">
+													<int name="min_count" value="1" />
+												</template_reference>
+												<bool name="search_load_out" value="True" />
+												<bool name="owned_by_player_only" value="True" />
+											</template_reference>
+										</list>
+									</template_reference>
+								</list>
+								<list name="action_table">
+									<template_reference name="action" value="action\change_target_action">
+										<list name="actions">
+											<template_reference name="action" value="action\slot_item_add">
+												<instance_reference name="slot_item" value="slot_item\aef\vehicle_noncrew_penalty_token_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+												<bool name="permanent" value="False" />
+												<uniqueid name="id" value="1073747649" />
+											</template_reference>
+										</list>
+										<enum name="change_target_type" value="self" />
+										<uniqueid name="id" value="1073747650" />
+									</template_reference>
+								</list>
+								<uniqueid name="id" value="1073747651" />
+								<bool name="fire_and_forget_non_global" value="False" />
+								<template_reference name="ui_help_text" value="tables\help_text_phrase">
+									<int name="phrase_order" value="0" />
+									<locstring name="phrase" value="0" />
+								</template_reference>
+							</template_reference>
+							<template_reference name="action" value="action\requirement_action">
+								<bool name="check_self" value="False" />
+								<bool name="global_fire_and_forget_on_success" value="False" />
+								<bool name="instant_requirement_check" value="False" />
+								<bool name="kill_action_on_failed_requirements" value="False" />
+								<bool name="no_retrigger" value="False" />
+								<bool name="validate_all_sub_actions" value="True" />
+								<list name="requirement_table">
+									<template_reference name="required" value="requirements\required_squad_upgrade">
+										<enum name="reason" value="usage" />
+										<locstring name="ui_name" value="0" />
+										<bool name="include_queued" value="False" />
+										<bool name="is_present" value="True" />
+										<instance_reference name="upgrade_name" value="upgrade\aef\items\vehicle_crew_thompson_sub_machine_gun_upgrade_mp" />
+									</template_reference>
+								</list>
+								<list name="action_table">
+									<template_reference name="action" value="action\change_target_action">
+										<list name="actions">
+											<template_reference name="action" value="action\slot_item_add">
+												<instance_reference name="slot_item" value="slot_item\aef\vehicle_elite_bonus_token_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+												<bool name="permanent" value="False" />
+												<uniqueid name="id" value="1073747652" />
+											</template_reference>
+										</list>
+										<enum name="change_target_type" value="self" />
+										<uniqueid name="id" value="1073747653" />
+									</template_reference>
+									<template_reference name="action" value="action\slot_item_add">
+										<instance_reference name="slot_item" value="slot_item\aef\crew_elite_token_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+										<bool name="permanent" value="False" />
+										<uniqueid name="id" value="1073747654" />
+									</template_reference>
+								</list>
+								<uniqueid name="id" value="1073747655" />
+								<bool name="fire_and_forget_non_global" value="False" />
+								<template_reference name="ui_help_text" value="tables\help_text_phrase">
+									<int name="phrase_order" value="0" />
+									<locstring name="phrase" value="0" />
+								</template_reference>
+							</template_reference>
+							<template_reference name="action" value="action\requirement_action">
+								<bool name="check_self" value="False" />
+								<bool name="global_fire_and_forget_on_success" value="False" />
+								<bool name="instant_requirement_check" value="False" />
+								<bool name="kill_action_on_failed_requirements" value="False" />
+								<bool name="no_retrigger" value="False" />
+								<bool name="validate_all_sub_actions" value="True" />
+								<list name="requirement_table">
+									<template_reference name="required" value="requirements\required_squad_veterancy">
+										<enum name="reason" value="usage" />
+										<locstring name="ui_name" value="0" />
+										<float name="veterancy_rank" value="2" />
+									</template_reference>
+								</list>
+								<list name="action_table">
+									<template_reference name="action" value="action\change_target_action">
+										<list name="actions">
+											<template_reference name="action" value="action\slot_item_add">
+												<instance_reference name="slot_item" value="slot_item\aef\vehicle_decrew_bonus_token_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+												<bool name="permanent" value="False" />
+												<uniqueid name="id" value="1073747656" />
+											</template_reference>
+										</list>
+										<enum name="change_target_type" value="self" />
+										<uniqueid name="id" value="1073747657" />
+									</template_reference>
+								</list>
+								<uniqueid name="id" value="1073747658" />
+								<bool name="fire_and_forget_non_global" value="False" />
+								<template_reference name="ui_help_text" value="tables\help_text_phrase">
+									<int name="phrase_order" value="0" />
+									<locstring name="phrase" value="0" />
+								</template_reference>
+							</template_reference>
 							<template_reference name="action" value="action\requirement_action">
 								<bool name="check_self" value="False" />
 								<bool name="global_fire_and_forget_on_success" value="False" />
@@ -1179,7 +1362,7 @@
 													<template_reference name="action" value="action\remove_weapon">
 														<bool name="fire_and_forget" value="False" />
 														<float name="hardpoint" value="1" />
-														<uniqueid name="id" value="1073742151" />
+														<uniqueid name="id" value="1073747659" />
 													</template_reference>
 													<template_reference name="action" value="action\add_weapon">
 														<float name="hardpoint" value="1" />
@@ -1198,19 +1381,19 @@
 															<enum name="type" value="default" />
 															<instance_reference name="weapon" value="weapon\axis\small_arms\machine_gun\light_machine_gun\halftrack_mg42_vehicle_mp" />
 														</group>
-														<uniqueid name="id" value="1073742152" />
+														<uniqueid name="id" value="1073747660" />
 													</template_reference>
 													<template_reference name="action" value="action\change_weapon">
 														<float name="hardpoint" value="1" />
 														<instance_reference name="weapon" value="weapon\axis\small_arms\machine_gun\light_machine_gun\halftrack_mg42_vehicle_mp" />
-														<uniqueid name="id" value="1073742153" />
+														<uniqueid name="id" value="1073747661" />
 													</template_reference>
 												</list>
 												<enum name="change_target_type" value="self" />
-												<uniqueid name="id" value="1073742154" />
+												<uniqueid name="id" value="1073747662" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742155" />
+										<uniqueid name="id" value="1073747663" />
 										<bool name="fire_and_forget_non_global" value="False" />
 										<template_reference name="ui_help_text" value="tables\help_text_phrase">
 											<int name="phrase_order" value="0" />
@@ -1242,7 +1425,7 @@
 													<template_reference name="action" value="action\remove_weapon">
 														<bool name="fire_and_forget" value="False" />
 														<float name="hardpoint" value="1" />
-														<uniqueid name="id" value="1073742156" />
+														<uniqueid name="id" value="1073747664" />
 													</template_reference>
 													<template_reference name="action" value="action\add_weapon">
 														<float name="hardpoint" value="1" />
@@ -1261,19 +1444,19 @@
 															<enum name="type" value="default" />
 															<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\heavy_machine_gun\dodge_wc51_m2hb_50cal_mp" />
 														</group>
-														<uniqueid name="id" value="1073742157" />
+														<uniqueid name="id" value="1073747665" />
 													</template_reference>
 													<template_reference name="action" value="action\change_weapon">
 														<float name="hardpoint" value="1" />
 														<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\heavy_machine_gun\dodge_wc51_m2hb_50cal_mp" />
-														<uniqueid name="id" value="1073742158" />
+														<uniqueid name="id" value="1073747666" />
 													</template_reference>
 												</list>
 												<enum name="change_target_type" value="self" />
-												<uniqueid name="id" value="1073742159" />
+												<uniqueid name="id" value="1073747667" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742160" />
+										<uniqueid name="id" value="1073747668" />
 										<bool name="fire_and_forget_non_global" value="False" />
 										<template_reference name="ui_help_text" value="tables\help_text_phrase">
 											<int name="phrase_order" value="0" />
@@ -1281,37 +1464,12 @@
 										</template_reference>
 									</template_reference>
 								</list>
-								<uniqueid name="id" value="1073742161" />
+								<uniqueid name="id" value="1073747669" />
 								<bool name="fire_and_forget_non_global" value="False" />
 								<template_reference name="ui_help_text" value="tables\help_text_phrase">
 									<int name="phrase_order" value="0" />
 									<locstring name="phrase" value="0" />
 								</template_reference>
-							</template_reference>
-							<template_reference name="action" value="action\apply_modifiers_action">
-								<float name="duration" value="0" />
-								<bool name="permanent" value="False" />
-								<list name="modifiers">
-									<template_reference name="modifier" value="modifiers\capture_rate_squad_modifier">
-										<enum name="application_type" value="apply_to_squad" />
-										<bool name="exclusive" value="False" />
-										<string name="modifier_id" value="" />
-										<string name="target_type_name" value="" />
-										<enum name="usage_type" value="multiplication" />
-										<float name="value" value="0" />
-										<instance_reference name="tooltip" value="modifier_tooltip\capture_rate_squad_modifier" />
-									</template_reference>
-									<template_reference name="modifier" value="modifiers\capture_enable_squad_modifier">
-										<enum name="application_type" value="apply_to_squad" />
-										<bool name="exclusive" value="False" />
-										<string name="modifier_id" value="" />
-										<string name="target_type_name" value="" />
-										<enum name="usage_type" value="enable" />
-										<float name="value" value="-1" />
-										<instance_reference name="tooltip" value="modifier_tooltip\capture_enable_squad_modifier" />
-									</template_reference>
-								</list>
-								<uniqueid name="id" value="1073742162" />
 							</template_reference>
 						</list>
 						<float name="driver_death_chance_on_entity_death" value="1" />

@@ -447,7 +447,7 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_20_ir_searchlight_mp" />
+					<instance_reference name="type" value="ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_20_ir_searchlight_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
