@@ -10,7 +10,7 @@
 					<bool name="retrigger" value="False" />
 					<string name="state_machine_name" value="ability_repair_state" />
 					<string name="undo_action_state_name" value="" />
-					<uniqueid name="id" value="1073746745" />
+					<uniqueid name="id" value="1073747452" />
 				</template_reference>
 			</list>
 			<list name="start_self_actions">
@@ -37,7 +37,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073746746" />
+					<uniqueid name="id" value="1073747453" />
 				</template_reference>
 			</list>
 			<list name="start_target_actions">
@@ -75,7 +75,7 @@
 					</list>
 					<list name="action_table">
 						<template_reference name="action" value="action\timed_action">
-							<float name="duration" value="4" />
+							<float name="duration" value="2.5" />
 							<bool name="fire_and_forget" value="False" />
 							<list name="subactions">
 								<template_reference name="action" value="action\change_target_action">
@@ -86,11 +86,11 @@
 											<bool name="retrigger" value="False" />
 											<string name="state_machine_name" value="blowtorch_state" />
 											<string name="undo_action_state_name" value="inactive" />
-											<uniqueid name="id" value="1073747509" />
+											<uniqueid name="id" value="1073747493" />
 										</template_reference>
 									</list>
 									<enum name="change_target_type" value="self" />
-									<uniqueid name="id" value="1073747510" />
+									<uniqueid name="id" value="1073747494" />
 								</template_reference>
 								<template_reference name="action" value="action\requirement_action">
 									<bool name="check_self" value="False" />
@@ -122,7 +122,7 @@
 											<bool name="retrigger" value="True" />
 											<string name="state_machine_name" value="ability_repair_state" />
 											<string name="undo_action_state_name" value="off" />
-											<uniqueid name="id" value="1073747511" />
+											<uniqueid name="id" value="1073747495" />
 										</template_reference>
 										<template_reference name="action" value="action\heal_action">
 											<float name="amount" value="4.5" />
@@ -135,10 +135,10 @@
 													</list>
 												</template_reference>
 											</group>
-											<uniqueid name="id" value="1073747512" />
+											<uniqueid name="id" value="1073747496" />
 										</template_reference>
 									</list>
-									<uniqueid name="id" value="1073747513" />
+									<uniqueid name="id" value="1073747497" />
 									<bool name="fire_and_forget_non_global" value="False" />
 									<template_reference name="ui_help_text" value="tables\help_text_phrase">
 										<int name="phrase_order" value="0" />
@@ -146,17 +146,17 @@
 									</template_reference>
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073747514" />
+							<uniqueid name="id" value="1073747498" />
 						</template_reference>
 						<template_reference name="action" value="action\delay">
-							<float name="delay" value="4" />
+							<float name="delay" value="2.5" />
 							<float name="delay_min" value="0" />
 							<bool name="progress_bar" value="True" />
 							<bool name="randomize" value="False" />
 							<list name="delayed_actions">
 								<template_reference name="action" value="action\remove_critical_action">
 									<instance_reference name="critical" value="critical\_no_critical" />
-									<uniqueid name="id" value="1073747515" />
+									<uniqueid name="id" value="1073747499" />
 									<template_reference name="optional_remove_behaviour" value="options\action\remove_critical_action\priority_or_random">
 										<list name="optional_critical_remove_priorities">
 											<instance_reference name="critical_to_remove" value="critical\vehicle_destroy_engine" />
@@ -165,11 +165,11 @@
 									</template_reference>
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073747516" />
+							<uniqueid name="id" value="1073747500" />
 							<bool name="can_prevent_refund" value="True" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073746755" />
+					<uniqueid name="id" value="1073747492" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -213,7 +213,7 @@
 		<float name="move_back_distance" value="10" />
 		<float name="range" value="2" />
 		<bool name="range_ignore" value="False" />
-		<float name="recharge_time" value="30" />
+		<float name="recharge_time" value="20" />
 		<bool name="refundable" value="True" />
 		<bool name="require_no_shot_block" value="False" />
 		<enum name="shared_timer" value="squad_ability_1" />
@@ -308,30 +308,13 @@
 		</list>
 		<list name="requirements">
 			<template_reference name="required" value="requirements\required_squad_veterancy">
-				<enum name="reason" value="usage" />
-				<locstring name="ui_name" value="11067248" />
-				<float name="veterancy_rank" value="1" />
-			</template_reference>
-			<template_reference name="required" value="requirements\required_interactive_stage">
-				<locstring name="ui_name" value="11071180" />
-				<enum name="reason" value="usage" />
-			</template_reference>
-			<template_reference name="required" value="requirements\required_all_in_list">
 				<enum name="reason" value="usage_and_display" />
 				<locstring name="ui_name" value="0" />
-				<list name="requirements">
-					<template_reference name="requirement" value="requirements\required_not">
-						<enum name="reason" value="usage" />
-						<locstring name="ui_name" value="0" />
-						<list name="requirement_table">
-							<template_reference name="required" value="requirements\required_squad_veterancy">
-								<enum name="reason" value="usage_and_display" />
-								<locstring name="ui_name" value="11067248" />
-								<float name="veterancy_rank" value="2" />
-							</template_reference>
-						</list>
-					</template_reference>
-				</list>
+				<float name="veterancy_rank" value="3" />
+			</template_reference>
+			<template_reference name="required" value="requirements\required_interactive_stage">
+				<locstring name="ui_name" value="0" />
+				<enum name="reason" value="usage" />
 			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_none" />
@@ -367,5 +350,5 @@
 		<bool name="can_cast_outside_active_battle_field" value="False" />
 		<bool name="ability_super_event_cue" value="False" />
 	</group>
-	<uniqueid name="pbgid" value="15684" />
+	<uniqueid name="pbgid" value="1073741860" />
 </instance>

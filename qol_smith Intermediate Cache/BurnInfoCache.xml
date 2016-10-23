@@ -83,7 +83,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp.xml</FileName>
-			<FileHash>1b9ba85033bc12898d114bc9700a3e73</FileHash>
+			<FileHash>a6589eedd353546bd479b9596dd260ea</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\repair_ability\aef_repair_critical_vet2_mp.xml</FileName>
+			<FileHash>b7274945ac12efe39faadabe32217a7f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\repair_ability\aef_repair_critical_vet3_mp.xml</FileName>
+			<FileHash>c176be084554f0bcb9c9fa5574e91a38</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\timed_ability\ambulance_heal_area.xml</FileName>
@@ -987,11 +995,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\assault_engineer_squad\assault_engineer_squad_5_man_mp.xml</FileName>
-			<FileHash>cea53df0e50d27c1043685ab5276ae81</FileHash>
+			<FileHash>53be36cdee041903a44147f1f39adf8d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\assault_engineer_squad\assault_engineer_squad_mp.xml</FileName>
-			<FileHash>9afe1ccc56d886860be57fd5b167873b</FileHash>
+			<FileHash>b34828da7b0fa9f9ec96f9dde1f707c4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\captain_squad\captain_squad_mp.xml</FileName>
@@ -1043,11 +1051,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\vehicle_crew_squad\vehicle_crew_bazooka_squad_mp.xml</FileName>
-			<FileHash>472014b887c3749c913a9a00391037a6</FileHash>
+			<FileHash>03a5c21b3a60ef1f971a72de2e8c648a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\vehicle_crew_squad\vehicle_crew_squad_mp.xml</FileName>
-			<FileHash>3bb07ea1e3071d089acf091db96ec1a3</FileHash>
+			<FileHash>299ea42520b118f6900970f207999349</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\team_weapons\m1_57mm_at_gun_squad\m1_57mm_at_gun_squad_mp.xml</FileName>
@@ -1799,7 +1807,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
-			<FileHash>72a74c6a2a148d7b908895ffa37bef1a</FileHash>
+			<FileHash>96d7c7af3d5245ea38fcc83a3bb014e7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>
