@@ -98,6 +98,22 @@
 			<FileHash>7fb17bee9b75e6e37b3152626b12da47</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\timed_ability\vehicle_decrew_generic_mp.xml</FileName>
+			<FileHash>b350ab6f248d7611758e2f45f6f17ae5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\timed_ability\vehicle_decrew_m20_crew_mp.xml</FileName>
+			<FileHash>1fc4028317353be76fd4d762b2244f36</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\timed_ability\vehicle_decrew_medics_mp.xml</FileName>
+			<FileHash>d7e50679871181ed3c8ba7240a5ab0d8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\timed_ability\vehicle_decrew_vehicle_crew_mp.xml</FileName>
+			<FileHash>3ce9231aebde56ad954877de9ae35ed4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp.xml</FileName>
 			<FileHash>5c622ce7ce9c8816dcfd4a79727b228a</FileHash>
 		</BurnInfo>
@@ -655,7 +671,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m36_tank_destroyer\m36_tank_destroyer_mp.xml</FileName>
-			<FileHash>9080a67467202f5ca436225ed0b3e857</FileHash>
+			<FileHash>dda098ea5fca725017ca6b23ff1b40fd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m3_halftrack\m15a1_aa_halftrack_mp.xml</FileName>
@@ -995,19 +1011,19 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\assault_engineer_squad\assault_engineer_squad_5_man_mp.xml</FileName>
-			<FileHash>53be36cdee041903a44147f1f39adf8d</FileHash>
+			<FileHash>7c12841544e5280cf973b441158252b3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\assault_engineer_squad\assault_engineer_squad_mp.xml</FileName>
-			<FileHash>b34828da7b0fa9f9ec96f9dde1f707c4</FileHash>
+			<FileHash>729f2cc7dbe66633b294ccd9974462af</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\captain_squad\captain_squad_mp.xml</FileName>
-			<FileHash>cb50f0703f2bae15ad72a9e41ef31afd</FileHash>
+			<FileHash>69b73e1f1c508b1fb3a636dde601a3ea</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\lieutenant_squad\lieutenant_squad_mp.xml</FileName>
-			<FileHash>2ee7c4bcba8c6bfb11d9fc4ca9d6cf1e</FileHash>
+			<FileHash>0cb515e89f4092c0ca77dcefd06c7c90</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\major_squad\major_squad_mp.xml</FileName>
@@ -1015,47 +1031,47 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\paratrooper_squad\paratrooper_squad_mp.xml</FileName>
-			<FileHash>0d4c8962729c1adab8db3c69de9beab8</FileHash>
+			<FileHash>938c944765d44bd2bfd3901d91165bf9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\paratrooper_squad\paratrooper_squad_support_mp.xml</FileName>
-			<FileHash>df53221c004a18570ecafd5cb5bac1e5</FileHash>
+			<FileHash>19f659722d39a6a4f4282c8b2fae50ca</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_mp.xml</FileName>
-			<FileHash>946dda397c6500b1a75bb56d5879cc86</FileHash>
+			<FileHash>c9c3b6ada34ecf2aa3736cff97dbda62</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_recon_mp.xml</FileName>
-			<FileHash>4fcf40e33e9271ffd6dfc17244aa689b</FileHash>
+			<FileHash>87ade356f37f72492223919da4ff8855</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\ranger_squad\ranger_squad_commander_mp.xml</FileName>
-			<FileHash>f89de52adb70f7b98cb9516bb4b59ee6</FileHash>
+			<FileHash>dd753bdd3cec608ec962c7a5535bf9e0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\rear_echelon_squad\rear_echelon_squad_mp.xml</FileName>
-			<FileHash>9716341382c79c6bc2e8dba1ce64be79</FileHash>
+			<FileHash>660a50ae272e63d99528e549eeff1f49</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_mp.xml</FileName>
-			<FileHash>6c2d4648ab105d448394aac53ed976f3</FileHash>
+			<FileHash>0d51ab1ff4f526a27bea3ab563263d84</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\usf_medic_squad\usf_medic_squad_mp.xml</FileName>
-			<FileHash>7dd71743f4e614e746859cb60be93ea3</FileHash>
+			<FileHash>a46e1afdbe5c4375e50e0d5325df8625</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\vehicle_crew_squad\m20_assault_engy_antitank_squad_mp.xml</FileName>
-			<FileHash>11beab882d05bdb0cbee403c42bee98b</FileHash>
+			<FileHash>5a44db3e127b292e0c6a305db3fa3111</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\vehicle_crew_squad\vehicle_crew_bazooka_squad_mp.xml</FileName>
-			<FileHash>03a5c21b3a60ef1f971a72de2e8c648a</FileHash>
+			<FileHash>bd5432e2901556dd1aaef6882ed86038</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\vehicle_crew_squad\vehicle_crew_squad_mp.xml</FileName>
-			<FileHash>299ea42520b118f6900970f207999349</FileHash>
+			<FileHash>e990f81fb98e8608167fb29fee03dbd8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\team_weapons\m1_57mm_at_gun_squad\m1_57mm_at_gun_squad_mp.xml</FileName>
@@ -1348,6 +1364,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\aef\crew_squad_bonus_token_mp.xml</FileName>
 			<FileHash>b66300f23e49066cd13d2f0d7c45469e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\aef\vehicle_decrew_bonus_token_mp.xml</FileName>
+			<FileHash>d399af574782de89e4b771f63d96e77a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\aef\vehicle_elite_bonus_token_mp.xml</FileName>
@@ -1807,7 +1827,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
-			<FileHash>96d7c7af3d5245ea38fcc83a3bb014e7</FileHash>
+			<FileHash>148f0dc3e4c05007782af9344e3afacc</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>
