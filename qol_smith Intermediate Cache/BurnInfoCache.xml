@@ -103,7 +103,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\timed_ability\vehicle_decrew_m20_crew_mp.xml</FileName>
-			<FileHash>1fc4028317353be76fd4d762b2244f36</FileHash>
+			<FileHash>41a2c4691c4746d2ad9dd5e199467a30</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\timed_ability\vehicle_decrew_medics_mp.xml</FileName>
@@ -111,7 +111,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\timed_ability\vehicle_decrew_vehicle_crew_mp.xml</FileName>
-			<FileHash>3ce9231aebde56ad954877de9ae35ed4</FileHash>
+			<FileHash>ee827a0b825cc7fb2293341035292e21</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp.xml</FileName>
@@ -435,7 +435,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\aef.xml</FileName>
-			<FileHash>a6798b12254ab629abecde24801e4a1d</FileHash>
+			<FileHash>80039333b058e5c673d20a9264570816</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\british.xml</FileName>
@@ -588,6 +588,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\props\demo_charge.xml</FileName>
 			<FileHash>bafce88d37318ac15174939d3e59a1ed</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\buildings\base_building\rifle_command_mp.xml</FileName>
+			<FileHash>73f7bf7f2ad1c41872c31d5a1b4db7ed</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\soldiers\assault_engineer\assault_engineer_mp.xml</FileName>
@@ -807,7 +811,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\soldiers\vehicle_crew_troop\vehicle_crew_mp.xml</FileName>
-			<FileHash>01712e5cc1395c0d149b58feaa8da8e6</FileHash>
+			<FileHash>be9259392ca1c40f8c6890fed7bbab17</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\team_weapons\at_gun_6_pounder\brit_6_pounder_at_gun_mp.xml</FileName>
@@ -1263,7 +1267,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\soldiers\vehicle_crew_squad\vehicle_crew_squad_mp.xml</FileName>
-			<FileHash>e990f81fb98e8608167fb29fee03dbd8</FileHash>
+			<FileHash>375c1d423a93d72e8cf98030f6398e5c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\team_weapons\m1_57mm_at_gun_squad\m1_57mm_at_gun_squad_mp.xml</FileName>
@@ -1547,7 +1551,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\aef\crew_elite_token_mp.xml</FileName>
-			<FileHash>6f180245b0e217889e4039b0e69194f7</FileHash>
+			<FileHash>d6416a9bbd33dce6e84587ffa7e3bfeb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\aef\crew_generic_penalty_token_mp.xml</FileName>
@@ -1563,7 +1567,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\aef\vehicle_elite_bonus_token_mp.xml</FileName>
-			<FileHash>a5437425a3b26d340a9a900dac5e00a0</FileHash>
+			<FileHash>39276f655805e2cde8442b4619ac73ce</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\aef\vehicle_noncrew_penalty_token_mp.xml</FileName>
@@ -1703,7 +1707,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\common\infantry_discount_mp.xml</FileName>
-			<FileHash>3b3ee1281ef94cec33bef5ba9d05efa9</FileHash>
+			<FileHash>9faac8f6799ac713dec3e07b378fd174</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\common\tokens\atinf_prioritise.xml</FileName>
@@ -2019,7 +2023,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
-			<FileHash>148f0dc3e4c05007782af9344e3afacc</FileHash>
+			<FileHash>0f6962f78680ddced83ae99889ae3149</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>

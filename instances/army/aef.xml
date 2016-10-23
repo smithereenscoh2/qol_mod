@@ -241,7 +241,7 @@
 				<instance_reference name="base_building" value="ebps\races\aef\buildings\base_building\armored_rifle_command_mp" />
 				<instance_reference name="base_building" value="ebps\races\aef\buildings\base_building\armor_command_mp" />
 				<instance_reference name="base_building" value="ebps\races\aef\buildings\base_building\company_weapons_pool_mp" />
-				<instance_reference name="base_building" value="ebps\races\aef\buildings\base_building\rifle_command_mp" />
+				<instance_reference name="base_building" value="ebps\races\aef\buildings\base_building\rifle_command_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			</list>
 			<list name="unlocking_upgrade_list">
 				<group name="unlocking_upgrade_info">
