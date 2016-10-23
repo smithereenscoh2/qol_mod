@@ -40,12 +40,12 @@
 			</group>
 			<float name="length" value="0" />
 			<group name="origin">
-				<float name="x" value="0" />
+				<float name="x" value="0.25" />
 				<float name="y" value="2" />
 				<float name="z" value="0" />
 			</group>
 			<enum name="type" value="accessory" />
-			<instance_reference name="weapon" value="weapon\british\explosive_weapons\grenade\tommy_officer_smoke_marker_grenade" />
+			<instance_reference name="weapon" value="weapon\british\small_arms\single_fire\pistol\tommy_flare_pistol_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 		</group>
 		<list name="on_add_actions">
 		</list>

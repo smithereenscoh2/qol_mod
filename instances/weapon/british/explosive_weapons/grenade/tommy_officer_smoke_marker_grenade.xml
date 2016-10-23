@@ -335,11 +335,11 @@
 		</group>
 		<group name="projectile">
 			<bool name="delete_previous_on_hit" value="False" />
-			<instance_reference name="projectile" value="ebps\projectile\brit_smoke_marker_coordinated_fire_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+			<instance_reference name="projectile" value="ebps\projectile\brit_smoke_marker_coordinated_fire_grenade_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 		</group>
 		<group name="range">
 			<float name="max" value="30" />
-			<float name="min" value="5" />
+			<float name="min" value="0" />
 			<group name="distance">
 				<float name="near" value="-1" />
 				<float name="far" value="-1" />
