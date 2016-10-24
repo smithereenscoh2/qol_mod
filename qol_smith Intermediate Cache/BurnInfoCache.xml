@@ -570,6 +570,10 @@
 			<FileHash>3a82564cda1ff4d9b4f6ceff966a796d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\flak_shell_20mm_mp.xml</FileName>
+			<FileHash>21aa99b46a937d0c2d3813b88037b35e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\projectile\isu_152_shell_he_mp.xml</FileName>
 			<FileHash>62f25fadf304cd95b5f50e275cc616ec</FileHash>
 		</BurnInfo>
@@ -691,7 +695,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m10_tank_destroyer\m10_tank_destroyer_mp.xml</FileName>
-			<FileHash>e1a9189ad3b4b0d0b9f70a62d90ce349</FileHash>
+			<FileHash>6434abc13cdb8f343a595afd25517df8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m20_utility_car\m20_utility_car_mp.xml</FileName>
@@ -1087,7 +1091,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\base_building\infantry_support_mp.xml</FileName>
-			<FileHash>5e8e6704db1c8ed279528fb5e878994b</FileHash>
+			<FileHash>e2d76ff83551bfd8d614e124f4484352</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp.xml</FileName>
@@ -1650,6 +1654,10 @@
 			<FileHash>5b8d3c7ae2d022812efc24ca2c835415</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\common\medium_human_crush_token_mp.xml</FileName>
+			<FileHash>04e37c9816ce67b5082166246cb66a4b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\german\ballistic_weapon\infantry_at_weapon\panzershreck_slot1_mp.xml</FileName>
 			<FileHash>f31c7cc990616be8f7c08e8f3eb21fd0</FileHash>
 		</BurnInfo>
@@ -2060,6 +2068,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\flame_throwers\hetzer_keobe_flamethrower__mp.xml</FileName>
 			<FileHash>4eb83d4ea841b8f956a9a6e0f5fba3f9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\small_arms\tank_gun\base_building_flak_20mm_flak38.xml</FileName>
+			<FileHash>9e9494dc6f717f84075373c6e0c2d22f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
