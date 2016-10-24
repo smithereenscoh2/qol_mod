@@ -402,6 +402,18 @@
 			<FileHash>a1e27d895fd0c4f0f452ff9407f121e6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\modal_ability\construct_armored_infantry_command.xml</FileName>
+			<FileHash>9221da36411a39030619cd505b7ab992</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\modal_ability\construct_infantry_barracks.xml</FileName>
+			<FileHash>0d7b6177abdbba4484c30b702bb922b9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\modal_ability\construct_tank_command.xml</FileName>
+			<FileHash>8fddee90cc45233f25a442d2f86a03e0</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\modal_ability\sturmtiger_nahvw_close_range_grenade_targeted.xml</FileName>
 			<FileHash>918d78652317ecf74076133f05865c9d</FileHash>
 		</BurnInfo>
@@ -463,7 +475,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\west_german.xml</FileName>
-			<FileHash>f75fa2d26f9d33a94d9f6f991743b5f5</FileHash>
+			<FileHash>62231d6ccdc07448d8dcc7a80948a7bb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\aef_auras\ambulance_healing_aura_high_mp.xml</FileName>
@@ -1095,15 +1107,19 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\base_building\heavy_armor_support_mp.xml</FileName>
-			<FileHash>280b30f684c15eac983e030ee0e1c385</FileHash>
+			<FileHash>87daa01ea59e8e26e901930aa49be65b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\base_building\infantry_support_mp.xml</FileName>
-			<FileHash>e2d76ff83551bfd8d614e124f4484352</FileHash>
+			<FileHash>b35c3b389c0cb1e016ff2100112ace6d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\base_building\light_armor_support_mp.xml</FileName>
+			<FileHash>d87727c6d6dabb217329d649cb3e5acf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp.xml</FileName>
-			<FileHash>194ce5190b3e1cf182257d4b05bc4875</FileHash>
+			<FileHash>2f16b5c0e73e7edd38d48364c93cec27</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\defensive_structures\flak_emplacement.xml</FileName>
@@ -1199,7 +1215,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\vehicles\panzer_ii_luchs_sdkfz_123\panzer_ii_luchs_sdkfz_123_mp.xml</FileName>
-			<FileHash>5c5275809ee9e704028f55728b658ccb</FileHash>
+			<FileHash>9f06788ef18c2e40de3127c4defd9e75</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\vehicles\panzer_iv_sdkfz_161\panzer_iv_sdkfz_ausf_j_mp.xml</FileName>
@@ -1212,6 +1228,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\vehicles\sturmtiger_606_38cm_rw_61\sturmtiger_606_38cm_rw_61_mp.xml</FileName>
 			<FileHash>b791e56125325c9d6732201f3cd3ce78</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\vehicles\sws_halftrack\sws_halftrack_mp.xml</FileName>
+			<FileHash>873dc8924bbc23c2aa4c451ae379ba52</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\formations\element_new_rifle_line_core.xml</FileName>
@@ -1598,6 +1618,10 @@
 			<FileHash>c931ef2e2fba2237f3a25ab3761286f6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\west_german\vehicles\sws_halftrack_squad\sws_halftrack_squad_mp.xml</FileName>
+			<FileHash>e16369570edc816dd3d1de590159767f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\aef\crew_elite_token_mp.xml</FileName>
 			<FileHash>d6416a9bbd33dce6e84587ffa7e3bfeb</FileHash>
 		</BurnInfo>
@@ -1806,6 +1830,10 @@
 			<FileHash>fa4240406065dc65e9d6575959d1d27e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\west_german\research\flakhq_unlocked.xml</FileName>
+			<FileHash>e65b7fe408c78a7946657addc1276d5d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\west_german\research\flak_gun_unlock_upgrade.xml</FileName>
 			<FileHash>c64b3c42fcf438e628836380f957e3ab</FileHash>
 		</BurnInfo>
@@ -1814,8 +1842,20 @@
 			<FileHash>e9323ed444ef15a5c70b9c952665366d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\west_german\research\mechhq_unlocked.xml</FileName>
+			<FileHash>d118ea8c032bd1a63ab7f3f6a403ea9f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\west_german\research\medhq_healing_mp.xml</FileName>
 			<FileHash>59335df46159c2881d47299020de50cb</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\west_german\research\medhq_unlocked.xml</FileName>
+			<FileHash>f135bc78f840d23cbfcecf06d57f1183</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\west_german\research\repair_engineers_mp.xml</FileName>
+			<FileHash>387852f8706e0946444449d5a9536047</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\ballistic_weapon\infantry_anti_tank_weapon\m9_bazooka_mp.xml</FileName>
@@ -2103,7 +2143,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
-			<FileHash>f40f70c01bbc5d9838231802bdb29a5b</FileHash>
+			<FileHash>314e7f0a2a9ac05dd20b457a2e6ff252</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>
