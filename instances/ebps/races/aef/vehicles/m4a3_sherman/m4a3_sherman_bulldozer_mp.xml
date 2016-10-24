@@ -17,7 +17,8 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\mortar_barrage_ability\smoke_sherman_mortar_barrage_bulldozer_mp" />
-				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_hold_fire_pack_howitzer_mp" />
+				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_hold_fire_mp" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\artillery_barrage_ability\bulldozer_sherman_barrage_ability_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
@@ -26,15 +27,6 @@
 					<float name="duration" value="0" />
 					<bool name="permanent" value="True" />
 					<list name="modifiers">
-						<template_reference name="modifier" value="modifiers\enable_weapon_modifier">
-							<enum name="application_type" value="apply_to_weapon" />
-							<bool name="exclusive" value="False" />
-							<string name="modifier_id" value="" />
-							<string name="target_type_name" value="hardpoint_04" />
-							<enum name="usage_type" value="enable" />
-							<float name="value" value="-1" />
-							<instance_reference name="tooltip" value="modifier_tooltip\enable_weapon_modifier" />
-						</template_reference>
 						<template_reference name="modifier" value="modifiers\capture_enable_squad_modifier">
 							<enum name="application_type" value="apply_to_squad" />
 							<bool name="exclusive" value="False" />
@@ -619,7 +611,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\ballistic_weapon\tank_gun\sherman_m3_105mm_he_shell_mp" />
+							<instance_reference name="weapon" value="weapon\aef\ballistic_weapon\tank_gun\sherman_m3_105mm_he_shell_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -669,6 +661,21 @@
 				<group name="hardpoint">
 					<float name="parent_hardpoint" value="1" />
 					<list name="weapon_table">
+						<group name="weapon">
+							<group name="heading">
+								<float name="x" value="0" />
+								<float name="y" value="0" />
+								<float name="z" value="1" />
+							</group>
+							<float name="length" value="0" />
+							<group name="origin">
+								<float name="x" value="0" />
+								<float name="y" value="0.5" />
+								<float name="z" value="0" />
+							</group>
+							<enum name="type" value="default" />
+							<instance_reference name="weapon" value="weapon\aef\ballistic_weapon\tank_gun\sherman_m3_105mm_he_shell_barrage_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
 				</group>
@@ -1088,7 +1095,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="racebps\aef" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_bulldozer_squad_mp" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_bulldozer_squad_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 						<float name="max_capture_crew_size" value="9" />
 						<float name="min_capture_crew_size" value="3" />
 						<list name="recrew_penalties_list">
@@ -1288,7 +1295,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_bulldozer_squad_mp" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_bulldozer_squad_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 						<float name="max_capture_crew_size" value="3" />
 						<float name="min_capture_crew_size" value="3" />
 						<list name="recrew_penalties_list">

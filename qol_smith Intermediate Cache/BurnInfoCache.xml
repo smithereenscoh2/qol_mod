@@ -26,12 +26,20 @@
 			<FileHash>fd6aa5ae4420ab6a1497e7d5841d7d03</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\sherman_bulldozer_construct_barrier_mp.xml</FileName>
+			<FileHash>8335f0102b9e9b3dcc4b27a8644ed042</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\usf_medic_heal_mp.xml</FileName>
 			<FileHash>6ce37ab1908ded4426a63f8a05b156f5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\accessory_weapons\greyhound_smoke_shell_shot_mp.xml</FileName>
 			<FileHash>fde7bc4faf7d3e171221d24c5a8aef2f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\artillery\artillery_barrage_ability\bulldozer_sherman_barrage_ability_mp.xml</FileName>
+			<FileHash>668fa8d54e2e35c0d75c1ba3dfad1ce2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\artillery\artillery_barrage_ability\major_artillery.xml</FileName>
@@ -731,7 +739,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m4a3_sherman\m4a3_sherman_bulldozer_mp.xml</FileName>
-			<FileHash>ef937561e81afd529f2e2e15d0916d90</FileHash>
+			<FileHash>2eff9d1a440070ca86691e4eba76c624</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m4a3_sherman\m4a3_sherman_mp.xml</FileName>
@@ -751,7 +759,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m8a1_hmc\m8a1_hmc_mp.xml</FileName>
-			<FileHash>e1737faacfd411b13880e2f27e2296be</FileHash>
+			<FileHash>2c345025a24abb1f188a5b878a2bd654</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m8_greyhound\m8_greyhound_mp.xml</FileName>
@@ -1330,6 +1338,14 @@
 			<FileHash>d1d0a019bb139cab2fb44e8f1b4c8c0f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_bulldozer_squad_mp.xml</FileName>
+			<FileHash>fe390324da315ebf0645a9d37bfc97d8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\vehicles\m8a1_hmc_squad\m8a1_hmc_squad_mp.xml</FileName>
+			<FileHash>5e3e4ac74582a33ee61c0fb0f05df3f3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\aef\vehicles\m8_greyhound_squad\m8_greyhound_squad_mp.xml</FileName>
 			<FileHash>232461a78b1003076bddfd35bb4605df</FileHash>
 		</BurnInfo>
@@ -1806,6 +1822,14 @@
 			<FileHash>6f950e2a6929881dfeaf491486a757af</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\ballistic_weapon\tank_gun\sherman_m3_105mm_he_shell_barrage_mp.xml</FileName>
+			<FileHash>12c5e0092cb68d3694c13a6cf5936305</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\ballistic_weapon\tank_gun\sherman_m3_105mm_he_shell_mp.xml</FileName>
+			<FileHash>51f6247c5fcfb29a2cce2a1660966233</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\ballistic_weapon\tank_gun\sherman_m3_75mm_he_shell_mp.xml</FileName>
 			<FileHash>b9f7e333afe179caeb080c0bedeaec29</FileHash>
 		</BurnInfo>
@@ -2079,7 +2103,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
-			<FileHash>f7206bb1ac10eef690a1f96376b99389</FileHash>
+			<FileHash>f40f70c01bbc5d9838231802bdb29a5b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>
