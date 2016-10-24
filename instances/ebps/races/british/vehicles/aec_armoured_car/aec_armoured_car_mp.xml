@@ -1022,7 +1022,7 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\crush_ext">
 			<bool name="crushes_humans" value="False" />
-			<enum name="default_crush_mode" value="crush_medium" />
+			<enum name="default_crush_mode" value="crush_light" />
 			<list name="crush_mode_actions_heavy">
 				<template_reference name="action" value="action\apply_modifiers_action">
 					<float name="duration" value="1.5" />
@@ -1061,13 +1061,6 @@
 			<list name="crush_mode_actions_light">
 			</list>
 			<list name="crush_mode_actions_medium">
-				<template_reference name="action" value="action\apply_modifiers_action">
-					<float name="duration" value="1.5" />
-					<bool name="permanent" value="False" />
-					<list name="modifiers">
-					</list>
-					<uniqueid name="id" value="1073748025" />
-				</template_reference>
 				<template_reference name="action" value="action\delay">
 					<float name="delay" value="0.5" />
 					<float name="delay_min" value="0" />

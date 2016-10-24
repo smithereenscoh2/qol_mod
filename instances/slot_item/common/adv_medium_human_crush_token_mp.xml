@@ -49,7 +49,7 @@
 		</group>
 		<list name="on_add_actions">
 			<template_reference name="action" value="action\apply_modifiers_action">
-				<float name="duration" value="2" />
+				<float name="duration" value="1.5" />
 				<bool name="permanent" value="False" />
 				<list name="modifiers">
 					<template_reference name="modifier" value="modifiers\received_experience_squad_modifier">
@@ -67,7 +67,7 @@
 						<string name="modifier_id" value="" />
 						<string name="target_type_name" value="" />
 						<enum name="usage_type" value="multiplication" />
-						<float name="value" value="0.55" />
+						<float name="value" value="0.7416198" />
 						<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 					</template_reference>
 					<template_reference name="modifier" value="modifiers\rotation_speed_modifier">
@@ -76,15 +76,15 @@
 						<string name="modifier_id" value="" />
 						<string name="target_type_name" value="" />
 						<enum name="usage_type" value="multiplication" />
-						<float name="value" value="0.4" />
+						<float name="value" value="0.6324555" />
 						<instance_reference name="tooltip" value="modifier_tooltip\rotation_speed_modifier" />
 					</template_reference>
 				</list>
-				<uniqueid name="id" value="1073749465" />
+				<uniqueid name="id" value="1073749529" />
 			</template_reference>
 		</list>
 		<list name="on_drop_actions">
 		</list>
 	</group>
-	<uniqueid name="pbgid" value="1073741840" />
+	<uniqueid name="pbgid" value="1073741841" />
 </instance>

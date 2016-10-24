@@ -1011,7 +1011,7 @@
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\crush_ext">
-			<bool name="crushes_humans" value="True" />
+			<bool name="crushes_humans" value="False" />
 			<enum name="default_crush_mode" value="crush_light" />
 			<list name="crush_mode_actions_heavy">
 			</list>
