@@ -573,7 +573,7 @@
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\combat_ext">
-			<bool name="reject_attack_command" value="True" />
+			<bool name="reject_attack_command" value="False" />
 			<list name="hardpoints">
 				<group name="hardpoint">
 					<float name="parent_hardpoint" value="-1" />
@@ -591,7 +591,7 @@
 								<float name="z" value="-1.5" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\west_german\small_arms\tank_gun\base_building_flak_20mm_flak38" />
+							<instance_reference name="weapon" value="weapon\west_german\small_arms\tank_gun\base_building_flak_20mm_flak38" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
