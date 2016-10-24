@@ -242,7 +242,7 @@
 		<group name="ai_production_info">
 			<list name="base_building_list">
 				<instance_reference name="base_building" value="ebps\races\west_german\buildings\base_building\heavy_armor_support_mp" />
-				<instance_reference name="base_building" value="ebps\races\west_german\buildings\base_building\infantry_support_mp" />
+				<instance_reference name="base_building" value="ebps\races\west_german\buildings\base_building\infantry_support_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<instance_reference name="base_building" value="ebps\races\west_german\buildings\base_building\light_armor_support_mp" />
 				<instance_reference name="base_building" value="ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp" />
 			</list>
@@ -335,7 +335,7 @@
 			</group>
 			<group name="starting_building">
 				<string name="key" value="tier1" />
-				<instance_reference name="building" value="ebps\races\west_german\buildings\base_building\infantry_support_mp" />
+				<instance_reference name="building" value="ebps\races\west_german\buildings\base_building\infantry_support_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<list name="starting_squads">
 				</list>
 				<list name="player_upgrades">

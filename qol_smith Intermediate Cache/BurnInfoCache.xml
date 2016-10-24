@@ -455,7 +455,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\west_german.xml</FileName>
-			<FileHash>2b5e389578aced58695ae31b2ff3bd3f</FileHash>
+			<FileHash>f75fa2d26f9d33a94d9f6f991743b5f5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\aef_auras\ambulance_healing_aura_high_mp.xml</FileName>
@@ -606,8 +606,16 @@
 			<FileHash>bafce88d37318ac15174939d3e59a1ed</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\props\flak_popcap_user_mp.xml</FileName>
+			<FileHash>85de365fe2a94c6af86e147ee8d3c604</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\buildings\base_building\rifle_command_mp.xml</FileName>
 			<FileHash>73f7bf7f2ad1c41872c31d5a1b4db7ed</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\buildings\defensive_structures\major_retreat_point_mp.xml</FileName>
+			<FileHash>dfb4ef691be9a1aa33d11f8d0d5af74e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\soldiers\assault_engineer\assault_engineer_mp.xml</FileName>
@@ -799,11 +807,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_bofors_40mm_autocannon_commander_mp.xml</FileName>
-			<FileHash>97ba8750fd6c7bc0d019d1dac39fdff2</FileHash>
+			<FileHash>81a51959ce3a3ffb6c1ce8c500cf3c6d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\buildings\emplacements\brit_bofors_40mm_autocannon_mp.xml</FileName>
-			<FileHash>decc3fb3046b334fd6289831857b1d5c</FileHash>
+			<FileHash>db2f9b620dc2915033440071f8967523</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\british\soldiers\brit_medic\brit_medic_with_pistol_mp.xml</FileName>
@@ -1076,6 +1084,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\base_building\heavy_armor_support_mp.xml</FileName>
 			<FileHash>280b30f684c15eac983e030ee0e1c385</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\base_building\infantry_support_mp.xml</FileName>
+			<FileHash>736a42be11d790f2d1fd2ad9fff24888</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp.xml</FileName>
@@ -1631,7 +1643,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\british\grenades\tommy_officer_smoke_marker_grenade_mp.xml</FileName>
-			<FileHash>d5cefce8eaf73096afe89410c2a2d2d1</FileHash>
+			<FileHash>db79f076ff37653d3bbf39e5d215c9b8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\slot_item\common\medic_auto_heal_token_mp.xml</FileName>
@@ -1764,6 +1776,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\west_german\research\first_medic_researched_mp.xml</FileName>
 			<FileHash>fa4240406065dc65e9d6575959d1d27e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\west_german\research\flak_gun_unlock_upgrade.xml</FileName>
+			<FileHash>0bd21db3640611bf4e3cd01b5263d02d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\west_german\research\hq_healing_mp.xml</FileName>
@@ -2047,7 +2063,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
-			<FileHash>0f6962f78680ddced83ae99889ae3149</FileHash>
+			<FileHash>f7206bb1ac10eef690a1f96376b99389</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>

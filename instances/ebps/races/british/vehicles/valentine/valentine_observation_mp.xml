@@ -443,7 +443,7 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\population_ext">
 			<float name="medic_pop" value="0" />
-			<float name="personnel_pop" value="12" />
+			<float name="personnel_pop" value="9" />
 			<float name="vehicle_pop" value="0" />
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\sight_ext">
@@ -1049,7 +1049,7 @@
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\crush_ext">
-			<bool name="crushes_humans" value="True" />
+			<bool name="crushes_humans" value="False" />
 			<enum name="default_crush_mode" value="crush_medium" />
 			<list name="crush_mode_actions_heavy">
 				<template_reference name="action" value="action\delay">
