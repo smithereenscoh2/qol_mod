@@ -475,7 +475,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\west_german.xml</FileName>
-			<FileHash>62231d6ccdc07448d8dcc7a80948a7bb</FileHash>
+			<FileHash>c4c50c50f82dedb0f8f39c1414fd2a64</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\aef_auras\ambulance_healing_aura_high_mp.xml</FileName>
@@ -1123,7 +1123,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\buildings\defensive_structures\flak_emplacement.xml</FileName>
-			<FileHash>03c408092792c868ebb251ba5359613b</FileHash>
+			<FileHash>3afe783ea9f320b24441d3ab2bcb755e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\west_german\soldiers\assault_pioneer\assault_pioneer_mp.xml</FileName>
@@ -1588,6 +1588,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\west_german\team_weapons\at_gun_squad\raketenwerfer43_88mm_puppchen_antitank_gun_squad_mp.xml</FileName>
 			<FileHash>a3825a67ecb6461a1851de70e1661799</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\west_german\team_weapons\flak_emplacement\flak_emplacement.xml</FileName>
+			<FileHash>06a5b5615d9422d228c0c6034ae4e428</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\west_german\team_weapons\le_ig_18_inf_support_gun_squad\le_ig_18_inf_support_gun_squad_mp.xml</FileName>
@@ -2131,7 +2135,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\explosive_weapons\light_artillery\sturmtiger_nahvw_close_range_grenades.xml</FileName>
-			<FileHash>114240e165f30d9320b89b533d549cf0</FileHash>
+			<FileHash>b549b83149ace469e0b08e8950318e23</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\explosive_weapons\mines\schu_mine_mp.xml</FileName>
@@ -2144,6 +2148,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\small_arms\tank_gun\base_building_flak_20mm_flak38.xml</FileName>
 			<FileHash>9e9494dc6f717f84075373c6e0c2d22f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\west_german\small_arms\tank_gun\flak_emplacement_20mm.xml</FileName>
+			<FileHash>9c6bc14d1a0ef6d2c1ab15451dad2145</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>

@@ -323,12 +323,8 @@
 			</group>
 			<group name="starting_building">
 				<string name="key" value="bunker" />
-				<instance_reference name="building" value="" />
+				<instance_reference name="building" value="ebps\races\german\buildings\defensive_structure\bunker\axis_bunker_starting_position_mp" />
 				<list name="starting_squads">
-					<group name="starting_squad">
-						<instance_reference name="squad" value="sbps\races\west_german\team_weapons\flak_emplacement\flak_emplacement_base" />
-						<bool name="check_requirements" value="False" />
-					</group>
 				</list>
 				<list name="player_upgrades">
 				</list>
