@@ -448,7 +448,7 @@
 		<group name="ui_info">
 			<locstring name="extra_text" value="11068303" />
 			<locstring name="help_text" value="11055018" />
-			<string name="hotkey_name" value="V" />
+			<string name="hotkey_name" value="X" />
 			<icon name="icon_name" value="Icons_abilities_ability_aef_bulldozer_barricade" />
 			<string name="overlay_name" value="overlay\overlay_UR_fireup" />
 			<bool name="reveal_for_decryption" value="False" />

@@ -27,7 +27,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\sherman_bulldozer_construct_barrier_mp.xml</FileName>
-			<FileHash>8335f0102b9e9b3dcc4b27a8644ed042</FileHash>
+			<FileHash>4d7a9c3b86efa586eb7b42851a484ea1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\usf_medic_heal_mp.xml</FileName>
@@ -39,7 +39,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\artillery\artillery_barrage_ability\bulldozer_sherman_barrage_ability_mp.xml</FileName>
-			<FileHash>668fa8d54e2e35c0d75c1ba3dfad1ce2</FileHash>
+			<FileHash>c173a6448ee2828ee25f08f85dcc28fa</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\artillery\artillery_barrage_ability\major_artillery.xml</FileName>
@@ -759,7 +759,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m4a3_sherman\m4a3_sherman_bulldozer_mp.xml</FileName>
-			<FileHash>2eff9d1a440070ca86691e4eba76c624</FileHash>
+			<FileHash>ae6cbbc9f75e3a142819864c38f962bb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\aef\vehicles\m4a3_sherman\m4a3_sherman_mp.xml</FileName>
@@ -1879,11 +1879,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\ballistic_weapon\tank_gun\sherman_m3_105mm_he_shell_barrage_mp.xml</FileName>
-			<FileHash>12c5e0092cb68d3694c13a6cf5936305</FileHash>
+			<FileHash>9f90c4d36e6178844dfe238420f90939</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\ballistic_weapon\tank_gun\sherman_m3_105mm_he_shell_mp.xml</FileName>
-			<FileHash>51f6247c5fcfb29a2cce2a1660966233</FileHash>
+			<FileHash>4dcd54be2536359be8352db1a0e32c15</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\weapon\aef\ballistic_weapon\tank_gun\sherman_m3_75mm_he_shell_mp.xml</FileName>

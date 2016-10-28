@@ -661,6 +661,12 @@
 				<group name="hardpoint">
 					<float name="parent_hardpoint" value="1" />
 					<list name="weapon_table">
+					</list>
+					<bool name="receives_attack_commands" value="False" />
+				</group>
+				<group name="hardpoint">
+					<float name="parent_hardpoint" value="1" />
+					<list name="weapon_table">
 						<group name="weapon">
 							<group name="heading">
 								<float name="x" value="0" />
