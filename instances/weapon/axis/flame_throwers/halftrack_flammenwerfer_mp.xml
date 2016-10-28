@@ -46,7 +46,7 @@
 				<float name="radius" value="3" />
 			</group>
 			<group name="damage">
-				<float name="far" value="1" />
+				<float name="far" value="0.25" />
 				<float name="near" value="1" />
 				<float name="mid" value="1" />
 			</group>
@@ -176,7 +176,7 @@
 			</group>
 			<group name="tp_garrison_cover">
 				<float name="accuracy_multiplier" value="1" />
-				<float name="damage_multiplier" value="1.1" />
+				<float name="damage_multiplier" value="1" />
 				<float name="penetration_multiplier" value="1" />
 				<float name="suppression_multiplier" value="0" />
 			</group>
@@ -304,7 +304,7 @@
 					</group>
 				</group>
 				<float name="damage_frequency" value="1.25" />
-				<instance_reference name="dot_weapon" value="weapon\soviet\flame_throwers\grenade\molotov_cocktail_dotdamage_half_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+				<instance_reference name="dot_weapon" value="weapon\soviet\flame_throwers\grenade\molotov_cocktail_dotdamage_mp" />
 				<float name="dots_max" value="1" />
 				<float name="dots_min" value="1" />
 				<float name="duration_max" value="15" />
@@ -321,7 +321,7 @@
 						<string name="dca_action_name" value="Weapons\Splash_Damage\splashdmg_incendiary" />
 						<float name="duration" value="15" />
 						<bool name="is_terrain_only" value="True" />
-						<uniqueid name="id" value="1073744261" />
+						<uniqueid name="id" value="1073749906" />
 					</template_reference>
 				</list>
 			</template_reference>
