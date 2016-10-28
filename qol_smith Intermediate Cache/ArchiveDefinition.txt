@@ -161,6 +161,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\props\demo_charge.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\props\flak_popcap_user_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\buildings\base_building\rifle_command_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\buildings\defensive_structures\aef_mg_nest_aef_base.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\buildings\defensive_structures\major_retreat_point_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\assault_engineer\assault_engineer_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\captain\captain_mp.rgd
