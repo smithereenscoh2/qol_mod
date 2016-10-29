@@ -53,7 +53,7 @@ Some of the things I have improved are the following:
 - .. and many more!
 </Description>
 					<Hidden>false</Hidden>
-					<Name>Quality of Life mod v0.106</Name>
+					<Name>Quality of Life mod v0.107</Name>
 				</d2p1:anyType>
 				<d2p1:anyType i:type="BurnFile">
 					<BurnSettings i:nil="true" />
