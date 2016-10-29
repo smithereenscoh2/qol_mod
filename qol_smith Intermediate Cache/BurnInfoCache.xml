@@ -70,6 +70,10 @@
 			<FileHash>dd551399e28a4fb75b45219a236113c5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\commander_ability\m26_pershing_dispatch.xml</FileName>
+			<FileHash>58d66d1a715b4d6b64b8ec24bf2c75ee</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\commander_ability\support_artillery.xml</FileName>
 			<FileHash>3e8de5a0b2f5dd7f3627c18544771cbd</FileHash>
 		</BurnInfo>
@@ -92,6 +96,38 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\dispatch_ability\air_drop_combat_group.xml</FileName>
 			<FileHash>e714374192c884aebb4785c08333a8ef</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\dispatch_ability\greyhound_recon_dispatch.xml</FileName>
+			<FileHash>e85190262435a7d6aa104b16bdc2de0a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\dispatch_ability\m10_deploy.xml</FileName>
+			<FileHash>9ca6bcda03f5a61c165179f1c35ddd82</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\dispatch_ability\m21_mortar_halftrack_dispatch.xml</FileName>
+			<FileHash>41eaa6b5ffd14789c2fcd9b942287682</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\dispatch_ability\m3_halftrack_group.xml</FileName>
+			<FileHash>ba1564af0ee33a315860bf968def2b3c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\dispatch_ability\m5_quad_halftrack_dispatch.xml</FileName>
+			<FileHash>d606294c0652c91f9398db6467481f4d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\dispatch_ability\priest_dispatch.xml</FileName>
+			<FileHash>e89989da89e189d260547613522994d5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\dispatch_ability\sherman_bulldozer_dispatch.xml</FileName>
+			<FileHash>657c6dd13b62898919cd8c476f29e95a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\dispatch_ability\sherman_calliope_dispatch.xml</FileName>
+			<FileHash>48e3b5c0388775c8647173282aa8c6cf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp.xml</FileName>
@@ -210,6 +246,14 @@
 			<FileHash>d1bf0893e91fbb641bfa896e3665a5cd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\dispatch_ability\churchill_avre.xml</FileName>
+			<FileHash>96ffad29b52c229da0618cd17e93abb3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\dispatch_ability\churchill_crocodile.xml</FileName>
+			<FileHash>76d4ad2d64d4229ca817e064c71f6a55</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\dispatch_ability\direct_barrage.xml</FileName>
 			<FileHash>3dffa157b0cb9d0af918ebd6ad30ec1f</FileHash>
 		</BurnInfo>
@@ -222,8 +266,16 @@
 			<FileHash>190234c7cfda00192398552785d0fae2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\dispatch_ability\land_mattress.xml</FileName>
+			<FileHash>34d8bd283338ce198f86e600d4e9803f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\dispatch_ability\observation_valentine.xml</FileName>
-			<FileHash>b28853cf9a4a72ffb0c88e196f8a78dc</FileHash>
+			<FileHash>4b54d602d2bb8872c7b5cbe0c5ba02d4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\dispatch_ability\sexton_dispatch_british.xml</FileName>
+			<FileHash>c1d4d6d2a7ff1eceaa7a799f14833545</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\british\modal_ability\grenades\cover_smoke_grenades.xml</FileName>
@@ -294,6 +346,10 @@
 			<FileHash>00d8d89ddb8ff16c10fd2093c92c3a3f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\modal_ability\commander_ability\armor_commander.xml</FileName>
+			<FileHash>101cf66ef149181ffc671a7a6c6b114e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\modal_ability\commander_ability\railway_gun_artillery.xml</FileName>
 			<FileHash>da618ab9911d608a80c7d41c0cb374dd</FileHash>
 		</BurnInfo>
@@ -318,12 +374,28 @@
 			<FileHash>e450a204892ee5a49575def57001ab4d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\modal_ability\commander_ability\passive_ability\elefant_unlock.xml</FileName>
+			<FileHash>7620634b1882350431e7f9b1f80aa5e1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\modal_ability\commander_ability\passive_ability\tiger_tank.xml</FileName>
+			<FileHash>f02e818bd18d294a281f632e041ccfd4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\modal_ability\dispatch\puma_dispatch.xml</FileName>
-			<FileHash>cf8fe002beebad45fff6e2bad42a4172</FileHash>
+			<FileHash>54fd78170a5beedcb1ea9a9fa207d8bb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\modal_ability\dispatch\stormtroopers.xml</FileName>
 			<FileHash>d854571e14cf9740b5baa499921069d1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\modal_ability\dispatch\stug_iii_e.xml</FileName>
+			<FileHash>99784ff467b2c895f9ba2ed9ffb8d350</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\modal_ability\dispatch\tiger_tank_ace.xml</FileName>
+			<FileHash>effeac6a94e8a71bbce30613b7e73a61</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\german\timed_ability\goliath_self_destruct_mp.xml</FileName>
@@ -438,16 +510,32 @@
 			<FileHash>4920713abcbd55a86b8f0f7bddb8f82a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\modal_ability\dispatch_ability\command_panther.xml</FileName>
+			<FileHash>c635fbefd31dbcf6036d81bb28cbb48c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\modal_ability\dispatch_ability\fallschirmjaeger.xml</FileName>
 			<FileHash>0fa3d7cf796a01529548cdd3b695757b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\modal_ability\dispatch_ability\hetzer_dispatch.xml</FileName>
+			<FileHash>5a2d34d087bb477e2c531592fe184354</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\modal_ability\dispatch_ability\jaeger_light_infantry_recon_dispatch.xml</FileName>
 			<FileHash>d9d998764e5aed8d14c137ede5bbff97</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\modal_ability\dispatch_ability\jagdtiger.xml</FileName>
+			<FileHash>af2c0274e1b350cd78924185ac4c8521</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\modal_ability\dispatch_ability\ostwind_dispatch.xml</FileName>
-			<FileHash>88f31819e464c2c2e3264a5b3884dad6</FileHash>
+			<FileHash>58fda935e8f2b971e3bb74b42a282940</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\modal_ability\dispatch_ability\sturmtiger_dispatch.xml</FileName>
+			<FileHash>3f7055a24cd785c8eb585630e2561cac</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\abilities\west_german\toggle_ability\luchs_hold_fire_mp.xml</FileName>
@@ -475,7 +563,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\aef.xml</FileName>
-			<FileHash>80039333b058e5c673d20a9264570816</FileHash>
+			<FileHash>92b64eb6693ad0bfddfbd3492d048c04</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\british.xml</FileName>
@@ -483,7 +571,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\german.xml</FileName>
-			<FileHash>6166d74bb039248a7bed555e656423c4</FileHash>
+			<FileHash>d1cd9986c17ce54e27974d13f6cc2f3e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\soviet.xml</FileName>
@@ -491,7 +579,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\army\west_german.xml</FileName>
-			<FileHash>597ae178414c5b51f20a34f97a9a78f7</FileHash>
+			<FileHash>683e38ceb213110c0b8de69b0fc5a0fd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\aura\aef_auras\ambulance_healing_aura_high_mp.xml</FileName>
@@ -964,6 +1052,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\german\buildings\base_building\dolch_aktionen_mp.xml</FileName>
 			<FileHash>0d62c172da5fb8dd650b66a553b1a7aa</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\german\buildings\base_building\hintere_panzerwerk_mp.xml</FileName>
+			<FileHash>96c80ebcd4a73b8269b34d77b74c824d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\german\buildings\base_building\schweres_kriegswerk_mp.xml</FileName>
+			<FileHash>90f062f316ca19f3ff2886ea10eac7a6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\ebps\races\german\buildings\defensive_structure\bunker\bunker_mp.xml</FileName>
@@ -1507,7 +1603,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\german\soldiers\pioneer_squad\pioneer_squad_mp.xml</FileName>
-			<FileHash>f6572668b5394cb2daf0ae34406a72cc</FileHash>
+			<FileHash>203026a9210a3649784035bcc8e8c49b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\sbps\races\german\soldiers\stormtrooper_squad\stormtrooper_squad_mp.xml</FileName>
@@ -1848,6 +1944,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\common\tokens\atinf_prioritise.xml</FileName>
 			<FileHash>1cd45a9cdc558a1e58ad937438d9d5c6</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\german\passive\ost_t3_built_mp.xml</FileName>
+			<FileHash>3c08556f5955c721ac73855113bc790c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\german\passive\ost_t4_built_mp.xml</FileName>
+			<FileHash>cd944ea6bfca09f90b6516061754fca0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\instances\upgrade\german\production\panzer_grenadier_build_mp.xml</FileName>
@@ -2231,7 +2335,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\locale\english\english.ucs</FileName>
-			<FileHash>314e7f0a2a9ac05dd20b457a2e6ff252</FileHash>
+			<FileHash>31c56568c4854ef39a22b5c92bc65b87</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\QoL mod\qol_smith Intermediate Cache\Intermediate Files\info\ad6b6439cd614c1ebcc9d9c2c5b984b4.info</FileName>

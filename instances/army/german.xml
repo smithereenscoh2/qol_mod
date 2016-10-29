@@ -127,7 +127,7 @@
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\sector_artillery" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_fragmentation_bomb" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\mortar_halftrack" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\tiger_tank" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\tiger_tank" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\panzer_tactician_unlock" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\pak_43_emplacement_unlock" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\hull_down_unlock" />
@@ -137,7 +137,7 @@
 			<instance_reference name="ability" value="abilities\german\timed_ability\commander_ability\relief_infantry" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\fast_march" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\ambush_camouflage_unlock" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\armor_commander" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\armor_commander" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_close_air_support" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\supply_truck" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_air_recon" />
@@ -147,15 +147,15 @@
 			<instance_reference name="ability" value="abilities\german\always_on_ability\german_hq_pioneer_call_in" />
 			<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_global_cover_training" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\howitzer_105mm_emplacement_unlock" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\elefant_unlock" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\elefant_unlock" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\ostruppen" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\trench_unlock" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\assault_grenadiers" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\air_dropped_medical_supplies" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\stug_iii_e" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\stug_iii_e" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\mechanized_assault_group" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\troop_training" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\tiger_tank_ace" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\tiger_tank_ace" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\defensive_fortifications" />
 			<instance_reference name="ability" value="abilities\german\timed_ability\commander_ability\crush_the_pocket" />
 			<instance_reference name="ability" value="abilities\german\timed_ability\commander_ability\breakthrough" />
@@ -168,7 +168,7 @@
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\mortar_incendiary_barrage" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\supply_break" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\sprint" />
-			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\command_panther" />
+			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\command_panther" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\mechanized_grenadier_group" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_aerial_superiority_close_air_support" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_aerial_superiority_recon" />
@@ -176,7 +176,7 @@
 			<instance_reference name="ability" value="abilities\german\timed_ability\commander_ability\counterattack_tactics" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\ostruppen_reserves" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\puma_dispatch" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\elefant_unlock" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\elefant_unlock" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\assault_grenadiers" />
 		</list>
 		<group name="resource_max_cap">
@@ -393,7 +393,7 @@
 			</group>
 			<group name="starting_building">
 				<string name="key" value="tier3" />
-				<instance_reference name="building" value="ebps\races\german\buildings\base_building\hintere_panzerwerk_mp" />
+				<instance_reference name="building" value="ebps\races\german\buildings\base_building\hintere_panzerwerk_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<list name="starting_squads">
 				</list>
 				<list name="player_upgrades">
@@ -401,7 +401,7 @@
 			</group>
 			<group name="starting_building">
 				<string name="key" value="tier4" />
-				<instance_reference name="building" value="ebps\races\german\buildings\base_building\schweres_kriegswerk_mp" />
+				<instance_reference name="building" value="ebps\races\german\buildings\base_building\schweres_kriegswerk_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<list name="starting_squads">
 				</list>
 				<list name="player_upgrades">
