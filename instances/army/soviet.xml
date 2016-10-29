@@ -131,10 +131,10 @@
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\mark_vehicle" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_sturmovik_attack" />
 			<instance_reference name="ability" value="abilities\soviet\always_on_ability\soviet_hq_engineer_call_in" />
-			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_is2_heavy_tank" />
+			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_is2_heavy_tank" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_120mm_mortar_crew" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_guard_troops" />
-			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_isu-152" />
+			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_isu-152" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_katyusha" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_penal_battalion" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_shock_troops" />
@@ -142,7 +142,7 @@
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_conscript_evasive_tactics" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_t34_85_medium_tank" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_vehicle_crew_repair_training" />
-			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_kv-8_unlock_mp" />
+			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_kv-8_unlock_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_at_gun_ambush_tactics_mp" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_conscript_assault_package" />
 			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_ml_20" />
@@ -156,8 +156,8 @@
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\forward_hq" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\booby_trap" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\m-42_at_gun" />
-			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_kv-1_unlock" />
-			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\kv-2" />
+			<instance_reference name="ability" value="abilities\soviet\timed_ability\throw_away_hack_ui\cmd_kv-1_unlock" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\kv-2" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\passive_ability\soviet_industry" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\passive_ability\repair_station" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\passive_ability\tank_traps" />
@@ -174,8 +174,8 @@
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_anti_tank_bomb_strike" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\dshk_mp" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_sturmovik_attack_advanced" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
-			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\sherman_soviet_dispatch" />
-			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\m5_halftrack_assault" />
+			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\sherman_soviet_dispatch" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
+			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\m5_halftrack_assault" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 		</list>
 		<group name="resource_max_cap">
 			<template_reference name="resource" value="tables\resource_table">
@@ -398,7 +398,7 @@
 			</group>
 			<group name="starting_building">
 				<string name="key" value="tier1" />
-				<instance_reference name="building" value="ebps\races\soviet\buildings\base_building\barracks_mp" />
+				<instance_reference name="building" value="ebps\races\soviet\buildings\base_building\barracks_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<list name="starting_squads">
 				</list>
 				<list name="player_upgrades">
@@ -406,7 +406,7 @@
 			</group>
 			<group name="starting_building">
 				<string name="key" value="tier2" />
-				<instance_reference name="building" value="ebps\races\soviet\buildings\base_building\weapon_support_center_mp" />
+				<instance_reference name="building" value="ebps\races\soviet\buildings\base_building\weapon_support_center_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<list name="starting_squads">
 				</list>
 				<list name="player_upgrades">
@@ -414,7 +414,7 @@
 			</group>
 			<group name="starting_building">
 				<string name="key" value="tier3" />
-				<instance_reference name="building" value="ebps\races\soviet\buildings\base_building\motorpool_mp" />
+				<instance_reference name="building" value="ebps\races\soviet\buildings\base_building\motorpool_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<list name="starting_squads">
 				</list>
 				<list name="player_upgrades">
@@ -422,7 +422,7 @@
 			</group>
 			<group name="starting_building">
 				<string name="key" value="tier4" />
-				<instance_reference name="building" value="ebps\races\soviet\buildings\base_building\tank_depot_mp" />
+				<instance_reference name="building" value="ebps\races\soviet\buildings\base_building\tank_depot_mp" mod="ad6b6439cd614c1ebcc9d9c2c5b984b4" />
 				<list name="starting_squads">
 				</list>
 				<list name="player_upgrades">
